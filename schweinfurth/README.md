@@ -2,25 +2,31 @@
 
 <param ve-config 
        title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       author="BGBM team"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
+<param ve-entity eid="Q63126"> <!-- Georg August Schweinfurth -->
+<param ve-entity eid="Q163255"> <!-- Botanischen Garten und Botanischen Museum Berlin-Dahlem -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-# Sample visual essay
+# Person
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
+Georg Schweinfurth, 1836–1925, sah sich in erster Linie als Botaniker und Pflanzengeograf, forschte und publizierte aber auch ausgiebig in Geografie, Ethnologie, Anthropologie und Ägyptologie. Dabei hielt er seine scharfen und umsichtigen Beobachtungen nicht nur in klaren, anschaulichen Texten fest.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       label="Georg Schweinfurth" 
+       description="Georg August Schweinfurth (1836-1925) From: H.F. Helmolt (ed.): History of the World. New York, 1901." 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-# Basic usage
+# Sammlung botanischer Zeichnungen
+
+Schweinfurth vermochte auch als hervorragender Zeichner die Forschungsobjekte seiner ungewöhnlich breiten wissenschaftlichen Betätigung ebenso ansprechend wie instruktiv abzubilden. Schon zu Lebzeiten überließ Schweinfurth dem Botanischen Garten und Botanischen Museum Berlin-Dahlem seine in vier Foliobänden gebundene Sammlung botanischer Zeichnungen. Während des 2. Weltkrieges wurden diese zusammen mit kostbaren alten Abbildungswerken der Bibliothek und besonders wertvollen Teilen des Herbars in Stollen der Kali-Werke Bleicherode-Ost bei Nordhausen ausgelagert und überstanden so die Vernichtung von Herbar und Bibliothek durch Bombentreffer im März 1943. Allerdings erlitt ein Teil der ausgelagerten Bücherkisten, darunter auch die mit Schweinfurths Zeichnungen, im Depot starke Wasserschäden mit anschließendem Pilzbefall [Pilger 1953: 29](https://www.bgbm.org/sites/default/files/documents/3995179.pdf). Zum Trocknen und Reinigen wurden die Zeichnungen aus den Foliobänden gelöst und, soweit nicht komplett zerstört, seither als Einzelblätter aufbewahrt.
+Im Rahmen eines vom „Fördererkreis der naturwissenschaftlichen Museen Berlins e.V.“ finanzierten Projektes wurden die 624 erhaltenen Blätter, viele davon in fragilem Zustand, inventarisiert, digitalisiert, wissenschaftlich bearbeitet und hier zugänglich gemacht.
 
 ## Image
 
