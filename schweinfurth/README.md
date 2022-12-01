@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
+       title="Georg August Schweinfurth"
        author="BGBM team"
        banner="https://www.bgbm.org/sites/default/files/images/B_SZ_0000345.jpg" 
        layout="vertical">
@@ -13,7 +13,8 @@
 <param ve-entity eid="Q163255"> <!-- Botanischen Garten und Botanischen Museum Berlin-Dahlem -->
 <param ve-entity eid="Q15"> <!-- Afrika -->
 <param ve-entity eid="Q2860218"> <!-- Socotra Archipelago -->
-
+<param title="Georg Schweinfurth" eid="Q63126" aliases="Schweinfurth">
+<param title="Socotra Archipelago" eid="Q2860218" aliases="Sokotra-Archipel">
 # Person
 
 Georg Schweinfurth, 1836–1925, sah sich in erster Linie als Botaniker und Pflanzengeograf, forschte und publizierte aber auch ausgiebig in Geografie, Ethnologie, Anthropologie und Ägyptologie. Dabei hielt er seine scharfen und umsichtigen Beobachtungen nicht nur in klaren, anschaulichen Texten fest.
@@ -27,7 +28,7 @@ Georg Schweinfurth, 1836–1925, sah sich in erster Linie als Botaniker und Pfla
 
 Von Georg Schweinfuhrt befinden sich auch zahlreiche handgeschriebene Schriftstücke in der Autographen Sammlung des BGBM
 <param ve-image 
-       manifest="https://iiif.bgbm.org/manifests/autographen/v3/813-collection.json">
+       manifest="https://iiif.bgbm.org/manifests/autographen/v3/A1147.json">
 
 # Sammlung botanischer Zeichnungen
 
@@ -48,7 +49,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 ## Forschungsreisen
 
 Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, andere in öffentlichen oder privaten Gärten, seltener in Herbarien oder zu Hause entstanden. Das von ihm lang ersehnte Afrika betrat Schweinfurth erstmals im Dezember 1863, kurz vor seinem 27. Geburtstag, im ägyptischen Alexandria. Ein halbes Jahrhundert lang, von 1864 bis 1914, unternahm er von da an zahlreiche Forschungsreisen im Nordosten des Kontinentes, in Ägypten und im Sudan, in Eritrea, dem Südsudan und nordöstlichen Kongo. Weitere Reisen führten ihn nach Algerien und Tunesien, in den Libanon, in den Jemen und auf den Sokotra-Archipel vor der Ostspitze Afrikas. Schweinfurth gründete nie eine eigene Familie und zog, durch ein regelmäßiges Einkommen aus der Familienstiftung in Riga finanziell versorgt, ein Leben als Privatgelehrter einer Universitätskarriere vor. Derart ungebunden konnte er nicht nur von 1873 bis 1888 seinen festen Wohnsitz in Kairo nehmen, sondern auch bis zum Ausbruch des ersten Weltkrieges regelmäßig im Winterhalbjahr von Kairo aus die Region bereisen, „um dann bei zunehmender Wärme allmählich über Kairo, Italien, Frankreich und Belgien nach Norden zu ziehen, wobei er überall seine zahllosen Bekannten und Freunde traf. Nur den Hochsommer brachte er in Berlin zu, von wo aus er seine Heimatstadt Riga besuchte, worauf im Herbst mit den Zugvögeln eine entsprechende Rückreise erfolgte.“ (Stromer 1926).
-<param ve-map center="Q15" zoom="11" prefer-geojson>
+<param ve-map center="Q15" zoom="1" prefer-geojson>
 
 ## Zeittafel
 
