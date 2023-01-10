@@ -34,7 +34,11 @@ Von Georg Schweinfuhrt befinden sich auch zahlreiche handgeschriebene Schriftst�
 
 Schweinfurth vermochte auch als hervorragender Zeichner die Forschungsobjekte seiner ungewöhnlich breiten wissenschaftlichen Betätigung ebenso ansprechend wie instruktiv abzubilden. Schon zu Lebzeiten überließ Schweinfurth dem Botanischen Garten und Botanischen Museum Berlin-Dahlem seine in vier Foliobänden gebundene Sammlung botanischer Zeichnungen. Während des 2. Weltkrieges wurden diese zusammen mit kostbaren alten Abbildungswerken der Bibliothek und besonders wertvollen Teilen des Herbars in Stollen der Kali-Werke Bleicherode-Ost bei Nordhausen ausgelagert und überstanden so die Vernichtung von Herbar und Bibliothek durch Bombentreffer im März 1943. Allerdings erlitt ein Teil der ausgelagerten Bücherkisten, darunter auch die mit Schweinfurths Zeichnungen, im Depot starke Wasserschäden mit anschließendem Pilzbefall [Pilger 1953: 29](https://www.bgbm.org/sites/default/files/documents/3995179.pdf). Zum Trocknen und Reinigen wurden die Zeichnungen aus den Foliobänden gelöst und, soweit nicht komplett zerstört, seither als Einzelblätter aufbewahrt.
 Im Rahmen eines vom „Fördererkreis der naturwissenschaftlichen Museen Berlins e.V.“ finanzierten Projektes wurden die 624 erhaltenen Blätter, viele davon in fragilem Zustand, inventarisiert, digitalisiert, wissenschaftlich bearbeitet und hier zugänglich gemacht.
-
+<param ve-image 
+       label="Schweinfurth Zeichnungen" 
+       description="painting by Georg August Schweinfurth" 
+       license="CC-by" 
+       manifest="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/Schweinfurth-10.json">
 ## Zeichnungen
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
