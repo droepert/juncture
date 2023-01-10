@@ -47,9 +47,20 @@ Im Rahmen eines vom „Fördererkreis der naturwissenschaftlichen Museen Berlins
 Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, andere in öffentlichen oder privaten Gärten, seltener in Herbarien oder zu Hause entstanden. Das von ihm lang ersehnte Afrika betrat Schweinfurth erstmals im Dezember 1863, kurz vor seinem 27. Geburtstag, im ägyptischen Alexandria. Ein halbes Jahrhundert lang, von 1864 bis 1914, unternahm er von da an zahlreiche Forschungsreisen im Nordosten des Kontinentes, in Ägypten und im Sudan, in Eritrea, dem Südsudan und nordöstlichen Kongo. Weitere Reisen führten ihn nach Algerien und Tunesien, in den Libanon, in den Jemen und auf den Sokotra-Archipel vor der Ostspitze Afrikas. Schweinfurth gründete nie eine eigene Familie und zog, durch ein regelmäßiges Einkommen aus der Familienstiftung in Riga finanziell versorgt, ein Leben als Privatgelehrter einer Universitätskarriere vor. Derart ungebunden konnte er nicht nur von 1873 bis 1888 seinen festen Wohnsitz in Kairo nehmen, sondern auch bis zum Ausbruch des ersten Weltkrieges regelmäßig im Winterhalbjahr von Kairo aus die Region bereisen, „um dann bei zunehmender Wärme allmählich über Kairo, Italien, Frankreich und Belgien nach Norden zu ziehen, wobei er überall seine zahllosen Bekannten und Freunde traf. Nur den Hochsommer brachte er in Berlin zu, von wo aus er seine Heimatstadt Riga besuchte, worauf im Herbst mit den Zugvögeln eine entsprechende Rückreise erfolgte.“ (Stromer 1926).
 
 ## Georg Schweinfurth: Übersicht der Forschungsreisen 
+
 1. 	Ägyptische und sudanesische Küste des Roten Meeres: Kosseir bis Suakin und Küstengebirge, Arabische Wüste: 1864, 1865–1866, 1868, 1876, 1880
 <param ve-entity eid="Q79">
-<param ve-map center="Q79" zoom="10" prefer-geojson>
+<param ve-map center="Q79" zoom="3" prefer-geojson>
+2. 	Nildelta, ägyptische Mittelmeerküste und Cyrenaika: 1864, 1883, 1887, 1890
+3. 	Ägypten, Libysche Wüste: Oasen El-Chargeh: 1874; Faiyum: 1879, 1887
+4. 	Oberägypten: Assiut bis Assuan: 1882, 1893, 1901–1902, 1909
+5. 	Sudan: Gallabat, Gedaref, Khartum: 1865–1866, 1868–1869, 1871
+6. 	Südsudan: Stromgebiet des Bahr-el-Ghasal, Land der Djur, Land der Bongo und Land der Niamniam: 1869, 1870, 1871; Kongo: Munsa: 1870
+7. 	Eritrea: Keren, Ghinda, Gheleb, Saati, Akrur, Saganeiti: 1891, 1892, 1894
+8. 	Jemen: Aden bis El-Hami, Menacha, Walledje, Uossil: 1881, 1888–1889
+9. 	Jemen, Sokotra: 1881
+10. 	Libanon: Libanon-Gebirge und Bekaa-Ebene: 1880
+11. 	Algerien: Algier, Biskra, Bona, La Calle: 1900–1901, 1906, 1907–1908, 1909–1910 und Tunesien: Tunis, Gafsa: 1901, 1906	
 
 <param ve-map center="Q15" zoom="1" prefer-geojson>
 
