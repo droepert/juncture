@@ -41,20 +41,16 @@ Im Rahmen eines vom „Fördererkreis der naturwissenschaftlichen Museen Berlins
        description="painting by Georg August Schweinfurth" 
        license="CC-by" 
        manifest="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/Schweinfurth-10.json">
-## Zeichnungen
-
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
-<param ve-image 
-       label="Schweinfurth Zeichnungen" 
-       description="painting by Georg August Schweinfurth" 
-       license="CC-by" 
-       manifest="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/Schweinfurth-10.json">
 
 ## Forschungsreisen
 
 Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, andere in öffentlichen oder privaten Gärten, seltener in Herbarien oder zu Hause entstanden. Das von ihm lang ersehnte Afrika betrat Schweinfurth erstmals im Dezember 1863, kurz vor seinem 27. Geburtstag, im ägyptischen Alexandria. Ein halbes Jahrhundert lang, von 1864 bis 1914, unternahm er von da an zahlreiche Forschungsreisen im Nordosten des Kontinentes, in Ägypten und im Sudan, in Eritrea, dem Südsudan und nordöstlichen Kongo. Weitere Reisen führten ihn nach Algerien und Tunesien, in den Libanon, in den Jemen und auf den Sokotra-Archipel vor der Ostspitze Afrikas. Schweinfurth gründete nie eine eigene Familie und zog, durch ein regelmäßiges Einkommen aus der Familienstiftung in Riga finanziell versorgt, ein Leben als Privatgelehrter einer Universitätskarriere vor. Derart ungebunden konnte er nicht nur von 1873 bis 1888 seinen festen Wohnsitz in Kairo nehmen, sondern auch bis zum Ausbruch des ersten Weltkrieges regelmäßig im Winterhalbjahr von Kairo aus die Region bereisen, „um dann bei zunehmender Wärme allmählich über Kairo, Italien, Frankreich und Belgien nach Norden zu ziehen, wobei er überall seine zahllosen Bekannten und Freunde traf. Nur den Hochsommer brachte er in Berlin zu, von wo aus er seine Heimatstadt Riga besuchte, worauf im Herbst mit den Zugvögeln eine entsprechende Rückreise erfolgte.“ (Stromer 1926).
+
+## Georg Schweinfurth: Übersicht der Forschungsreisen 
+1. 	Ägyptische und sudanesische Küste des Roten Meeres: Kosseir bis Suakin und Küstengebirge, Arabische Wüste: 1864, 1865–1866, 1868, 1876, 1880
+<param ve-entity eid="Q23406">
+<param ve-map center="Q23406" zoom="10" prefer-geojson>
+
 <param ve-map center="Q15" zoom="1" prefer-geojson>
 
 ## Zeittafel
@@ -67,4 +63,4 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [Wikipedia: Georg August Schweinfurth](https://www.wikidata.org/wiki/Q63126)
