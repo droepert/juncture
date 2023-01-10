@@ -44,7 +44,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Schweinfurth Zeichnungen" 
        description="painting by Georg August Schweinfurth" 
        license="CC-by" 
-       manifest="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/Schweinfurth-all.json">
+       manifest="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/Schweinfurth-10.json">
 
 ## Forschungsreisen
 
