@@ -3,7 +3,7 @@
 <param ve-config 
        title="Georg August Schweinfurth"
        author="BGBM team"
-       banner="https://www.bgbm.org/sites/default/files/images/B_SZ_0000345.jpg" 
+       banner="https://pictures.bgbm.org/iiif/2/B!SZ!00!00!34!B_SZ_0000345.jpg/full/full/0/default.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
