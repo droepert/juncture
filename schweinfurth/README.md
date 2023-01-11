@@ -49,18 +49,37 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 ## Georg Schweinfurth: Übersicht der Forschungsreisen 
 
 1. 	Ägyptische und sudanesische Küste des Roten Meeres: Kosseir bis Suakin und Küstengebirge, Arabische Wüste: 1864, 1865–1866, 1868, 1876, 1880
-<param ve-map url="geojson/map1.geojson">
+<param ve-map url="/geojson/map1.geojson">
 
 2. 	Nildelta, ägyptische Mittelmeerküste und Cyrenaika: 1864, 1883, 1887, 1890
+<param ve-map url="/geojson/map2.geojson">
+
 3. 	Ägypten, Libysche Wüste: Oasen El-Chargeh: 1874; Faiyum: 1879, 1887
+<param ve-map url="/geojson/map3.geojson">
+
 4. 	Oberägypten: Assiut bis Assuan: 1882, 1893, 1901–1902, 1909
+<param ve-map url="/geojson/map4.geojson">
+
 5. 	Sudan: Gallabat, Gedaref, Khartum: 1865–1866, 1868–1869, 1871
+<param ve-map url="/geojson/map5.geojson">
+
 6. 	Südsudan: Stromgebiet des Bahr-el-Ghasal, Land der Djur, Land der Bongo und Land der Niamniam: 1869, 1870, 1871; Kongo: Munsa: 1870
+<param ve-map url="/geojson/map6.geojson">
+
 7. 	Eritrea: Keren, Ghinda, Gheleb, Saati, Akrur, Saganeiti: 1891, 1892, 1894
+<param ve-map url="/geojson/map7.geojson">
+
 8. 	Jemen: Aden bis El-Hami, Menacha, Walledje, Uossil: 1881, 1888–1889
+<param ve-map url="/geojson/map8.geojson">
+
 9. 	Jemen, Sokotra: 1881
+<param ve-map url="/geojson/map9.geojson">
+
 10.    Libanon: Libanon-Gebirge und Bekaa-Ebene: 1880
+<param ve-map url="/geojson/map10.geojson">
+
 11.    Algerien: Algier, Biskra, Bona, La Calle: 1900–1901, 1906, 1907–1908, 1909–1910 und Tunesien: Tunis, Gafsa: 1901, 1906	
+<param ve-map url="/geojson/map11.geojson">
 
 ## Zeittafel
 
