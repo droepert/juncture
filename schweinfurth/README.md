@@ -51,8 +51,6 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 ## Georg Schweinfurth: Übersicht der Forschungsreisen 
 
 1. 	Ägyptische und sudanesische Küste des Roten Meeres: Kosseir bis Suakin und Küstengebirge, Arabische Wüste: 1864, 1865–1866, 1868, 1876, 1880
-<param ve-map title="Ägyptische und sudanesische Küste" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map1.geojson">
 
 2. 	Nildelta, ägyptische Mittelmeerküste und Cyrenaika: 1864, 1883, 1887, 1890>
 
@@ -73,8 +71,6 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 10.    Libanon: Libanon-Gebirge und Bekaa-Ebene: 1880
 
 11.    Algerien: Algier, Biskra, Bona, La Calle: 1900–1901, 1906, 1907–1908, 1909–1910 und Tunesien: Tunis, Gafsa: 1901, 1906	
-<param ve-map title="Ägyptische und sudanesische Küste" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map1.geojson">
 
 ## Zeittafel
 
