@@ -107,4 +107,27 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 ### References
 
+Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
+Others are selectable using icons displayed in the top right margin of the paragraph.
+<param ve-map 
+       zoom="2"
+       time-dimension
+       time-interval="-008000/"
+       duration="P10000Y"
+       basemap="Esri_WorldGrayCanvas"
+       max-zoom="4"
+       date-format="YYYY-MM-DD"
+       auto-play="true"
+       auto-fit="false"
+       fps="4"
+       marker-type="circle"
+       radius="4" 
+       stroke-width="0"
+       fill="blue" 
+       fill-opacity="1">
+<param ve-map-layer geojson
+       title="Worlds most populated cities"
+       url="map-time.json">
+
+
 [^1]: [Wikipedia: Georg August Schweinfurth](https://www.wikidata.org/wiki/Q63126)
