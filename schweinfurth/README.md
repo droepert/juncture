@@ -54,7 +54,7 @@ Von Georg Schweinfuhrt befinden sich auch zahlreiche handgeschriebene SchriftstÃ
        description="written letters by Georg August Schweinfurth"
        fit="contain"
        manifest="https://iiif.bgbm.org/manifests/autographen/A1150.json">
-<param ve-iframe src="https://iiif.bgbm.org/manifests/autographen/813-collection.json">
+<param ve-iframe src="https://iiif.bgbm.org/index2.html">
 {#paragraph2}
 
 ### Sammlung botanischer Zeichnungen
