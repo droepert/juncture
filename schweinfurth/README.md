@@ -57,40 +57,31 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 <param ve-map title="Ägyptische Mittelmeerküste" center="30.9419, 29.6403" zoom="6" url="/geojson/map2.geojson">
 
 3. 	Ägypten, Libysche Wüste: Oasen El-Chargeh: 1874; Faiyum: 1879, 1887
-<param ve-map title="Libysche Wüste" center="27.7439, 30.7464" zoom="6">
-<param ve-map-layer geojson active title="Libysche Wüste" url="/geojson/map3.geojson">
+<param ve-map title="Libysche Wüste" center="27.7439, 30.7464" zoom="6" url="/geojson/map3.geojson">
 
 4. 	Oberägypten: Assiut bis Assuan: 1882, 1893, 1901–1902, 1909
-<param ve-map title="Assiut bis Assuan" center="25.9631, 32.4636" zoom="6">
-<param ve-map-layer geojson active title="Assiut bis Assuane" url="/geojson/map4.geojson">
+<param ve-map title="Assiut bis Assuan" center="25.9631, 32.4636" zoom="6" url="/geojson/map4.geojson">
 
 5. 	Sudan: Gallabat, Gedaref, Khartum: 1865–1866, 1868–1869, 1871
-<param ve-map title="Sudan" center="14.7789, 34.6729" zoom="6">
-<param ve-map-layer geojson active title="Sudan" url="/geojson/map5.geojson">
+<param ve-map title="Sudan" center="14.7789, 34.6729" zoom="6" url="/geojson/map5.geojson">
 
 6. 	Südsudan: Stromgebiet des Bahr-el-Ghasal, Land der Djur, Land der Bongo und Land der Niamniam: 1869, 1870, 1871; Kongo: Munsa: 1870
-<param ve-map title="Südsudan" center="7.4033, 30.4781" zoom="6">
-<param ve-map-layer geojson active title="Südsudan" url="/geojson/map6.geojson">
+<param ve-map title="Südsudan" center="7.4033, 30.4781" zoom="6" url="/geojson/map6.geojson">
 
 7. 	Eritrea: Keren, Ghinda, Gheleb, Saati, Akrur, Saganeiti: 1891, 1892, 1894
-<param ve-map title="Eritrea" center="15.7053, 38.8734" zoom="6">
-<param ve-map-layer geojson active title="Eritrea" url="/geojson/map7.geojson">
+<param ve-map title="Eritrea" center="15.7053, 38.8734" zoom="6" url="/geojson/map7.geojson">
 
 8. 	Jemen: Aden bis El-Hami, Menacha, Walledje, Uossil: 1881, 1888–1889
-<param ve-map title="Jemen" center="13.6484, 45.3295" zoom="6">
-<param ve-map-layer geojson active title="Jemen" url="/geojson/map8.geojson">
+<param ve-map title="Jemen" center="13.6484, 45.3295" zoom="6" url="/geojson/map8.geojson">
 
 9. 	Jemen, Sokotra: 1881
-<param ve-map title="Sokotra" center="12.4903, 53.8141" zoom="6">
-<param ve-map-layer geojson active title="Sokotra" url="/geojson/map9.geojson">
+<param ve-map title="Sokotra" center="12.4903, 53.8141" zoom="6" url="/geojson/map9.geojson">
 
 10.    Libanon: Libanon-Gebirge und Bekaa-Ebene: 1880
-<param ve-map title="Libanon" center="33.8211, 35.8179" zoom="6">
-<param ve-map-layer geojson active title="Libanon" url="/geojson/map10.geojson">
+<param ve-map title="Libanon" center="33.8211, 35.8179" zoom="6" url="/geojson/map10.geojson">
 
 11.    Algerien: Algier, Biskra, Bona, La Calle: 1900–1901, 1906, 1907–1908, 1909–1910 und Tunesien: Tunis, Gafsa: 1901, 1906	
-<param ve-map title="Algerien" center="36.0851, 7.0135" zoom="6">
-<param ve-map-layer geojson active title="Algerien" url="/geojson/map11.geojson">
+<param ve-map title="Algerien" center="36.0851, 7.0135" zoom="6" url="/geojson/map11.geojson">
 
 ## Zeittafel
 
