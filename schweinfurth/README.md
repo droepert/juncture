@@ -29,32 +29,7 @@ Georg Schweinfurth, 1836–1925, sah sich in erster Linie als Botaniker und Pfla
 ### Autographen
 
 Von Georg Schweinfuhrt befinden sich auch zahlreiche handgeschriebene Schriftstücke in der Autographen Sammlung des BGBM
-<param ve-image 
-       label="Schweinfurth Autographen"
-       description="written letters by Georg August Schweinfurth"
-       fit="contain"
-       manifest="https://iiif.bgbm.org/manifests/autographen/A1146.json">
-<param ve-image 
-       label="Schweinfurth Autographen"
-       description="written letters by Georg August Schweinfurth"
-       fit="contain"
-       manifest="https://iiif.bgbm.org/manifests/autographen/A1147.json">
-<param ve-image 
-       label="Schweinfurth Autographen"
-       description="written letters by Georg August Schweinfurth"
-       fit="contain"
-       manifest="https://iiif.bgbm.org/manifests/autographen/A1148.json">
-<param ve-image 
-       label="Schweinfurth Autographen"
-       description="written letters by Georg August Schweinfurth"
-       fit="contain"
-       manifest="https://iiif.bgbm.org/manifests/autographen/A1149.json">
-<param ve-image 
-       label="Schweinfurth Autographen"
-       description="written letters by Georg August Schweinfurth"
-       fit="contain"
-       manifest="https://iiif.bgbm.org/manifests/autographen/A1150.json">
-<param ve-iframe src="https://iiif.bgbm.org/index2.html">
+<param ve-iframe src="https://projectmirador.org/embed/?iiif-content=https://iiif.bgbm.org/manifests/autographen/813-collection.json">
 {#paragraph2}
 
 ### Sammlung botanischer Zeichnungen
