@@ -33,7 +33,27 @@ Von Georg Schweinfuhrt befinden sich auch zahlreiche handgeschriebene Schriftst�
        label="Schweinfurth Autographen"
        description="written letters by Georg August Schweinfurth"
        fit="contain"
-       url="https://iiif.bgbm.org/manifests/autographen/A1148.json">
+       manifest="https://iiif.bgbm.org/manifests/autographen/A1146.json">
+<param ve-image 
+       label="Schweinfurth Autographen"
+       description="written letters by Georg August Schweinfurth"
+       fit="contain"
+       manifest="https://iiif.bgbm.org/manifests/autographen/A1147.json">
+<param ve-image 
+       label="Schweinfurth Autographen"
+       description="written letters by Georg August Schweinfurth"
+       fit="contain"
+       manifest="https://iiif.bgbm.org/manifests/autographen/A1148.json">
+<param ve-image 
+       label="Schweinfurth Autographen"
+       description="written letters by Georg August Schweinfurth"
+       fit="contain"
+       manifest="https://iiif.bgbm.org/manifests/autographen/A1149.json">
+<param ve-image 
+       label="Schweinfurth Autographen"
+       description="written letters by Georg August Schweinfurth"
+       fit="contain"
+       manifest="https://iiif.bgbm.org/manifests/autographen/A1150.json">
 {#paragraph2}
 
 ### Sammlung botanischer Zeichnungen
@@ -45,7 +65,31 @@ Im Rahmen eines vom „Fördererkreis der naturwissenschaftlichen Museen Berlins
        description="painting by Georg August Schweinfurth" 
        license="CC-by" 
        fit="contain"
-       url="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/Schweinfurth-10.json">
+       manifest="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/B_SZ_0000001.json">
+<param ve-image 
+       label="Schweinfurth Zeichnungen" 
+       description="painting by Georg August Schweinfurth" 
+       license="CC-by" 
+       fit="contain"
+       manifest="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/B_SZ_0000002.json">
+<param ve-image 
+       label="Schweinfurth Zeichnungen" 
+       description="painting by Georg August Schweinfurth" 
+       license="CC-by" 
+       fit="contain"
+       manifest="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/B_SZ_0000003.json">
+<param ve-image 
+       label="Schweinfurth Zeichnungen" 
+       description="painting by Georg August Schweinfurth" 
+       license="CC-by" 
+       fit="contain"
+       manifest="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/B_SZ_0000004.json">
+<param ve-image 
+       label="Schweinfurth Zeichnungen" 
+       description="painting by Georg August Schweinfurth" 
+       license="CC-by" 
+       fit="contain"
+       manifest="https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/B_SZ_0000005.json">
 {#paragraph3}
 
 ### Forschungsreisen
