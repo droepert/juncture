@@ -44,193 +44,50 @@ Im Rahmen eines vom „Fördererkreis der naturwissenschaftlichen Museen Berlins
 Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, andere in öffentlichen oder privaten Gärten, seltener in Herbarien oder zu Hause entstanden. Das von ihm lang ersehnte Afrika betrat Schweinfurth erstmals im Dezember 1863, kurz vor seinem 27. Geburtstag, im ägyptischen Alexandria. Ein halbes Jahrhundert lang, von 1864 bis 1914, unternahm er von da an zahlreiche Forschungsreisen im Nordosten des Kontinentes, in Ägypten und im Sudan, in Eritrea, dem Südsudan und nordöstlichen Kongo. Weitere Reisen führten ihn nach Algerien und Tunesien, in den Libanon, in den Jemen und auf den Sokotra-Archipel vor der Ostspitze Afrikas. Schweinfurth gründete nie eine eigene Familie und zog, durch ein regelmäßiges Einkommen aus der Familienstiftung in Riga finanziell versorgt, ein Leben als Privatgelehrter einer Universitätskarriere vor. Derart ungebunden konnte er nicht nur von 1873 bis 1888 seinen festen Wohnsitz in Kairo nehmen, sondern auch bis zum Ausbruch des ersten Weltkrieges regelmäßig im Winterhalbjahr von Kairo aus die Region bereisen, „um dann bei zunehmender Wärme allmählich über Kairo, Italien, Frankreich und Belgien nach Norden zu ziehen, wobei er überall seine zahllosen Bekannten und Freunde traf. Nur den Hochsommer brachte er in Berlin zu, von wo aus er seine Heimatstadt Riga besuchte, worauf im Herbst mit den Zugvögeln eine entsprechende Rückreise erfolgte.“ (Stromer 1926).
 <param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
 <param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson passive title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
+<param ve-map-layer geojson title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
+<param ve-map-layer geojson title="Ägyptische Mittelmeerküste" url="map2.json">
+<param ve-map-layer geojson title="Libysche Wüste" url="map3.json">
+<param ve-map-layer geojson title="Assiut bis Assuan" url="map4.json">
+<param ve-map-layer geojson title="Sudan" url="map5.json">
+<param ve-map-layer geojson title="Südsudan" url="map6.json">
+<param ve-map-layer geojson title="Eritrea" url="map7.json">
+<param ve-map-layer geojson title="Jemen" url="map8.json">
+<param ve-map-layer geojson title="Sokotra" url="map9.json">
+<param ve-map-layer geojson title="Libanon" url="map10.json">
+<param ve-map-layer geojson title="Algerien" url="map11.json">
 {#paragraph4}
 
 1. 	Ägyptische und sudanesische Küste des Roten Meeres: Kosseir bis Suakin und Küstengebirge, Arabische Wüste: 1864, 1865–1866, 1868, 1876, 1880
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson active title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson passive title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
 {#paragraph5}
 
 2. 	Nildelta, ägyptische Mittelmeerküste und Cyrenaika: 1864, 1883, 1887, 1890>
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson active title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson passive title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
 {#paragraph6}
 
 3. 	Ägypten, Libysche Wüste: Oasen El-Chargeh: 1874; Faiyum: 1879, 1887
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson active title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson passive title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
 {#paragraph7}
 
 4. 	Oberägypten: Assiut bis Assuan: 1882, 1893, 1901–1902, 1909
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson active title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson passive title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
 {#paragraph8}
 
 5. 	Sudan: Gallabat, Gedaref, Khartum: 1865–1866, 1868–1869, 1871
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson active title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
 {#paragraph9}
 
 6. 	Südsudan: Stromgebiet des Bahr-el-Ghasal, Land der Djur, Land der Bongo und Land der Niamniam: 1869, 1870, 1871; Kongo: Munsa: 1870
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson active title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
 {#paragraph10}
 
 7. 	Eritrea: Keren, Ghinda, Gheleb, Saati, Akrur, Saganeiti: 1891, 1892, 1894
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson passive title="Südsudan" url="map6.json">
-<param ve-map-layer geojson active title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
 {#paragraph11}
 
 8. 	Jemen: Aden bis El-Hami, Menacha, Walledje, Uossil: 1881, 1888–1889
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson passive title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson active title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
 {#paragraph12}
 
 9. 	Jemen, Sokotra: 1881
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson passive title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson active title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
 {#paragraph13}
 
 10.    Libanon: Libanon-Gebirge und Bekaa-Ebene: 1880
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson passive title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson active title="Libanon" url="map10.json">
-<param ve-map-layer geojson passive title="Algerien" url="map11.json">
 {#paragraph14}
 
 11.    Algerien: Algier, Biskra, Bona, La Calle: 1900–1901, 1906, 1907–1908, 1909–1910 und Tunesien: Tunis, Gafsa: 1901, 1906	
-<param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
-<param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson passive title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson passive title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson passive title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson passive title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson passive title="Sudan" url="map5.json">
-<param ve-map-layer geojson passive title="Südsudan" url="map6.json">
-<param ve-map-layer geojson passive title="Eritrea" url="map7.json">
-<param ve-map-layer geojson passive title="Jemen" url="map8.json">
-<param ve-map-layer geojson passive title="Sokotra" url="map9.json">
-<param ve-map-layer geojson passive title="Libanon" url="map10.json">
-<param ve-map-layer geojson active title="Algerien" url="map11.json">
 {#paragraph15}
 
 ### Zeittafel
