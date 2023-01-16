@@ -77,7 +77,7 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-knightlab-timeline source="/schweinfurth/timeline-schweinfurth.csv">
+<param ve-knightlab-timeline source="https://github.com/droepert/juncture/blob/9cf30766ba038da9817ec9f66c7871aa14702b54/schweinfurth/timeline-schweinfurth.csv">
 
 # References
 
