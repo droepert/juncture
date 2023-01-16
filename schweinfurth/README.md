@@ -49,16 +49,16 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 <param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.geojson">
 
 1. 	Ägyptische und sudanesische Küste des Roten Meeres: Kosseir bis Suakin und Küstengebirge, Arabische Wüste: 1864, 1865–1866, 1868, 1876, 1880
-<param ve-map geojson active title="Ägyptische und sudanesische Küste des Roten Meeres" center="26.4381, 33.8436" zoom="6" url="/geojson/map1.geojson">
+<param ve-map-layer geojson active title="Ägyptische und sudanesische Küste des Roten Meeres" center="26.4381, 33.8436" zoom="6" url="/geojson/map1.geojson">
 
 2. 	Nildelta, ägyptische Mittelmeerküste und Cyrenaika: 1864, 1883, 1887, 1890>
-<param ve-map geojson active title="Ägyptische Mittelmeerküste" center="30.9419, 29.6403" zoom="6" url="/geojson/map2.geojson">
+<param ve-map-layer geojson active title="Ägyptische Mittelmeerküste" center="30.9419, 29.6403" zoom="6" url="/geojson/map2.geojson">
 
 3. 	Ägypten, Libysche Wüste: Oasen El-Chargeh: 1874; Faiyum: 1879, 1887
-<param ve-map geojson active title="Libysche Wüste" center="27.7439, 30.7464" zoom="6" url="/geojson/map3.geojson">
+<param ve-map-layer geojson active title="Libysche Wüste" center="27.7439, 30.7464" zoom="6" url="/geojson/map3.geojson">
 
 4. 	Oberägypten: Assiut bis Assuan: 1882, 1893, 1901–1902, 1909
-<param ve-map title="Assiut bis Assuan" center="25.9631, 32.4636" zoom="6" url="/geojson/map4.geojson">
+<param ve-map-layer title="Assiut bis Assuan" center="25.9631, 32.4636" zoom="6" url="/geojson/map4.geojson">
 
 5. 	Sudan: Gallabat, Gedaref, Khartum: 1865–1866, 1868–1869, 1871
 <param ve-map title="Sudan" center="14.7789, 34.6729" zoom="6" url="/geojson/map5.geojson">
