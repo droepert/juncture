@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "label": "Schweinfurth"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Aristida L.",
+        "time": "1864-03-21",
+        "family": "Poaceae",
+        "country": "Egypt",
+        "locality": "Wüste zwischen Keneh und Kosser [al-Qusair]. [...]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Aristida L.",
+        "time": "1864-03-21",
+        "family": "Poaceae",
+        "country": "Egypt",
+        "locality": "Aegyptische Küste zwischen Kosser [al-Qusair] und Ras-Benass. Cap Humro. [?]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Astragalus vogelii (Webb) Bornm.",
+        "time": "1864-03-21",
+        "family": "Fabaceae",
+        "country": "Egypt",
+        "locality": "Wüste zwischen Keneh und Kosser [al-Qusair], zwischen Kosur-el-Benat und OKalet-Abu-Kuach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Ruellia prostrata Pav. ex Nees",
+        "time": "1865-06-18",
+        "family": "Acanthaceae",
+        "country": "Sudan",
+        "locality": "Gallabat, Am linken Ufer der Gendua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Thelepogon elegans Roth ex Roem. & Schult.",
+        "time": "1865-09-11",
+        "family": "Poaceae",
+        "country": "Sudan",
+        "locality": "Matam̅a [wohl al-Matammah]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.72,
+          33.40444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Echinops longifolius A. Rich.",
+        "time": "1865-08-18",
+        "family": "Asteraceae",
+        "country": "Ethiopia",
+        "locality": "Flora von Gallabat. Umgegend von Matamma. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Cytisus ratisbonensis Schaeff.",
+        "time": "1860-05-12",
+        "family": "Fabaceae",
+        "country": "Germany",
+        "locality": "[Deutschland, Bayern];;Rechtes Isarufer vis à vis Gr[oss] Hes[s]elohe oberhalb München, Höhe: 1800' [= ca. 560 m] [ca. 530 m, 7935/1 (48°04'20''N, 11°32'30''E ±800 m) Regierungsbezirk Oberbayern, Landkreis München]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.07222,
+          11.54167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Caperonia serrata (Turcz.) C. Presl",
+        "time": "1895-09-25",
+        "family": "Euphorbiaceae",
+        "country": "Ethiopia",
+        "locality": "Flora von Gallabat, Umgebung von Matamma."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Jatropha gallabatensis Schweinf.",
+        "time": "1865-07-20",
+        "family": "Euphorbiaceae",
+        "country": "Ethiopia",
+        "locality": "Flora von Gallabat, Umgebung von Matamma."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Tricliceras pilosum (Willd.) R. Fern.",
+        "time": "1865-07-25",
+        "family": "Turneraceae",
+        "country": "Ethiopia",
+        "locality": "Flora von Gallabat. Am linken Matamma. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Tricliceras pilosum (Willd.) R. Fern.",
+        "time": "1865-07-25",
+        "family": "Turneraceae",
+        "country": "Ethiopia",
+        "locality": "Flora von Gallabat. Umgebung von Matama. Felsige grasige Orte am Hügel der protest. Mission."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    }
+  ]
+}
