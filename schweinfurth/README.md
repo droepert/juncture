@@ -55,59 +55,69 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 <param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.geojson">
 {#paragraph4}
 
+# Georg Schweinfurth: Übersicht der Forschungsreisen 
+
 1. 	Ägyptische und sudanesische Küste des Roten Meeres: Kosseir bis Suakin und Küstengebirge, Arabische Wüste: 1864, 1865–1866, 1868, 1876, 1880
-<param ve-map-layer geojson active title="Ägyptische und sudanesische Küste des Roten Meeres" center="26.4381, 33.8436" zoom="6" url="/geojson/map1.geojson">
+<param ve-map title="Ägyptische und sudanesische Küste des Roten Meeres" center="26.4381, 33.8436" zoom="6">
+<param ve-map-layer geojson active title="Ägyptische und sudanesische Küste des Roten Meeres" url="/geojson/map1.geojson">
 {#paragraph5}
 
 2. 	Nildelta, ägyptische Mittelmeerküste und Cyrenaika: 1864, 1883, 1887, 1890>
-<param ve-map-layer geojson active title="Ägyptische Mittelmeerküste" center="30.9419, 29.6403" zoom="6" url="/geojson/map2.geojson">
+<param ve-map title="Ägyptische Mittelmeerküste" center="30.9419, 29.6403" zoom="6">
+<param ve-map-layer geojson active title="Ägyptische Mittelmeerküste" url="/geojson/map2.geojson">
 {#paragraph6}
 
 3. 	Ägypten, Libysche Wüste: Oasen El-Chargeh: 1874; Faiyum: 1879, 1887
-<param ve-map-layer geojson active title="Libysche Wüste" center="27.7439, 30.7464" zoom="6" url="/geojson/map3.geojson">
+<param ve-map title="Libysche Wüste" center="27.7439, 30.7464" zoom="6">
+<param ve-map-layer geojson active title="Libysche Wüste" url="/geojson/map3.geojson">
 {#paragraph7}
 
 4. 	Oberägypten: Assiut bis Assuan: 1882, 1893, 1901–1902, 1909
-<param ve-map-layer title="Assiut bis Assuan" center="25.9631, 32.4636" zoom="6" url="/geojson/map4.geojson">
+<param ve-map title="Assiut bis Assuan" center="25.9631, 32.4636" zoom="6">
+<param ve-map-layer geojson active title="Assiut bis Assuane" url="/geojson/map4.geojson">
 {#paragraph8}
 
 5. 	Sudan: Gallabat, Gedaref, Khartum: 1865–1866, 1868–1869, 1871
-<param ve-map title="Sudan" center="14.7789, 34.6729" zoom="6" url="/geojson/map5.geojson">
+<param ve-map title="Sudan" center="14.7789, 34.6729" zoom="6">
+<param ve-map-layer geojson active title="Sudan" url="/geojson/map5.geojson">
 {#paragraph9}
 
 6. 	Südsudan: Stromgebiet des Bahr-el-Ghasal, Land der Djur, Land der Bongo und Land der Niamniam: 1869, 1870, 1871; Kongo: Munsa: 1870
-<param ve-map title="Südsudan" center="7.4033, 30.4781" zoom="6" url="/geojson/map6.geojson">
+<param ve-map title="Südsudan" center="7.4033, 30.4781" zoom="6">
+<param ve-map-layer geojson active title="Südsudan" url="/geojson/map6.geojson">
 {#paragraph10}
 
 7. 	Eritrea: Keren, Ghinda, Gheleb, Saati, Akrur, Saganeiti: 1891, 1892, 1894
-<param ve-map title="Eritrea" center="15.7053, 38.8734" zoom="6" url="/geojson/map7.geojson">
+<param ve-map title="Eritrea" center="15.7053, 38.8734" zoom="6">
+<param ve-map-layer geojson active title="Eritrea" url="/geojson/map7.geojson">
 {#paragraph11}
 
 8. 	Jemen: Aden bis El-Hami, Menacha, Walledje, Uossil: 1881, 1888–1889
-<param ve-map title="Jemen" center="13.6484, 45.3295" zoom="6" url="/geojson/map8.geojson">
+<param ve-map title="Jemen" center="13.6484, 45.3295" zoom="6">
+<param ve-map-layer geojson active title="Jemen" url="/geojson/map8.geojson">
 {#paragraph12}
 
 9. 	Jemen, Sokotra: 1881
-<param ve-map title="Sokotra" center="12.4903, 53.8141" zoom="6" url="/geojson/map9.geojson">
+<param ve-map title="Sokotra" center="12.4903, 53.8141" zoom="6">
+<param ve-map-layer geojson active title="Sokotra" url="/geojson/map9.geojson">
 {#paragraph13}
 
 10.    Libanon: Libanon-Gebirge und Bekaa-Ebene: 1880
-<param ve-map title="Libanon" center="33.8211, 35.8179" zoom="6" url="/geojson/map10.geojson">
+<param ve-map title="Libanon" center="33.8211, 35.8179" zoom="6">
+<param ve-map-layer geojson active title="Libanon" url="/geojson/map10.geojson">
 {#paragraph14}
 
 11.    Algerien: Algier, Biskra, Bona, La Calle: 1900–1901, 1906, 1907–1908, 1909–1910 und Tunesien: Tunis, Gafsa: 1901, 1906	
-<param ve-map title="Algerien" center="36.0851, 7.0135" zoom="6" url="/geojson/map11.geojson">
+<param ve-map title="Algerien" center="36.0851, 7.0135" zoom="6">
+<param ve-map-layer geojson active title="Algerien" url="/geojson/map11.geojson">
 {#paragraph15}
-
-# Georg Schweinfurth: Übersicht der Forschungsreisen 
-{#paragraph16}
 
 # Zeittafel
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-knightlab-timeline source="1Lk_5JZWWkWkZPitKTsEk0kDqVri-L3TGY2Yr4-0sobQ">
-{#paragraph17}
+{#paragraph16}
 
 # References
 
