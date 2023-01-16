@@ -24,78 +24,53 @@ Georg Schweinfurth, 1836–1925, sah sich in erster Linie als Botaniker und Pfla
        license="public domain" 
        fit="contain"
        url="https://upload.wikimedia.org/wikipedia/commons/6/69/Georgschweinfurth.jpg">
-{#paragraph1}
-
+       
 ### Autographen
 
 Von Georg Schweinfuhrt befinden sich auch zahlreiche handgeschriebene Schriftstücke in der Autographen Sammlung des BGBM
 <param ve-iframe src="https://projectmirador.org/embed/?iiif-content=https://iiif.bgbm.org/manifests/autographen/813-collection.json">
-{#paragraph2}
 
 ### Sammlung botanischer Zeichnungen
 
 Schweinfurth vermochte auch als hervorragender Zeichner die Forschungsobjekte seiner ungewöhnlich breiten wissenschaftlichen Betätigung ebenso ansprechend wie instruktiv abzubilden. Schon zu Lebzeiten überließ Schweinfurth dem Botanischen Garten und Botanischen Museum Berlin-Dahlem seine in vier Foliobänden gebundene Sammlung botanischer Zeichnungen. Während des 2. Weltkrieges wurden diese zusammen mit kostbaren alten Abbildungswerken der Bibliothek und besonders wertvollen Teilen des Herbars in Stollen der Kali-Werke Bleicherode-Ost bei Nordhausen ausgelagert und überstanden so die Vernichtung von Herbar und Bibliothek durch Bombentreffer im März 1943. Allerdings erlitt ein Teil der ausgelagerten Bücherkisten, darunter auch die mit Schweinfurths Zeichnungen, im Depot starke Wasserschäden mit anschließendem Pilzbefall [Pilger 1953: 29](https://www.bgbm.org/sites/default/files/documents/3995179.pdf). Zum Trocknen und Reinigen wurden die Zeichnungen aus den Foliobänden gelöst und, soweit nicht komplett zerstört, seither als Einzelblätter aufbewahrt.
 Im Rahmen eines vom „Fördererkreis der naturwissenschaftlichen Museen Berlins e.V.“ finanzierten Projektes wurden die 624 erhaltenen Blätter, viele davon in fragilem Zustand, inventarisiert, digitalisiert, wissenschaftlich bearbeitet und hier zugänglich gemacht.
 <param ve-iframe src="https://projectmirador.org/embed/?iiif-content=https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/Schweinfurth-all.json">
-{#paragraph3}
 
 ### Forschungsreisen
 
 Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, andere in öffentlichen oder privaten Gärten, seltener in Herbarien oder zu Hause entstanden. Das von ihm lang ersehnte Afrika betrat Schweinfurth erstmals im Dezember 1863, kurz vor seinem 27. Geburtstag, im ägyptischen Alexandria. Ein halbes Jahrhundert lang, von 1864 bis 1914, unternahm er von da an zahlreiche Forschungsreisen im Nordosten des Kontinentes, in Ägypten und im Sudan, in Eritrea, dem Südsudan und nordöstlichen Kongo. Weitere Reisen führten ihn nach Algerien und Tunesien, in den Libanon, in den Jemen und auf den Sokotra-Archipel vor der Ostspitze Afrikas. Schweinfurth gründete nie eine eigene Familie und zog, durch ein regelmäßiges Einkommen aus der Familienstiftung in Riga finanziell versorgt, ein Leben als Privatgelehrter einer Universitätskarriere vor. Derart ungebunden konnte er nicht nur von 1873 bis 1888 seinen festen Wohnsitz in Kairo nehmen, sondern auch bis zum Ausbruch des ersten Weltkrieges regelmäßig im Winterhalbjahr von Kairo aus die Region bereisen, „um dann bei zunehmender Wärme allmählich über Kairo, Italien, Frankreich und Belgien nach Norden zu ziehen, wobei er überall seine zahllosen Bekannten und Freunde traf. Nur den Hochsommer brachte er in Berlin zu, von wo aus er seine Heimatstadt Riga besuchte, worauf im Herbst mit den Zugvögeln eine entsprechende Rückreise erfolgte.“ (Stromer 1926).
 <param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="4">
 <param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.json">
-<param ve-map-layer geojson title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
-<param ve-map-layer geojson title="Ägyptische Mittelmeerküste" url="map2.json">
-<param ve-map-layer geojson title="Libysche Wüste" url="map3.json">
-<param ve-map-layer geojson title="Assiut bis Assuan" url="map4.json">
-<param ve-map-layer geojson title="Sudan" url="map5.json">
-<param ve-map-layer geojson title="Südsudan" url="map6.json">
-<param ve-map-layer geojson title="Eritrea" url="map7.json">
-<param ve-map-layer geojson title="Jemen" url="map8.json">
-<param ve-map-layer geojson title="Sokotra" url="map9.json">
-<param ve-map-layer geojson title="Libanon" url="map10.json">
-<param ve-map-layer geojson title="Algerien" url="map11.json">
-{#paragraph4}
 
 1. 	Ägyptische und sudanesische Küste des Roten Meeres: Kosseir bis Suakin und Küstengebirge, Arabische Wüste: 1864, 1865–1866, 1868, 1876, 1880
-{#paragraph5}
+<param ve-map title="Ägyptische und sudanesische Küste des Roten Meeres" center="26.4381, 33.8436" zoom="6">
+<param ve-map-layer geojson active title="Ägyptische und sudanesische Küste des Roten Meeres" url="map1.json">
 
 2. 	Nildelta, ägyptische Mittelmeerküste und Cyrenaika: 1864, 1883, 1887, 1890>
-{#paragraph6}
 
 3. 	Ägypten, Libysche Wüste: Oasen El-Chargeh: 1874; Faiyum: 1879, 1887
-{#paragraph7}
 
 4. 	Oberägypten: Assiut bis Assuan: 1882, 1893, 1901–1902, 1909
-{#paragraph8}
 
 5. 	Sudan: Gallabat, Gedaref, Khartum: 1865–1866, 1868–1869, 1871
-{#paragraph9}
 
 6. 	Südsudan: Stromgebiet des Bahr-el-Ghasal, Land der Djur, Land der Bongo und Land der Niamniam: 1869, 1870, 1871; Kongo: Munsa: 1870
-{#paragraph10}
 
 7. 	Eritrea: Keren, Ghinda, Gheleb, Saati, Akrur, Saganeiti: 1891, 1892, 1894
-{#paragraph11}
 
 8. 	Jemen: Aden bis El-Hami, Menacha, Walledje, Uossil: 1881, 1888–1889
-{#paragraph12}
 
 9. 	Jemen, Sokotra: 1881
-{#paragraph13}
 
 10.    Libanon: Libanon-Gebirge und Bekaa-Ebene: 1880
-{#paragraph14}
 
 11.    Algerien: Algier, Biskra, Bona, La Calle: 1900–1901, 1906, 1907–1908, 1909–1910 und Tunesien: Tunis, Gafsa: 1901, 1906	
-{#paragraph15}
 
 ### Zeittafel
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-knightlab-timeline source="1Lk_5JZWWkWkZPitKTsEk0kDqVri-L3TGY2Yr4-0sobQ">
-{#paragraph16}
 
 ### References
 
