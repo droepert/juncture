@@ -48,8 +48,6 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 <param ve-map title="Highlights of Schweinfurth's research trips" center="24.0982, 19.0513" zoom="5">
 <param ve-map-layer geojson active title="Highlights of Schweinfurth's research trips" url="/geojson/map.geojson">
 
-## Georg Schweinfurth: Übersicht der Forschungsreisen 
-
 1. 	Ägyptische und sudanesische Küste des Roten Meeres: Kosseir bis Suakin und Küstengebirge, Arabische Wüste: 1864, 1865–1866, 1868, 1876, 1880
 <param ve-map title="Ägyptische und sudanesische Küste des Roten Meeres" center="26.4381, 33.8436" zoom="6">
 <param ve-map-layer geojson active title="Ägyptische und sudanesische Küste des Roten Meeres" url="/geojson/map1.geojson">
@@ -93,6 +91,9 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 11.    Algerien: Algier, Biskra, Bona, La Calle: 1900–1901, 1906, 1907–1908, 1909–1910 und Tunesien: Tunis, Gafsa: 1901, 1906	
 <param ve-map title="Algerien" center="36.0851, 7.0135" zoom="6">
 <param ve-map-layer geojson active title="Algerien" url="/geojson/map11.geojson">
+
+
+## Georg Schweinfurth: Übersicht der Forschungsreisen 
 
 ## Zeittafel
 
