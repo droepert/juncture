@@ -190,6 +190,278 @@
           36.2
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Tricliceras pilosum (Willd.) R. Fern.",
+        "time": "1865-07-25",
+        "family": "Turneraceae",
+        "country": "Ethiopia",
+        "locality": "Flora von Gallabat. Am linken Matamma. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Ruellia prostrata Pav. ex Nees",
+        "time": "1865-06-18",
+        "family": "Acanthaceae",
+        "country": "Sudan",
+        "locality": "Gallabat, Am linken Ufer der Gendua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.15
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Zaqiqah mucronata (Forssk.) P. M. Peterson & Romasch.",
+        "time": "1864-04",
+        "family": "Poaceae",
+        "country": "Egypt",
+        "locality": "Aegyptische Küste zwischen Kosser [al-Qusair] und Ras-Benass. [Al-Baḩr al Aḩmar, Egypt]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.95,
+          35.45
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Pancratium tenuiflorum (Herb.) Herb. ex Steud.",
+        "time": "1864-06-05",
+        "family": "Amaryllidaceae",
+        "country": "Sudan",
+        "locality": "Flora von Gallabat. Am linken Ufer der Gendua;;In Zentral Afrika: (Ethiopia), Sudan "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96111,
+          36.15111
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Taraxacum balticum Dahlst.",
+        "time": "1861-05-21",
+        "family": "Asteraceae",
+        "country": "Germany",
+        "locality": "FNauen, beim Weinberg, nasse Salzwiese, 90', 3343/32 [FFH-Gebiet ca. 3,5 km N Nauen, direkt W des Ortsteils Waldsiedlung (Weinberg)] "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.63639,
+          12.89278
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Acacia seyal Delile",
+        "time": "1865-##-25",
+        "family": "Mimosaceae",
+        "country": "Ethiopia",
+        "locality": "Flora von Gallabat. Am linken Matamma. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Neonotonia wightii var. longicauda (Schweinf.) J. A. Lackey",
+        "time": "1865-10-03",
+        "family": "Fabaceae",
+        "country": "Ethiopia",
+        "locality": "Gallabat Umgegend von Matamma. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Entada africana Guill. & Perr.",
+        "time": "1865-06",
+        "family": "Mimosaceae",
+        "country": "Ethiopia",
+        "locality": "Flora von Gallabat. Am linken Matamma. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Spermacoce chaetocephala var. chaetocephala DC.",
+        "time": "1865-09-21",
+        "family": "Rubiaceae",
+        "country": "Ethiopia",
+        "locality": "Matamma, Gallabat."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Tylosema fassoglensis (Kotschy ex Schweinf.) Torre & Hillc.",
+        "time": "1865-06-05",
+        "family": "Caesalpiniaceae",
+        "country": "Ethiopia",
+        "locality": "Umgegend von Matamma (Gallabat). "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Sorghum purpureosericeum (Hochst. ex A. Rich.) Schweinf. & Asch.",
+        "time": "1865-09-24",
+        "family": "Poaceae",
+        "country": "Ethiopia",
+        "locality": "Flora von Gallabat. Umgegend von Matamma."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96667,
+          36.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Croton socotranus Balf. f.",
+        "time": "1881-04-05",
+        "family": "Euphorbiaceae",
+        "country": "Yemen",
+        "locality": "Insel Socotra. Im West von Tamarid."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Croton socotranus Balf. f.",
+        "time": "1881-04-10",
+        "family": "Euphorbiaceae",
+        "country": "Yemen",
+        "locality": "Insel Socotra. Galonsia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Withania riebeckii Balf. f.",
+        "time": "1881-04-14",
+        "family": "Solanaceae",
+        "country": "Yemen",
+        "locality": "Insel Socotra. Famarid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Ruellia insignis Balf. f.",
+        "time": "1881-04-23",
+        "family": "Acanthaceae",
+        "country": "Yemen",
+        "locality": "Insel Socotra: Wadi Dilal. 200-500 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.475,
+          53.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "Socotria protopunica (Balf. f.) G. M. Levin",
+        "time": "1881-04-23",
+        "family": "Lythraceae",
+        "country": "Yemen",
+        "locality": "Insel Socotra: Oberhalb Keregnigi. 250 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.475,
+          53.86667
+        ]
+      }
     }
   ]
 }
