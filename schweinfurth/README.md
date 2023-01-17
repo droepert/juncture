@@ -114,7 +114,6 @@ Others are selectable using icons displayed in the top right margin of the parag
        time-dimension
        time-interval="-008000/"
        duration="P10000Y"
-       basemap="Esri_WorldGrayCanvas"
        max-zoom="4"
        date-format="YYYY-MM-DD"
        auto-play="true"
