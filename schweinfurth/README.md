@@ -135,7 +135,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (1) 	Besteigung des Grossglockners am 20. Juli 1857. – Carinthia, Klagenfurt 48: 41–42.
  
 #### 1860
-(2) 	Über Bidens radiatus Thuill. – Verhandlungen des Botanischen Vereins der Provinz Brandenburg 2: 142-152.
+(2) 	Über Bidens radiatus Thuill. – Verhandlungen des Botanischen Vereins der Provinz Brandenburg 2: 142-152.  
 (3) 	Über einen Pflanzenbastard, Dianthus Carthusianorum-arenarius. – Verhandlungen des Botanischen Vereins für Brandenburg 2: 205-208.
  
 #### 1861
@@ -145,9 +145,9 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (5) 	Plantae quaedum niloticae quas in itinere cum divo Adalberto libero barone de Barnim facto collegit Rob. Hartmann, cum tabulis XVI. – G. Reimer, Berlin, S.1-55.
  
 #### 1863
-(6) 	Aufruf an die Botaniker. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1863: 349.
-(7) 	Bericht über die von M. v. Beurmann aus dem mittleren Sudan eingesandten Pflanzen- proben. – Zeitschrift für allgemeine Erdkunde, ser. 2, 15: 293-301.
-(8) 	Tithymalus Braunii Schwf., a new Euphorbiaceae from Abyssinia. – Journal of Botany, British and Foreign. London 1: 295.
+(6) 	Aufruf an die Botaniker. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1863: 349.  
+(7) 	Bericht über die von M. v. Beurmann aus dem mittleren Sudan eingesandten Pflanzen- proben. – Zeitschrift für allgemeine Erdkunde, ser. 2, 15: 293-301. 
+(8) 	Tithymalus Braunii Schwf., a new Euphorbiaceae from Abyssinia. – Journal of Botany, British and Foreign. London 1: 295.  
  
 #### 1864
 (9) 	Brief an Dr. H. Barth, aus Suakin, 10. Juli 1864. – Zeitschrift für allgemeine Erdkunde, ser. 2, 17: 328–331.
