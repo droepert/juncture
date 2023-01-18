@@ -113,7 +113,7 @@ Others are selectable using icons displayed in the top right margin of the parag
        time-dimension
        time-interval="-008000/"
        duration="P10000Y"
-       max-zoom="10"
+       max-zoom="15"
        date-format="YYYY-MM-DD"
        auto-play="true"
        auto-fit="false"
