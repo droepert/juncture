@@ -131,30 +131,30 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basiert im Wesentlichen auf der von ihm selbst verfassten, nach Fachgebieten geordneten Bibliographie von 1916, die 1918 zunächst als "Anhang VI." zur dritten deutschen Auflage von "Im Herzen von Afrika" (422) und 1926 dann von G. Keimer, ergänzt um die Publikationen der Jahre 1916–1925 und mit neuer Nummerierung, im Bulletin de la Société Royale de Géographie d’Egypte veröffentlicht wurde (1926). Zeitschriftentitel werden ungekürzt wiedergegeben, bibliographische Ungenauigkeiten wurden nach Möglichkeit korrigiert. Links zu digitalen Ausgaben werden laufend ergänzt.
 
-1858
+#### 1858
 (1) 	Besteigung des Grossglockners am 20. Juli 1857. – Carinthia, Klagenfurt 48: 41–42.
  
-1860
+#### 1860
 (2) 	Über Bidens radiatus Thuill. – Verhandlungen des Botanischen Vereins der Provinz Brandenburg 2: 142-152.
 (3) 	Über einen Pflanzenbastard, Dianthus Carthusianorum-arenarius. – Verhandlungen des Botanischen Vereins für Brandenburg 2: 205-208.
  
-1861
+#### 1861
 (4) 	Versuch einer Vegetationsskizze der Umgegend von Straussberg. – Verhandlungen des Botanischen Vereins der Provinz Brandenburg 3-4: 91-126.
  
-1862
+### 1862
 (5) 	Plantae quaedum niloticae quas in itinere cum divo Adalberto libero barone de Barnim facto collegit Rob. Hartmann, cum tabulis XVI. – G. Reimer, Berlin, S.1-55.
  
-1863
+#### 1863
 (6) 	Aufruf an die Botaniker. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1863: 349.
 (7) 	Bericht über die von M. v. Beurmann aus dem mittleren Sudan eingesandten Pflanzen- proben. – Zeitschrift für allgemeine Erdkunde, ser. 2, 15: 293-301.
 (8) 	Tithymalus Braunii Schwf., a new Euphorbiaceae from Abyssinia. – Journal of Botany, British and Foreign. London 1: 295.
  
-1864
+#### 1864
 (9) 	Brief an Dr. H. Barth, aus Suakin, 10. Juli 1864. – Zeitschrift für allgemeine Erdkunde, ser. 2, 17: 328–331.
 (10) 	Fahrt auf dem Sues-Kanal. – Globus. Illustrierte Zeitschrift für Länder- und Völkerkunde. Braunschweig 6: 33–42.
 (11) 	Reise in die Gebirge der Ababde und Bischarin am Roten Meer. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1864: 331–333.
  
-1865
+#### 1865
 (12) 	Ausflüge um Kosser. – Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 15: 267–280. .
 (13) 	Reise an der Küste des Roten Meeres van Kosser bis Suakin. – Zeitschrift für allgemeine Erdkunde, ser. 2, 18: 131–150, 283–313, 321–384. .
 (14) 	Vier Briefe an Prof. Dr. H. Barth (aus Kassala und aus Gallabat). – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: 305-323.
@@ -168,18 +168,17 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (22) 	Routen und Profile im nordöstlichen Afrika, 1: 2000000. – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: t. 4.
 (23) 	Flora des Soturba an der nubischen Küste. – Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 15: 537-560.
  
-1866
+#### 1866
 (24) 	Brief an Dr. P. Ascherson aus Gallabat. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1: 177-183.
- 
 (25) 	Reise von Gedarif zum Blauen Nil. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1: 183-186, t. 3.
  
-1867
+#### 1867
 (26) 	Reise von Chartum über Berber nach Suakin. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 2: 1-41, t. 2.
 (27) 	Über den Einfluss der Nordwinde auf die Vegetationsverhaltnisse des Roten Meeres und sein Niveau. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 2: 411-428.
 (28) 	Mit Böckeler, Garcke, C. H. Schultz, H. Graf Solms-Laubach, P. Ascherson und anderen: Beitrag zur Flora Aethiopiens. Erste Abteilung, mit 4 Tafeln. – Berlin: Georg Reimer, S. 1-311.
 (29) 	Aufzählung und Beschreibung der Acacien-Arten des Nilgebiets. – Linnaea 1(3-4): 309-376.
  
-1868
+#### 1868
 (30) 	Brief an Dr. P. Ascherson (aus Sues). – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 3: 517-521.
 (31) 	Ein Besuch bei den Schwefelminen und Petroleumquellen von Gimsah. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 3: 521-527.
 (32) 	Brief an Prof. Dr. A. Braun (aus Suakin). – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 3: 528-530.
@@ -190,7 +189,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (37) 	Pflanzengeographische Skizze des gesamten Nilgebiets und der Küstenländer des Roten Meeres. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1868: 113-129, 155-169, 244-248.
 (38) 	Reliquiae Kotschyanae. Beschreibung und Abbildung von Pflanzen, welche Th. Kotschy 1837 bis 1839 gesammelt hat, mit 35 lith. Tafeln und Bild Kotschys. – Berlin: Georg Reimer.
  
-1869
+#### 1869
 (39) 	Zwei Briefe aus Inner-Afrika an den Erzbischof von Kalocsa, Dr. Ludwig Haynald. – Ausland 1869: 444-447.
 (40) 	Briefe vom Oberen Nil, Chartum 28. Dez. 1868. – Kölnische Zeitung Nr. 70, 2. Bl., 11. März.
 (41) 	Vorläufige Nachrichten über die Reise bis Chartum Aug.-Nov. 1868. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 15: 53-57.
@@ -202,7 +201,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (47) 	Pflanzennamen der Bega-Sprache zwischen Suakin und Berber. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 4: 334-339.
 (48) 	November-Flora von Chartum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 4: 339-346.
  
-1870
+#### 1870
 (49) 	Brief an Prof. Dr. R. Hartmann. – Zeitschrift für Ethnologie 2: 65-66.
 (50) 	Wahrnehmungen auf einer Fahrt von Chartum nach dem Gazellen-Fluss. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 5: 29-62.
 (51) 	Von der Meschera des Bahr-el-Ghasal zu den Seriben des Ghattas. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 5: 97-150.
@@ -212,7 +211,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (55) 	Originalkarte des Landes zwischen Tondj und Djur, 1: 1000000. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 5: t. 3.
 (56) 	Vegetationsskizzen vom Bahr-el-Ghasal. – Botanuische Zeitung 28: 82-90.
  
-1871
+#### 1871
 (57) 	Briefe an Prof. Dr. A. Braun. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 6: 47-57.
 (58) 	Streifzüge zwischen Toudj und Rohl. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 6: 193-234.
 (59) 	Reise in das Land der Niamniam und Monbuttu (aus Ssabbi, 4. Juli 1870). – Mittheilungen aus Justus Perthes' Geographischer Anstalt 17: 11-16.
@@ -222,7 +221,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (63) 	Vegetationscharakter und Nutzpflanzen der Niamniam- und Monbuttu-Länder. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 6: 234-248. http://www.digizeitschriften.de/dms/img/?PPN=PPN391365657_1871_0006&DMDI...(Link ist extern)" target="_blank">online
 (64) 	Bericht über die botanischen Ergebnisse der ersten Niamniamreise. – Botanische Zeitung 29: 301-317, 324-341, 351-366, 372-376.
  
-1872
+#### 1872
 (65) 	Tagebuch einer Reise zu den Niamniam und Monbuttu. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 7: 385-475.
 (66) 	Aus der Region des Gazellen-Flusses in Afrika. – Globus. Illustrierte Zeitschrift für Länder- und Völkerkunde. Braunschweig 21: 199-203.
 (67) 	Brief an A. Petermann über seine Reise durch Dar-Fertit und auf dem Bahr-el-Ghasal. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 18: 31-34.
@@ -233,14 +232,14 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (72) 	Völkerskizzen aus dem Gebiete des Bahr-el-Ghasal. – Globus. Illustrierte Zeitschrift für Länder- und Völkerkunde. Braunschweig 22(15): 225-228.
 (73) 	Linguistische Ergebnisse einer Reise nach Central-Afrika. – Zeitschrift für Ethnologie 4(Suppl.): 1-82.
  
-1873
+#### 1873
 (74) 	Relazione del suo viaggio. – Bollettino della Società Geografica Italiana 9.
 (75) 	Sur l'origine africaine des plantes cultivées en Egypte (ins Deutsche übers. in der Monatsschr. des Ver. zur Beförd. des Gartenbaus 1874: 1-17.) – Bulletin de l’Institut d’Égyptien 12: 200-206.
 (76) 	Über die Vegetationsverhältnisse einiger Länder und Ufergegenden des Roten Meeres. – Jahresbericht der Geographischen Gesellschaft in München 3: 130-154.
 (77) 	Sur les plantes cultivées en Egypte (erwähnt in Bull. Nr. 9, 2. Dez. 1898, S. 16. . – Nature 29: 110-111.
 (78) 	Das Volk der Monbuttu in Central-Afrika. – Zeitschrift für Ethnologie 5: 1-27.
  
-1874
+#### 1874
 (79) 	The heart of Africa, travels and adventures from 1868 to 1871. Translated by Ellen E. Frewer. – London: Sampson Low, Marston, Low, and Searle, 2 Vols.
 (80) 	Im Herzen von Afrika, Reisen und Entdeckungen im centralen Aequatorial-Afrika während der Jahre 1868 bis 1871. 2 Bände. – Leipzig: F, A. Brockhaus.
 (81) 	Die Oasen der Libyschen Wüste. Vortrag geh. in der geogr. Sektion der Brit. Association zu Belfast. – Kölnische Zeitung, 14. Sept.
@@ -248,7 +247,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (83) 	Brief an Prof. Rob. Hartmann aus el-Chargeh. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 1: 87-90.
 (84) 	Echtheit der Akka. – Zeitschrift für Ethnologie 6: 121.
  
-1875
+#### 1875
 (85) 	Discours prononcé au Caire à la séance d'inauguration le 2 juin 1875. – Société Khédiviale de Géographie, Alexandrie, A. Moures.
 (86) 	Türkische Ausgabe von "Im Herzen von Afrika" in einem Bande von 911 Seiten. – Konstantinopel.
 (87) 	Über die Art des Reisens in Afrika. – Deutsche Rundschau, Berlin, 245-275.
@@ -260,7 +259,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (93) 	Übereinstimmung in der Begräbnisweise bei Betschuana, Bongo und Mittu. – Zeitschrift für Ethnologie 7: 24.
 (94) 	Artes africanae. Abbildungen und Beschreibungen von Erzeugnissen des Kunstfleisses zentralafrikanischer Völker. Mit 21 lith. Tafeln. – Leipzig: F. A. Brockhaus.
  
-1876
+#### 1876
 (95) 	Au coeur de l'Afrique (ed. ilustree). – Le Tour du Monde, Paris 27: 273-368, 28: 209-288.
 (96) 	Reise von Dr. Güssfeld und Dr. Schweinfurth durch die Arabische Wüste vom Nil zum Roten Meer. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 22: 261-264.
 (97) 	Prof. Dr. Aschersons Reise nach der Kleinen Oase. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 22: 264-260.
@@ -269,7 +268,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (100) 	Reise von Dr. Güssfeldt und Dr. Schweinfurth durch die Arabische Wüste vom Nil zum Roten Meer. – Geogr. Nachrichten von Dr. G. Schweinfurth in Cairo l: 1-8 .
 (101) 	Carte de l'itinéraire de Linant de Bellefonds. – Bulletin de la Société Khédiviale de Géographie 1.
  
-1877 	–1888
+#### 1877-1888
 (102) 	Zahlreiche Berichte aus Kairo. – Kölnische Zeitung.
  
 1877
@@ -277,7 +276,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (104) 	Reise durch die Arabische Wüste von Heluan bis Qeneh (Brief an Dr. P. Güssfeldt). – Mittheilungen aus Justus Perthes' Geographischer Anstalt 23: 387-389.
 (105) 	Über die beiden in Verona lebenden Zwergneger vom Stamme der Akka. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 8: 211-214.
  
-1878
+#### 1878
 (106) 	Im Herzen von Afrika, ed. 2, 1 Band. – Leipzig: F. A. Brockhaus
 (107) 	Landschaftliche und ethnologische Photographien vom oberen Nil. – Zeitschrift für Ethnologie 10: 283.
 (108) 	Preface. Pp. vii-xii in: Klunzinger, C. B.: Upper Egypt. – London: .
@@ -287,13 +286,13 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (112) 	Il Deserto Orientale Egiziano, Schizzo originale. 1: 1500000. – L' Esploratore 1(4): carta 4.
 (113) 	Die ältesten Klöster der Christenheit (St. Antonins und St. Paulus). – In Bodenstedt, Kunst und Leben, Stuttgart, S. 275-316. .
  
-1879
+#### 1879
 (114) 	Viaggio attraverso il deserto arabico da Heluan a Qeneh (übersetzt aus Petermanns Geogr. Mitt. 23, 1877). – L'Esploratore, Milano 1: 222-225.
 (115) 	Esplorazione di Gherardo Rohlfs da Tripoli alr Uadai. – L'Esploratore, Milano 2(1): 24-25.
 (116) 	Lettera al Direttore del Esploratore. – L'Esploratore, Milano 2(6): 186.
 (117) 	Lettera aI Direttore del Esploratore. – L'Esploratore, Milano 2(12): 401-403.
  
-1880
+#### 1880
 (118) 	Bemerkungen zu der neuen Karte des Fayum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 15: 152-160.
 (119) 	Die Reise des Herrn Buchta zu den Bari. – Zeitschrift für Ethnologie 12: 28-32.
 (120) 	L'Esplorazione Rohlfs. – L'Esploratore, Milano 4(1): 26-28.
@@ -303,14 +302,14 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (124) 	Originalkarte des Fayum nach der von Rousseau-Bey 1871 veranst. trigon. Aufnahme, 1: 200000. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 15: t. 1.
 (125) 	Godfried Roth und Romulo Gessi, Wiederaufleben des Sklavenhandels in Ägypten. – Österreichische Monatsschrift für den Orient 6: 98-102.
  
-1881
+#### 1881
 (126) 	Questioni africane. – L'Esploratore, Milano 5(2): 67.
 (127) 	Risola di Socotra (übersetzt aus Rigasche Zeitung, Juli 1881). – L'Esploratore, Milano 5(9): 310-312.
 (128) 	Brief an seinen Bruder Alexander über seine Reise nach Socotra. – Rigasche Zeitung.
 (129) 	Karte der Tour des Dr. Riebeck von Kairo zum Wadi Na'uk in der östl. Wüste, Jan.-Febr. 1881, 1 : 800000, Tagebuch einer Reise von Kairo nach den Gebirgen am Roten Meer von Dr. E. Riebeck. – Mitteilungen des Vereins für Erdkunde zu Halle a.d.S.
 (130) 	De la Flore Pharaonique. – Bulletin de l’Institut d’Égyptien 1882(3): 51-76.
  
-1882
+#### 1882
 (131) 	Brief an Hofrat G. Rohlfs aus Ober-Aegypten. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 28: 275-276.
 (132) 	Notizie daI Sudan Egiziano. – L'Esploratore, Milano 6(2): 67.
 (133) 	La morte del Piaggia. Discorso tenuto alla Societa Chediviale di Geografia di Cairo. – L'Esploratore, Milano 6(3): 101-105.
@@ -322,7 +321,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (139) 	The Insurrection in the Sudan (letter to the secretary). – The Anti-Slaverv Reporter, London, 11. Nov., S. 265, 266.
 (140) 	Letter from Dr. Schweinfurth on the present state of the Soudan. – Times, 4. Nov.
  
-1883
+#### 1883
 (141) 	La cote de la Marmarique. Lettre du Dr. Schweinfurth à Mr. H. Duveyrier. – Comptes rendues, Société de Géographie, Paris 1883: 484.
 (142) 	Una visita al Porto di Tobruc (Cirenaica). – L'Esploratore, Milano 7(6): 207-222.
 (143) 	Ein Besuch in Tobruk an der Küste von Marmarica. – Marine -Verordnungs-Blatt, Berlin 1-16.
@@ -337,7 +336,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (152) 	Über die geologische Schichtengliederung des Mokattam bei Kairo. – Zeitschrift der Deutschen Geologischen Gesellschaft 1883: 709-734, t. XX-XXI.
 (153) 	Das Volk von Socotra. – Unsere Zeit, Leipzig, 11: 657-669 .
  
-1884
+#### 1884
 (154) 	Ein Besuch auf Socotra mit der Riebeckchen Expedition. Vortrag in Freiburg i. B., Sept. 1883. – Amtlicher Bericht über die Versammlung Deutscher Naturforscher und Ärzte 57: .
 (155) 	Neueste Nachrichten von Dr. Wilhelm Junker. – Kölnische Zeit., Nr. 68, 20. März.
 (156) 	Notice sur les restes de végétaux de l'ancienne Egypte.– Bulletin de l’Institut d’Égyptien 1884: 3-11.
@@ -357,14 +356,14 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (170) 	Zu Gunsten der Abtretung von Südafrika an Deutschland. – Kölnische Zeitung, Nr. 169, 18.Juni.
 (171) 	Über die Congo-Frage. – Centralblatt für die Interessen der Volkswirtschaft 1(15), 30. Aug., und Norddeutsche Allgemeine Zeitung, Berlin, 4. Sept.
  
-1885
+#### 1885
 (172) 	Karte der Küstenstrecke zwischen Uadi Safága und Uadi Sáqi, 1: 200.000. – Abhandlungen der Königlichen Akademie der Wissenschaften in Berlin, Tafel 1.
 (173) 	Esquisse d'une carte provisoire des environs de Helouan-les-Bains, 1: 50000. – Bulletin de l’Institut d’Égyptien 6.
 (174) 	Eine verlassene Wüstenstadt (Mons Claudianus). Mitteilungen über römische Steinbrüche in der ostägyptischen Wüste. – Gartenlaube 40: 650-653.
 (175) 	Alte Baureste und hieroglyphische Inschriften im Uadi Gasus. – Abhandlungen der Königlichen Akademie der Wissenschaften in Berlin 26. Nov. 1885, S. 1-23, t. I-II.
 (176) 	Brief an den Sekretär der British and Foreign Anti-Slavery Society. – Deutsche Kolonialzeitung, 2, Nr. 18, S. 592-595.
  
-1886
+#### 1886
 (177) 	Reise in das Depressionsgebiet im Umkreise des Fajum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 21: 96-149, t. 2.
 (178) 	La vraie rose de Jéricho (Asteriscus pygmaeus). – Bulletin de l’Institut d’Égyptien 6: 92-96.
 (179) 	Die letzten botanischen Entdeckungen in den Gräbern Ägyptens. – Botanische Jahrbücher 8(1): 1-16.
@@ -378,7 +377,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (187) 	Europas Aufgaben und Aussichten im tropischen Afrika. Vortrag geh. in der 59. Versammlung Deutscher Naturforscher und Ärzte zu Berlin. – Kölnische Zeitung, 24. Sept.
 (188) 	Gerhard Rohlfs 1831-1896. – Vossische Zeitung, Berlin, Nr. 275 u. 287, Sonntagsbeilage Nr. 24 u. 25.
  
-1887
+#### 1887
 (189) 	Über die Reise des Dr. H. Schinz in Südwest-Afrika. – Kölnische Zeitung.
 (190) 	Forschungen im arabischen Wüstenplateau von Mittelägypten. Brief an G. Rohlfs. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 33: 193-196.
 (191) 	Notiz über Emin Paschas Schriften. – Kölnische Zeitung.
@@ -396,13 +395,13 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (203) 	Über Staatsweisheit und das Rechnungsjahr 1887. – Kölnische Zeitung.
 (204) 	Über den Besuch des Duc de Chartres in Ägypten. – Kölnische Zeitung.
  
-1888
+#### 1888
 (205) 	Bericht über seine während der letzten 15 Jahre in Ägypten ausgeführten Forschungen. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 15: 388-402.
 (206) 	& F. Ratzel: Emin-Pascha. Eine Sammlung von Reisebriefen und Berichten Dr. Emin-Paschas aus den ehemals ägyptischen Äquatorialprovinzen und deren Grenzländern. – Leipzig: F. A. Brockhaus.
 (207) 	Über Sammeln und Konservieren von Pflanzen höherer Ordnung. – In: Neumayer, Anleitung zur wissenschaftlichen Beobachtungen auf Reisen, 1. Aufl., S. 374-388; 2. Aufl. 1888, Band 2: S. 213-234; 3. Auflage 1906, Band 2: S. 414-437 .
 (208) 	Sur une récente exploration géologique de l'ouadi Arabah. – Bulletin de l’Institut d’Égypte 1888: 1-19.
  
-1889
+#### 1889
 (209) 	Brief an Dr. Ed. Glaser, über seine Reise nach Yemen. – Berliner Tageblatt, 1. Mai.
 (210) 	Brief an Prof. Ascherson aus Menacha, 18. Febr., über seine Reise nach Südarabien. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 16: 225–228.
 (211) 	Über seine Reise nach dem glücklichen Arabien. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 16: 299-307
@@ -412,7 +411,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (215) 	Mit P. Ascherson: Illustration de la Flore d' Egypte. – Mémoires de l’Institut d’Égyptiene 2: 25-260
 (216) 	Mit P. Ascherson: Supplément à l'Illustration de la Flore d'Egypte. – Mémoires de l’Institut d’Égyptiene 2: 745-786.
  
-1890
+#### 1890
 (217) 	Über Dr. R. Lüdeckes Karte van Afrika in 6 Blättern. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 36: 178-180.
 (218) 	Mit J. Walther: Karte der Carbonregion im Uadi-Arabah, Östl.Wüste Ägyptens l : 50000. – Zeitschrift der Deutschen Geologischen Gesellschaft Tafel 23.
 (219) 	Sur certains rapports entre l'Arabie Heureuse et l'ancienne Egypte résultant de son dernier voyage au Yémen (übersetzt ans Verh. d. Ges. f. Erdk., Berlin, 1889, 16(7): 299-307). – Société de physique et d'histoire naturelle de Genève.
@@ -420,7 +419,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (221) 	Flinders Petries Ausgrabungen im Fajum (Labyrinth). – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 36: 50-54.
 (222) 	Festrede bei dem vom Emin-Pascha-Komitee gegebenen Bankett zu Ehren von Dr. C. Peters, am 25. Aug. 1890. – Berliner Neueste Nachrichten, 26. Aug.
  
-1891
+#### 1891
 (223) 	Erinnerungen von einer Fahrt nach Socotra. – Westermanns Illustrierte Deutsche Monatshefte 69: 603-626, 70: 30-53 .
 (224) 	Ein Brief van Prof. G.S. aus der italienischen Kolonie Eritrea. – Kölnische Zeitung, 12. März und in Beilage zur Vossischen Zeitung, Berlin, 12. März.
 (225) 	Il Dr. G. Schweinfurth in Eritrea, Lettere al Cap. M. Camperio. – Geografia per Tutti, Bergamo, 1891(Mai): 17-22.
@@ -430,7 +429,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (229) 	Le piante utili dell'Eritrea. – Bollettino della Società Africana d'Italia, Napoli 10(11-12).
 (230) 	Ägyptens auswärtige Beziehungen hinsichtlich der Kulturgewächse. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1891: 649-669.
  
-1892
+#### 1892
 (231) 	Reise in die Kolonie Eritrea und dort gemachte Sammlungen. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1892: 189-191.
 (232) 	Einige Mitteilungen über seinen diesjährigen Besuch in der Colonia Eritrea. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 19: 332-398.
 (233) 	Aus der Kolonie Eritrea. Auszug aus dem Vortrag in Verh. d. Ges. f. Erdk., Berlin 1892, Nr. 6 u. 7. – Kölnische Volkszeitung, Aug. 1892.
@@ -440,13 +439,13 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (237) 	Anthropologische Sammlungen in Abessinien. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 24: 245-246.
 (238) 	Vorbemerkung zu »Emin Paschas letzte Tagebücher, in Briefen an seine Schwester«. – Westermanns Monatshefte, 73, 2.Okt., S.1-2.
  
-1893
+#### 1893
 (239) 	Über Balsam und Myrrhe. – Berichte der Pharmazeutischen Gesellschaft Berlin, 5. Okt. 1893, S. 1-29.
 (240) 	Mit P. Ascherson und Taubert: Primitiae Florae Marmaricae. – Bulletin de l'Herbier Boissier 1: 433-449, 584-603, 644-682.
 (241) 	Der Moeris-See nach den neuesten Forschungen. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 39: 191-196.
 (242) 	Abyssinische Pflanzennamen. – Anhang der Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin 33: 1-84.
  
-1894
+#### 1894
 (243) 	Brief an Dr. G. Rohlfs zur Frage 'Woher kommt das Wasser in den Oasen der Sahara'. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 21: 89–91.
 (244) 	Brief an Dr. G. Rohlfs aus Dembelas. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 21: 220-223.
 (245) 	Lettera al Gen. Baratieri sul Dembelas. – L'Esplorazione Commerciale, Milano 9(6): 186-190.
@@ -464,7 +463,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (257) 	Il presente e l'avvenire della colonia Eritrea. – Milano: P. B. Bellini.
 (258) 	Viaggio dei Dott. G. Schweinfurth e M. Schoeller in Eritrea (übersetzt nach den Vortr. in Verh. d. Ges. f. Erdk., Berlin, 1894, Nr. 6 u. 7.) – Bollettino della Società Africana d'Italia, Napoli13(9/10): 121-168.
  
-1895
+#### 1895
 (259) 	Mon dernier voyage en Erythrée. (Übersetzt nach den Verh. d. Ges. f. Erdk., Berlin 1894(7). – Revue Geographique Internationale, Paris 1895(Febr.-Sept.).
 (260) 	Terrainskizze des südwestlichen Teils des Plateaus von Kohaito. (Colonia Eritrea), 1: 20000. – In: Dr. Max Schoeller, Reise in der Colonia Eritrea, Berlin.
 (261) 	Über Echidnopsis Dammannii Schwf. – Gartenflora 23: 633-637.
@@ -475,7 +474,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (266) 	Die Wiedergeburt Ägyptens im Lichte eines aufgeklärten Islam. – Berliner Rundschau, Bd. Il, Heft 2-5 und als Sonderabdruck: 10. Juli, S.1-16.
 (267) 	Hommage à la mémoire de S. A .le Khédive Ismail-Pacha. – Bulletin de la Société Khédiviale de Géographie 15. März.
  
-1896
+#### 1896
 (268) 	Der ägyptische Sudan. – Vossische Zeitnng, Berlin, Sonntagsbeil., Nr. 43 und 44, 25. Okt. und 2. Nov.
 (269) 	Von der Expedition des Dr. Max Schoeller, aus einem Briefe von A. Kaiser an einen Freund in Cairo. – Vossische Zeitung, Berlin, Beilage, 29. Dez.
 (270) 	Erythraea. – Mitteilungen der Geographischen Gesellschaft in Hamburg 11: 147-149.
@@ -485,7 +484,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (274) 	Ein altes Heiligtum an den Ufern des Moeris. – Westermanns Illustrierte Monatshefte 78: 361-372 .
 (275) 	Felsinschrift der Bantu am Sambese. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1896: 534-535.
  
-1897
+#### 1897
 (276) 	Nachrichten von der Expedition des Dr. Max Schoeller. – Vossische Zeitung, Berlin 11.-13. Juni.
 (277) 	Mit G. Volkens: Liste des plantes récoltées par les Princes Démètre et Nicolas GhikaComanesti dans leur voyage au pays des Somalis. – In: Princes Démètre et Nicolas Ghika-Comanesti .Voyage au pays des Somalis, Bukarest.
 (278) 	Die sicilianische Flora. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 488-489.
@@ -501,7 +500,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (288) 	Notice nécrologique sur le Professeur Sickenberger. – Bulletin de l’Institut d’Égypte 1896(7): 6-16.
 (289) 	Zur Erinnerung an Gerhard Rohlfs. – Westermanns Illustrierte Monatshefte 82: 565-577.
  
-1898
+#### 1898
 (290) 	Mit L. Lewin: Der Salzfund von Qurna. – Zeitschrift für ägyptische Sprache und Altertumskunde 35.
 (291) 	Mit L. Lewin: Beiträge zur Topographie und Geochemie des ägyptischen Natrontals. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 33: 1-25, t. 1.
 (292) 	Vorschlage zum Schutz der ägyptischen Altertümer (Brief an den Unterstaatssekretär im ägypt. Minist. d. öffentl. Bauten.) – Ägyptischer Kurier, Kairo, Nr. 18, 30. April.
@@ -510,7 +509,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (295) 	Die neuesten Gräberfunde in Ober-Ägypten und die Stellung der noch lebenden Wüsten-Stämme zu der altägyptischen Bevölkerung. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1898: 180-186.
 (296) 	Der Besuch des Kronprinzen Friedrich Wilhelm von Preussen in Alexandria, 1869. – Vossische Zeitung, Berlin, Nr. 515, 3. Nov.
  
-1899
+#### 1899
 (297) 	Besprechungen von 8 über Ägypten handelnden Werken. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 1899(Literaturbericht, Afrika, 733-740): 177-180.
 (298) 	Bemerkungen zu des Grafen von Götzen Aufsatz über die neuesten Forschungen im Gebiete der Nilquellen. – Verh. des 7. internationalen geogr. Kongresses 1899 und Umschau, Frankfurt a. M., 3(43): 854-855.
 (299) 	Aufnahmen in der östlichen Wüste von Ägypten, Tafel 1. Die Umgegend von Heluan, als Beispiel der Wüsten-Denudation, 1: 30000. – Berlin: Dietrich Reimer (Ernst Vohsen).
@@ -530,13 +529,13 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (313) 	Afrikanische Eisenbahnprojekte. – Vossische Zeitung, Berlin, 18. Okt., und Umschau Frankfurt a .M., 3, S.892-893.
 (314) 	Georgios Averoff. – Vossische Zeitung, Berlin, 17. Aug., Nr. 375.
  
-1900
+#### 1900
 (315) 	Über 9 Ägypten behandelnde Werke von Joanne, White, Penfield, Miéville, Benoit, Aubin, Erzh. Ludwig Salvator, Boddy, Pecnick. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 46(Literaturbericht Nr. 663-671): 182-183.
 (316) 	Das neue Museum der ägyptischen Altertürner zu Kairo. – Vossische Zeitung, Berlin, Sonntagsbeilage 22. Juli, und Sphinx, Revue Critique, Upsala 4(2): 105-110.
 (317) 	Einige von der freien Natur Südwest-Afrikas dem Naturmenschen dargebotene vegetabilische Nahrungsmittel. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1900: 354-359.
 (318) 	Ägyptische und arabische Untersuchungen. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1900: 94-95.
  
-1901
+#### 1901
 (319) 	Am westlichen Rande des Niltals zwischen Farschut und Korn-Ombo. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 47: 1-10.
 (320) 	Originalkarte des Niltals von Farschut bis Kom•Ombo, 1: 400000. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 47: Tafel I.
 (321) 	Über die Kultur der Dattelpalmen. Gartenflora 50: 506-522.
@@ -545,7 +544,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (324) 	The flora of the desert surrounding Heluan. – In: Page-May, Heluan and the Egyptian Desert, London, Sect. III, S. 16-38.
 (325) 	Über Westafrikanische Figuren aus Talkschiefer. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1901: 329-330.
  
-1902
+#### 1902
 (326) 	Über 5 Ägypten behandelnde Werke von Bréhier, Char-Roux, Foustan, Fraas und Willcocks. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 48(Literaturbericht Nr.182-184, 186, 188): 55-58.
 (327) 	Ägyptische Bewässerungspläne. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 48: 187-189.
 (328) 	Zur Kenntnis des ägyptischen Landes und Volkes. – Baedeker, Ägypten, ed. 5, xliii-lxiv.
@@ -558,7 +557,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (335) 	Kieselartefakte in der diluvialen Schotter-Terrasse und auf den Plateau-Höhen von Theben. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1902: 293-308, t. X-XII.
 (336) 	Besprechung von Keane, The Gold of Ophir. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49( Literaturber. Nr. 332): 100-101.
  
-1903
+#### 1903
 (337) 	Über Fuller, Egypt and the Hinterland, und 2 Werke von Ball und Beadnell (über die Geologie der Oasen). – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49(Literaturbericht Nr. 416-419): 124-125.
 (338) 	Bemerkung zum Briefe von A. Chevalier aus Französisch-Congo. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1903: 434-438.
 (339) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel VIII. Die Wüstenregion zwischen Nil und Uadi-Qeneh von der Wasserscheide zwischen Nil und Rotem Meer bis Assiut, westliche Hälfte. Tafel VIII. 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
@@ -569,7 +568,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (344) 	Steinzeitliche Forschungen in Ober-Ägypten. – Zeitschrift für Ethnologie 1903(5): 798-822, t. XIII-XIV.
 (345) 	Besprechung von C. Peters, Im Goldlande des Altertums. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49 Literaturber. Nr. 770, S. 214-215.
  
-1904
+#### 1904
 (346) 	Wissenschaftliche Ergebnisse der Expedition von Dr. H. O. Forbes nach Sokotra. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 50: 200-202.
 (347) 	Über 3 Werke von Métin, Reitemeyer und Fenn. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 50(Literaturbericht, Afrika, Nr. 424-426).
 (348) 	Die Umgegend von Schaghab und el-Kab. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1904: 574-593, t. 14.
@@ -585,7 +584,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (358) 	Kulturversuche in Toga. – Deutsche Kolonialzeitung 21(28): 275-276.
 (359) 	Erinnerungen an Bernhard Fiedler. – Tägliche Rundschau, Berlin, Nr. 186, Unterhaltungsbeilage, S. 748.
  
-1905
+#### 1905
 (360) 	Esquisse de la partie Sud-ouest de la montagne de Thèbes. 1: 10000. – In: Dr. Lortet et C.Cailllard, la Faune momifiée de l'ancienne Egypte, IIme série , Lyon.
 (361) 	Der Taumellolch in altägyptischen Gräbern. Abdr. nach Voss. Zeit., 21. Juli 1904. – Annales du Service des Antiquités Egyptiennes, le Caire 1905: 1-6.
 (362) 	Mit Ludwig Diels: Vegetationstypen aus der Kolonie Eritrea. – Vegetationsbilder, herausgegeben von Dr. G. Karsten und Dr. H. Schenk, Jena, 2. Reihe, Heft 8 und 4. Reihe, Heft 2.
@@ -596,7 +595,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (367) 	Pseudoeolithe im nordischen Geschiebemergel. – Zeitschrift für Ethnologie 37: 912-915.
 (368) 	Der Besuch der Zwergneger in England. – Vossische Zeitung, Berlin, 8. Juni.
  
-1906
+#### 1906
 (369) 	Mit A. Aaronsohn: Die Auffindung des wilden Emmers (Triticum dicoccum) in Nord-Palästina. – Altneuland 3(7-8): 216-220.
 (370) 	Die Entdeckung des wilden Urweizens in Palästina. – Vossische Zeitung, Berlin, 21. Sept. und Annales du Service des Antiquités Egyptiennes, le Caire, S. 193-204.
 (371) 	Deutsch-französisches Wörterverzeichnis der die Steinzeit betreffenden Literatur. Lexique français-allemand des termes employés, dans la littérature traitant de l'age de la pierre. – Als Mssr. gedr., W. Pormetter, Berlin, S.1-78.
@@ -606,7 +605,7 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (375) 	Ein grosser Silberfund aus der XIX. Dyn. – Vossische Zeitung, Berlin, 23. Dez.
 (376) 	Der Torfmull und seine Bedeutung für den Verkehr mit den Tropen. – Deutsche Kolonialzeitung 23(33): 322-323.
  
-1907
+#### 1907
 (377) 	Kartenskizze der Umgegend von Gafsa in Süd-Tunesien. 1: 100000. – Zeitschrift für Ethnologie 39: 147.
 (378) 	Steinzeitliche Forschungen in Süd-Tunesien. – Zeitschrift für Ethnologie 39: 139-181.
 (379) 	Das Höhlenpaläolithikum von Sizilien und Süd-Tunesien. – Zeitschrift für Ethnologie 39: 832-915, t. X-XI.
@@ -618,26 +617,26 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (385) 	Ägyptische Relikten im äthiopischen Süden. – Vossische Zeitung, Berlin, 30. Juni, und Annales du Service des Antiquités Egyptiennes, le Caire S.184-191 .
 (386) 	Zum hundertjährigen Gedenktage des Bombardements von Kopenhagen. Alexandriner Erinnerungen an den 11. Juli 1882. – Rigasche Zeitung, Nr. 197, 25. Aug. ).
  
-1908
+#### 1908
 (387) 	Die Kultur des Urweizens von Palästina. – Palästina. Monatsschrift für die wirtschaftliche Erschliessung Palästinas 5: 184-186.
 (388) 	Über die von A. Aaronsohn ausgeführten Nachforschungen nach dem wilden Emmer (Triticum dicoccoides). – Berichte der Deutschen Botanischen Gesellschaft 26a: 310-324.
 (389) 	Über die Pflanzenreste der Gräber des Mittleren Reiches zu Abusir. – In: H. Schäfer, Priestergräber, Leipzig, S. 152-164.
 (390) 	Brief aus Biskra an Geh.-R. Prof. Lissauer, Über das Problem eines libyschen Ammonskults. – Zeitschrift für Ethnologie 1908: 88-95.
 (391) 	Nilstauwerke und durch sie bedrohte Denkmäler. – Vossische Zeitung, Berlin, 28. Juli, und Annales du Service des Antiquités Egyptiennes, le Caire S. 162-171.
  
-1909
+#### 1909
 (392) 	Karte der westlichen Umgebung von Luksor und Karnak (Theben) in 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
 (393) 	Was Afrika Amerika zu verdanken hat. – Vossische Zeitung, Berlin, 30. Nov.
 (394) 	Über altpaläolithische Manufakte aus dem Sandsteingebiet von Oberägypten. – Zeitschrift für Ethnologie 1909: 735-744.
  
-1910
+#### 1910
 (395) 	Grosse Erfolge der Baumwollenkultur in Algerien. – Vossische Zeitung, Berlin, Nr. 307, 3. Juli.
 (396) 	Bemerkungen zu Fr. Stuhlmann, »Beitrage zur Kulturgeschichte von Ost-Afrika«. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1910(1-3): l-55.
 (397) 	Über die Bedeutung der »Kulturgeschichte«. – Botanische Jahrbücher 45(2): 28-38.
 (398) 	Le quartier des villas Romaines du vieil Hippone à Bone. – Le Reveil Bonois, 9. Nov.
 (399) 	Aus dem römischen Villenviertel des alten Hippone. – Die Woche, Berlin, Nr. 30, S. 1266-1272 .
  
-1911
+#### 1911
 (400) 	Über 3 Werke von H.K.W. Kumm, W. Pietsch und A. Wade. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 57(2): 287 und 288.
 (401) 	Besprechung von A. Engler, Die Pflanzenwelt Afrikas. – Deutsche Kolonialzeitung, Berlin, S. 587-589.
 (402) 	Mit R. Muschler: Convolvulus trabutianus n. sp. – Feddes Repertorium 9: 566.
@@ -653,21 +652,21 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (410) 	Arabische Pflanzennamen aus Ägypten, Algerien und Jemen. – Berlin: Dietr. Reimer (Ernst Vohsen), S. 1-232.
 (411) 	Per il progresso agricolo della Tripolitania, lettera, Cairo, Febr. – Giornale di Sicilia, Palermo, 19. u. 20. Febr.
  
-1913
+#### 1913
 (412) 	Verzeichnis der Pflanzen. – In; Dr. E. Harter, Expedition to the Central Western Sahara. aus "Novitates Zoologicae", Tring-Museum 20: 145-163.
 (413) 	Das Problem des dem Gotte Seth geheiligten Tiers. – Berliner Tageblatt, Nr. 415, 17. Aug. und Umschau Frankfurt a. M.
  
-1914
+#### 1914
 (414) 	Von Riga ins Land der Mangbettu. Fragment einer Selbstbiographie. – In: "Berühmte Autoren des Verlages F. A. Brockhaus", Leipzig, S. 76-80.
 (415) 	Dr. Reno Muschlers Fälschungen. – Verhandlungen des Botanischen Vereins der Provinz Brandenburg 56: 170-175.
 (416) 	Mittelalterliche Fayenceöfen bei Kairo. – Vossische Zeitung, Berlin, 3. Juni.
 (417) 	Wie England in den Besitz von Ägypten kam. – Vossische Zeitung, Berlin, Sonntagsbeilage, 4.Okt.
 (418) 	Was wird aus Ägypten? – Berliner Tageblatt, 11. Nov.
  
-1915
+#### 1915
 (419) 	Vom beliebten und vom unbeliebten Deutschen. – Süddeutsche Monatshefte, München, Angust, S. 769-786.
  
-1916
+#### 1916
 (420) 	Eduard Hahn, "Von der Hacke zum Pflug". – Deutsche Literaturzeitung 37, Nr. 28.
 (421) 	Spaziergänge im Verlagsbuchhandel. – Börsenblatt für den deutschen Buchhandel, Leipzig, 29. Dez.
 (422) 	Im Herzen von Afrika, ed. 3. – Leipzig: Brockhaus. . – Leipzig: Brockhaus.
@@ -676,19 +675,19 @@ Spätere deutsche Ausgaben : 1984, Stuttgart: Erdmann.
 (430) 	Auf unbetretenen Wegen in Aegypten. Aus eigenen verschollenen Ahhandlungen und Aufzeichnungen. – Berlin & Hamburg: Hoffman und Campe.
 (431) 	Was Afrika an Kulturpflanzen Amerika zu verdanken hat und was es ihm gab. – In: Festschrift Eduard Seler zum 70. Geburtstag, S. 503–542.
  
-1923
+### 1923
 (432) 	Plantas mexicanas en el herbario más antiguo deI mundo. – In: Der Kolonial-Deutsche, Edición especial para México. Berlin, p. 6–7.
  
-1924
+#### 1924
 (433) 	"Zum Geleit", Vorwort. – In: Keimer, Ludwig, Die Gartenpflanzen im alten Aegypten. Aegyptologisehe Studien, p. Vll-IX.
 (434) 	Prof. Georg Schweinfurth und die aegyptiscbe Frage. Zwei Briefe von Prof. Schweinfurt. – Stimmen des Orients 1924(11/12): 293–297.
  
-1925
+#### 1925
 (435) 	Der unglücklichste Tag meines Lebens. – In: Die Welt in Wort und Bild, Ferdinands Hirts Sach-Lesehefte, 2. Erdkunde. Heft 5: Entdecker und Forscher. Breslau: Ferdinand Hirt.
 (436) 	An der Küste des Roten Meeres. – In: Wege zum Wissen. Berlin: Ullstein.
 (437) 	Afrikanisches Skizzenbuch, Verschollene Merkwürdigkeiten. – Berlin: Deutsche Buchgemeinschaft. [Aufsatzsammlung, mit einer Autobiographie S.9–24 und Nachdrucken der 12 früher erschienenen Artikel (82), (113), (12), (223)+(153), (262), (274), (283), (399), (385), (308), (355) in einem Band.
  
-1926
+#### 1926
 (438) 	Discours prononcé au Caire a la séance d'inauguration le 2 Juin 1875. – Bulletin de la Société Royale de Géographie d'Ègypte 14: 113–127.
 (439) 	Über wild gesammelte Arten von Reis in Afrika (Briefe an A. Maurizio aus dem Jahre 1916). – Berichte der Deutschen Botanischen Gesellschaft 44: 165-167.
 
