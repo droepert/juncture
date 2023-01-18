@@ -1,18 +1,23 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "link": "https://www.jacq.org/detail.php?ID=1568802"
-      },
-      "geometry": {
-        "coordinates": [
-          2.4941492797575506,
-          28.002712856188523
-        ],
-        "type": "Point"
-      }
-    }
+    	"type": "FeatureCollection",
+        "properties": {
+        "label": "Schweinfurth"
+        },
+        "features": [{
+            "type": "Feature",
+            "properties": {
+            "label": "Ruellia prostrata Pav. ex Nees",
+            "time": "1865-06-18",
+            "family": "Acanthaceae",
+            "country": "Sudan"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.15,
+                12.96667
+            ],
+            "profile_url": "http://example.com/profile/article"
+            }}
   ]
 }
