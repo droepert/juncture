@@ -146,288 +146,288 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
  
 #### 1863
 (6) 	Aufruf an die Botaniker. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1863: 349.  
-(7) 	Bericht über die von M. v. Beurmann aus dem mittleren Sudan eingesandten Pflanzen- proben. – Zeitschrift für allgemeine Erdkunde, ser. 2, 15: 293-301. 
+(7) 	Bericht über die von M. v. Beurmann aus dem mittleren Sudan eingesandten Pflanzen- proben. – Zeitschrift für allgemeine Erdkunde, ser. 2, 15: 293-301.  
 (8) 	Tithymalus Braunii Schwf., a new Euphorbiaceae from Abyssinia. – Journal of Botany, British and Foreign. London 1: 295.  
  
 #### 1864
-(9) 	Brief an Dr. H. Barth, aus Suakin, 10. Juli 1864. – Zeitschrift für allgemeine Erdkunde, ser. 2, 17: 328–331.
-(10) 	Fahrt auf dem Sues-Kanal. – Globus. Illustrierte Zeitschrift für Länder- und Völkerkunde. Braunschweig 6: 33–42.
-(11) 	Reise in die Gebirge der Ababde und Bischarin am Roten Meer. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1864: 331–333.
+(9) 	Brief an Dr. H. Barth, aus Suakin, 10. Juli 1864. – Zeitschrift für allgemeine Erdkunde, ser. 2, 17: 328–331.  
+(10) 	Fahrt auf dem Sues-Kanal. – Globus. Illustrierte Zeitschrift für Länder- und Völkerkunde. Braunschweig 6: 33–42.  
+(11) 	Reise in die Gebirge der Ababde und Bischarin am Roten Meer. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1864: 331–333.  
  
 #### 1865
-(12) 	Ausflüge um Kosser. – Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 15: 267–280. .
-(13) 	Reise an der Küste des Roten Meeres van Kosser bis Suakin. – Zeitschrift für allgemeine Erdkunde, ser. 2, 18: 131–150, 283–313, 321–384. .
-(14) 	Vier Briefe an Prof. Dr. H. Barth (aus Kassala und aus Gallabat). – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: 305-323.
-(15) 	Reise von Suakin nach Kassala. – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: 385-406.
-(16) 	Reise von Kassala nach Gedarif, Mai 1865. – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: 407-415.
-(17) 	Reise von Gedarif nach Matamma. – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: 416-427.
-(18) 	Der Nil und das Baer'sche Gesetz der Uferbildung. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1865: 126-128.
-(19) 	Das Land am Elba- und Soturba-Gebirge. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1865: 330-340.
-(20) 	Originalkarte des Soturba-Gebirges, 1 : 500000. – Mittheilungen aus Justus Perthes' Geographischer Anstalt, 1865, Tafel 11.
-(21) 	Reise des Dr. G. Schweinfurth an der Westküste des Roten Meeres (6 Kartons). 1864. 1: 4000000 und 1: 1000000. – Zeitschrift für allgemeine Erdkunde, ser. 2, 18: 511, t. 4.
-(22) 	Routen und Profile im nordöstlichen Afrika, 1: 2000000. – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: t. 4.
-(23) 	Flora des Soturba an der nubischen Küste. – Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 15: 537-560.
+(12) 	Ausflüge um Kosser. – Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 15: 267–280.  
+(13) 	Reise an der Küste des Roten Meeres van Kosser bis Suakin. – Zeitschrift für allgemeine Erdkunde, ser. 2, 18: 131–150, 283–313, 321–384.  
+(14) 	Vier Briefe an Prof. Dr. H. Barth (aus Kassala und aus Gallabat). – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: 305-323.  
+(15) 	Reise von Suakin nach Kassala. – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: 385-406.  
+(16) 	Reise von Kassala nach Gedarif, Mai 1865. – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: 407-415.  
+(17) 	Reise von Gedarif nach Matamma. – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: 416-427.  
+(18) 	Der Nil und das Baer'sche Gesetz der Uferbildung. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1865: 126-128.  
+(19) 	Das Land am Elba- und Soturba-Gebirge. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1865: 330-340.  
+(20) 	Originalkarte des Soturba-Gebirges, 1 : 500000. – Mittheilungen aus Justus Perthes' Geographischer Anstalt, 1865, Tafel 11.  
+(21) 	Reise des Dr. G. Schweinfurth an der Westküste des Roten Meeres (6 Kartons). 1864. 1: 4000000 und 1: 1000000. – Zeitschrift für allgemeine Erdkunde, ser. 2, 18: 511, t. 4.  
+(22) 	Routen und Profile im nordöstlichen Afrika, 1: 2000000. – Zeitschrift für allgemeine Erdkunde, ser. 2, 19: t. 4.  
+(23) 	Flora des Soturba an der nubischen Küste. – Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 15: 537-560.  
  
 #### 1866
-(24) 	Brief an Dr. P. Ascherson aus Gallabat. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1: 177-183.
-(25) 	Reise von Gedarif zum Blauen Nil. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1: 183-186, t. 3.
+(24) 	Brief an Dr. P. Ascherson aus Gallabat. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1: 177-183.  
+(25) 	Reise von Gedarif zum Blauen Nil. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1: 183-186, t. 3.  
  
 #### 1867
-(26) 	Reise von Chartum über Berber nach Suakin. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 2: 1-41, t. 2.
-(27) 	Über den Einfluss der Nordwinde auf die Vegetationsverhaltnisse des Roten Meeres und sein Niveau. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 2: 411-428.
-(28) 	Mit Böckeler, Garcke, C. H. Schultz, H. Graf Solms-Laubach, P. Ascherson und anderen: Beitrag zur Flora Aethiopiens. Erste Abteilung, mit 4 Tafeln. – Berlin: Georg Reimer, S. 1-311.
-(29) 	Aufzählung und Beschreibung der Acacien-Arten des Nilgebiets. – Linnaea 1(3-4): 309-376.
+(26) 	Reise von Chartum über Berber nach Suakin. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 2: 1-41, t. 2.  
+(27) 	Über den Einfluss der Nordwinde auf die Vegetationsverhaltnisse des Roten Meeres und sein Niveau. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 2: 411-428.  
+(28) 	Mit Böckeler, Garcke, C. H. Schultz, H. Graf Solms-Laubach, P. Ascherson und anderen: Beitrag zur Flora Aethiopiens. Erste Abteilung, mit 4 Tafeln. – Berlin: Georg Reimer, S. 1-311.  
+(29) 	Aufzählung und Beschreibung der Acacien-Arten des Nilgebiets. – Linnaea 1(3-4): 309-376.  
  
 #### 1868
-(30) 	Brief an Dr. P. Ascherson (aus Sues). – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 3: 517-521.
-(31) 	Ein Besuch bei den Schwefelminen und Petroleumquellen von Gimsah. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 3: 521-527.
-(32) 	Brief an Prof. Dr. A. Braun (aus Suakin). – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 3: 528-530.
-(33) 	Phytogeographische Karte des Nil-Gebiets und der Uferländer des Roten Meeres, 1: 10000000. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1868: t. 9.
-(34) 	Zur Geschichte der Pferdebohne der westindischen Neger (Canavalia). – Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 18: 199-200.
-(35) 	Novae species aethiopicae. – Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 18: 651-688.
-(36) 	Vegetationsskizzen aus den südnubischen Küstengebirgen. – Botanische Zeitung 26: 819-860.
-(37) 	Pflanzengeographische Skizze des gesamten Nilgebiets und der Küstenländer des Roten Meeres. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1868: 113-129, 155-169, 244-248.
-(38) 	Reliquiae Kotschyanae. Beschreibung und Abbildung von Pflanzen, welche Th. Kotschy 1837 bis 1839 gesammelt hat, mit 35 lith. Tafeln und Bild Kotschys. – Berlin: Georg Reimer.
+(30) 	Brief an Dr. P. Ascherson (aus Sues). – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 3: 517-521.  
+(31) 	Ein Besuch bei den Schwefelminen und Petroleumquellen von Gimsah. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 3: 521-527.  
+(32) 	Brief an Prof. Dr. A. Braun (aus Suakin). – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 3: 528-530.  
+(33) 	Phytogeographische Karte des Nil-Gebiets und der Uferländer des Roten Meeres, 1: 10000000. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1868: t. 9.  
+(34) 	Zur Geschichte der Pferdebohne der westindischen Neger (Canavalia). – Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 18: 199-200.  
+(35) 	Novae species aethiopicae. – Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 18: 651-688.  
+(36) 	Vegetationsskizzen aus den südnubischen Küstengebirgen. – Botanische Zeitung 26: 819-860.  
+(37) 	Pflanzengeographische Skizze des gesamten Nilgebiets und der Küstenländer des Roten Meeres. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 1868: 113-129, 155-169, 244-248.  
+(38) 	Reliquiae Kotschyanae. Beschreibung und Abbildung von Pflanzen, welche Th. Kotschy 1837 bis 1839 gesammelt hat, mit 35 lith. Tafeln und Bild Kotschys. – Berlin: Georg Reimer.  
  
 #### 1869
-(39) 	Zwei Briefe aus Inner-Afrika an den Erzbischof von Kalocsa, Dr. Ludwig Haynald. – Ausland 1869: 444-447.
-(40) 	Briefe vom Oberen Nil, Chartum 28. Dez. 1868. – Kölnische Zeitung Nr. 70, 2. Bl., 11. März.
-(41) 	Vorläufige Nachrichten über die Reise bis Chartum Aug.-Nov. 1868. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 15: 53-57.
-(42) 	Brief an Dr. A. Petermann. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 15: 109.
-(43) 	Skizze eines neuen Weges von Suakin nach Berber, Sept. 1868. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 15: 281-291.
-(44) 	Brief an Prof. Dr. A. Braun aus Chartum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 4: 311-316.
-(45) 	Brief an seine Mutter aus Faschoda, 2. Febr. 1869. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 4: 316-333.
-(46) 	Neue Karte des Landes zwischen Suakin und Berber, 1 :1000000. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 15: t. 15.
-(47) 	Pflanzennamen der Bega-Sprache zwischen Suakin und Berber. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 4: 334-339.
-(48) 	November-Flora von Chartum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 4: 339-346.
+(39) 	Zwei Briefe aus Inner-Afrika an den Erzbischof von Kalocsa, Dr. Ludwig Haynald. – Ausland 1869: 444-447.  
+(40) 	Briefe vom Oberen Nil, Chartum 28. Dez. 1868. – Kölnische Zeitung Nr. 70, 2. Bl., 11. März.  
+(41) 	Vorläufige Nachrichten über die Reise bis Chartum Aug.-Nov. 1868. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 15: 53-57.  
+(42) 	Brief an Dr. A. Petermann. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 15: 109.  
+(43) 	Skizze eines neuen Weges von Suakin nach Berber, Sept. 1868. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 15: 281-291.  
+(44) 	Brief an Prof. Dr. A. Braun aus Chartum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 4: 311-316.  
+(45) 	Brief an seine Mutter aus Faschoda, 2. Febr. 1869. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 4: 316-333.  
+(46) 	Neue Karte des Landes zwischen Suakin und Berber, 1 :1000000. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 15: t. 15.  
+(47) 	Pflanzennamen der Bega-Sprache zwischen Suakin und Berber. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 4: 334-339.  
+(48) 	November-Flora von Chartum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 4: 339-346.  
  
 #### 1870
-(49) 	Brief an Prof. Dr. R. Hartmann. – Zeitschrift für Ethnologie 2: 65-66.
-(50) 	Wahrnehmungen auf einer Fahrt von Chartum nach dem Gazellen-Fluss. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 5: 29-62.
-(51) 	Von der Meschera des Bahr-el-Ghasal zu den Seriben des Ghattas. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 5: 97-150.
-(52) 	Aufenthalt im Djur-Gebiet, Sommer 1869. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 16: 18-20.
-(53) 	Due lettere scritte dal Gianghe. – Boll. della Soc. Geogr. Italiana, Roma, 5: 108-128.
-(54) 	Briefe aus Zentral-Afrika. – Kölnische Zeitung, 22. Dez. 1870.
-(55) 	Originalkarte des Landes zwischen Tondj und Djur, 1: 1000000. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 5: t. 3.
-(56) 	Vegetationsskizzen vom Bahr-el-Ghasal. – Botanuische Zeitung 28: 82-90.
+(49) 	Brief an Prof. Dr. R. Hartmann. – Zeitschrift für Ethnologie 2: 65-66.  
+(50) 	Wahrnehmungen auf einer Fahrt von Chartum nach dem Gazellen-Fluss. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 5: 29-62.  
+(51) 	Von der Meschera des Bahr-el-Ghasal zu den Seriben des Ghattas. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 5: 97-150.  
+(52) 	Aufenthalt im Djur-Gebiet, Sommer 1869. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 16: 18-20.  
+(53) 	Due lettere scritte dal Gianghe. – Boll. della Soc. Geogr. Italiana, Roma, 5: 108-128.  
+(54) 	Briefe aus Zentral-Afrika. – Kölnische Zeitung, 22. Dez. 1870.  
+(55) 	Originalkarte des Landes zwischen Tondj und Djur, 1: 1000000. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 5: t. 3.  
+(56) 	Vegetationsskizzen vom Bahr-el-Ghasal. – Botanuische Zeitung 28: 82-90.  
  
 #### 1871
-(57) 	Briefe an Prof. Dr. A. Braun. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 6: 47-57.
-(58) 	Streifzüge zwischen Toudj und Rohl. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 6: 193-234.
-(59) 	Reise in das Land der Niamniam und Monbuttu (aus Ssabbi, 4. Juli 1870). – Mittheilungen aus Justus Perthes' Geographischer Anstalt 17: 11-16.
-(60) 	Bemerkungen zur Karte seiner Reisen im oberen Nil-Gebiete. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 17: 131-139.
-(61) 	Beim braunen Caesar. Gartenlaube, Leipzig 1871: 50-52.
-(62) 	Originalkarte von Dr. G. Schweinfurths Reisen im oberen Nil-Gebiete. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 17: t. 7.
-(63) 	Vegetationscharakter und Nutzpflanzen der Niamniam- und Monbuttu-Länder. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 6: 234-248. http://www.digizeitschriften.de/dms/img/?PPN=PPN391365657_1871_0006&DMDI...(Link ist extern)" target="_blank">online
-(64) 	Bericht über die botanischen Ergebnisse der ersten Niamniamreise. – Botanische Zeitung 29: 301-317, 324-341, 351-366, 372-376.
+(57) 	Briefe an Prof. Dr. A. Braun. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 6: 47-57.  
+(58) 	Streifzüge zwischen Toudj und Rohl. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 6: 193-234.  
+(59) 	Reise in das Land der Niamniam und Monbuttu (aus Ssabbi, 4. Juli 1870). – Mittheilungen aus Justus Perthes' Geographischer Anstalt 17: 11-16.  
+(60) 	Bemerkungen zur Karte seiner Reisen im oberen Nil-Gebiete. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 17: 131-139.  
+(61) 	Beim braunen Caesar. Gartenlaube, Leipzig 1871: 50-52.  
+(62) 	Originalkarte von Dr. G. Schweinfurths Reisen im oberen Nil-Gebiete. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 17: t. 7.  
+(63) 	Vegetationscharakter und Nutzpflanzen der Niamniam- und Monbuttu-Länder. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 6: 234-248. http://www.digizeitschriften.de/dms/img/?PPN=PPN391365657_1871_0006&DMDI...(Link ist extern)" target="_blank">online  
+(64) 	Bericht über die botanischen Ergebnisse der ersten Niamniamreise. – Botanische Zeitung 29: 301-317, 324-341, 351-366, 372-376.  
  
 #### 1872
-(65) 	Tagebuch einer Reise zu den Niamniam und Monbuttu. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 7: 385-475.
-(66) 	Aus der Region des Gazellen-Flusses in Afrika. – Globus. Illustrierte Zeitschrift für Länder- und Völkerkunde. Braunschweig 21: 199-203.
-(67) 	Brief an A. Petermann über seine Reise durch Dar-Fertit und auf dem Bahr-el-Ghasal. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 18: 31-34.
-(68) 	Ergebnisse einer Reise nach Dar-Fertit. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 18: 281-295.
-(69) 	Mit Dr. J. Hann: Höhenmessungen in Chartum, dem Djur-Lande und Dar-Fertit. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 18: 432-433.
-(70) 	Originalkarte vom Bahr-el-Ghasal-Gebiet, 1: 2000000. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 7: t. 6.
-(71) 	Originalkarte von Dar-Fertit, 1: 1000000. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 18: t. 15.
-(72) 	Völkerskizzen aus dem Gebiete des Bahr-el-Ghasal. – Globus. Illustrierte Zeitschrift für Länder- und Völkerkunde. Braunschweig 22(15): 225-228.
-(73) 	Linguistische Ergebnisse einer Reise nach Central-Afrika. – Zeitschrift für Ethnologie 4(Suppl.): 1-82.
+(65) 	Tagebuch einer Reise zu den Niamniam und Monbuttu. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 7: 385-475.  
+(66) 	Aus der Region des Gazellen-Flusses in Afrika. – Globus. Illustrierte Zeitschrift für Länder- und Völkerkunde. Braunschweig 21: 199-203.  
+(67) 	Brief an A. Petermann über seine Reise durch Dar-Fertit und auf dem Bahr-el-Ghasal. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 18: 31-34.  
+(68) 	Ergebnisse einer Reise nach Dar-Fertit. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 18: 281-295.  
+(69) 	Mit Dr. J. Hann: Höhenmessungen in Chartum, dem Djur-Lande und Dar-Fertit. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 18: 432-433.  
+(70) 	Originalkarte vom Bahr-el-Ghasal-Gebiet, 1: 2000000. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 7: t. 6.  
+(71) 	Originalkarte von Dar-Fertit, 1: 1000000. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 18: t. 15.  
+(72) 	Völkerskizzen aus dem Gebiete des Bahr-el-Ghasal. – Globus. Illustrierte Zeitschrift für Länder- und Völkerkunde. Braunschweig 22(15): 225-228.  
+(73) 	Linguistische Ergebnisse einer Reise nach Central-Afrika. – Zeitschrift für Ethnologie 4(Suppl.): 1-82.  
  
 #### 1873
-(74) 	Relazione del suo viaggio. – Bollettino della Società Geografica Italiana 9.
-(75) 	Sur l'origine africaine des plantes cultivées en Egypte (ins Deutsche übers. in der Monatsschr. des Ver. zur Beförd. des Gartenbaus 1874: 1-17.) – Bulletin de l’Institut d’Égyptien 12: 200-206.
-(76) 	Über die Vegetationsverhältnisse einiger Länder und Ufergegenden des Roten Meeres. – Jahresbericht der Geographischen Gesellschaft in München 3: 130-154.
-(77) 	Sur les plantes cultivées en Egypte (erwähnt in Bull. Nr. 9, 2. Dez. 1898, S. 16. . – Nature 29: 110-111.
-(78) 	Das Volk der Monbuttu in Central-Afrika. – Zeitschrift für Ethnologie 5: 1-27.
+(74) 	Relazione del suo viaggio. – Bollettino della Società Geografica Italiana 9.  
+(75) 	Sur l'origine africaine des plantes cultivées en Egypte (ins Deutsche übers. in der Monatsschr. des Ver. zur Beförd. des Gartenbaus 1874: 1-17.) – Bulletin de l’Institut d’Égyptien 12: 200-206.  
+(76) 	Über die Vegetationsverhältnisse einiger Länder und Ufergegenden des Roten Meeres. – Jahresbericht der Geographischen Gesellschaft in München 3: 130-154.  
+(77) 	Sur les plantes cultivées en Egypte (erwähnt in Bull. Nr. 9, 2. Dez. 1898, S. 16. . – Nature 29: 110-111.  
+(78) 	Das Volk der Monbuttu in Central-Afrika. – Zeitschrift für Ethnologie 5: 1-27.  
  
 #### 1874
-(79) 	The heart of Africa, travels and adventures from 1868 to 1871. Translated by Ellen E. Frewer. – London: Sampson Low, Marston, Low, and Searle, 2 Vols.
-(80) 	Im Herzen von Afrika, Reisen und Entdeckungen im centralen Aequatorial-Afrika während der Jahre 1868 bis 1871. 2 Bände. – Leipzig: F, A. Brockhaus.
-(81) 	Die Oasen der Libyschen Wüste. Vortrag geh. in der geogr. Sektion der Brit. Association zu Belfast. – Kölnische Zeitung, 14. Sept.
-(82) 	Aus dem nächtlichen Tierleben in der Oase. – Gartenlaube, S. 31-35 .
-(83) 	Brief an Prof. Rob. Hartmann aus el-Chargeh. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 1: 87-90.
-(84) 	Echtheit der Akka. – Zeitschrift für Ethnologie 6: 121.
+(79) 	The heart of Africa, travels and adventures from 1868 to 1871. Translated by Ellen E. Frewer. – London: Sampson Low, Marston, Low, and Searle, 2 Vols.  
+(80) 	Im Herzen von Afrika, Reisen und Entdeckungen im centralen Aequatorial-Afrika während der Jahre 1868 bis 1871. 2 Bände. – Leipzig: F, A. Brockhaus.  
+(81) 	Die Oasen der Libyschen Wüste. Vortrag geh. in der geogr. Sektion der Brit. Association zu Belfast. – Kölnische Zeitung, 14. Sept.  
+(82) 	Aus dem nächtlichen Tierleben in der Oase. – Gartenlaube, S. 31-35 .  
+(83) 	Brief an Prof. Rob. Hartmann aus el-Chargeh. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 1: 87-90.  
+(84) 	Echtheit der Akka. – Zeitschrift für Ethnologie 6: 121.  
  
 #### 1875
-(85) 	Discours prononcé au Caire à la séance d'inauguration le 2 juin 1875. – Société Khédiviale de Géographie, Alexandrie, A. Moures.
-(86) 	Türkische Ausgabe von "Im Herzen von Afrika" in einem Bande von 911 Seiten. – Konstantinopel.
-(87) 	Über die Art des Reisens in Afrika. – Deutsche Rundschau, Berlin, 245-275.
-(88) 	Au coeur de l'Afrique. Voyages et découvertes dans lea régions inexplorées de l'Afrique centrale. Traduit par Mme H. Loreau. – Paris: Hachette & Cie., 2 vols.
-(89) 	Nel couer del' Africa, tre anni di viaggi ed avventure. – Milano: Fratelli Treves, 2 vo1.
-(90) 	Aufnahme der Grossen Oase, 1 : 300000. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 21: t. 19.
-(91) 	Notizen zur Kenntnis der Oase el-Chargeh. I. Altertümer. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 21: 384-393.
-(92) 	Verwandtschaftliche Beziehungen zwischen süd- und mittelafrikanischen Völkern. – Zeitschrift für Ethnologie 7: 23.
-(93) 	Übereinstimmung in der Begräbnisweise bei Betschuana, Bongo und Mittu. – Zeitschrift für Ethnologie 7: 24.
-(94) 	Artes africanae. Abbildungen und Beschreibungen von Erzeugnissen des Kunstfleisses zentralafrikanischer Völker. Mit 21 lith. Tafeln. – Leipzig: F. A. Brockhaus.
+(85) 	Discours prononcé au Caire à la séance d'inauguration le 2 juin 1875. – Société Khédiviale de Géographie, Alexandrie, A. Moures.  
+(86) 	Türkische Ausgabe von "Im Herzen von Afrika" in einem Bande von 911 Seiten. – Konstantinopel.  
+(87) 	Über die Art des Reisens in Afrika. – Deutsche Rundschau, Berlin, 245-275.  
+(88) 	Au coeur de l'Afrique. Voyages et découvertes dans lea régions inexplorées de l'Afrique centrale. Traduit par Mme H. Loreau. – Paris: Hachette & Cie., 2 vols.  
+(89) 	Nel couer del' Africa, tre anni di viaggi ed avventure. – Milano: Fratelli Treves, 2 vo1.  
+(90) 	Aufnahme der Grossen Oase, 1 : 300000. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 21: t. 19.  
+(91) 	Notizen zur Kenntnis der Oase el-Chargeh. I. Altertümer. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 21: 384-393.  
+(92) 	Verwandtschaftliche Beziehungen zwischen süd- und mittelafrikanischen Völkern. – Zeitschrift für Ethnologie 7: 23.  
+(93) 	Übereinstimmung in der Begräbnisweise bei Betschuana, Bongo und Mittu. – Zeitschrift für Ethnologie 7: 24.  
+(94) 	Artes africanae. Abbildungen und Beschreibungen von Erzeugnissen des Kunstfleisses zentralafrikanischer Völker. Mit 21 lith. Tafeln. – Leipzig: F. A. Brockhaus.  
  
 #### 1876
-(95) 	Au coeur de l'Afrique (ed. ilustree). – Le Tour du Monde, Paris 27: 273-368, 28: 209-288.
-(96) 	Reise von Dr. Güssfeld und Dr. Schweinfurth durch die Arabische Wüste vom Nil zum Roten Meer. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 22: 261-264.
-(97) 	Prof. Dr. Aschersons Reise nach der Kleinen Oase. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 22: 264-260.
-(98) 	Observations sur la carte de ritinéraire de Linant de Bellefonds. – Bulletin de la Société Khédiviale de Géographie 1: 93-97.
-(99) 	Vorwort. In: Klunzinger, C. B., Bilder aus Ober-Ägypten. – Stuttgart: .
-(100) 	Reise von Dr. Güssfeldt und Dr. Schweinfurth durch die Arabische Wüste vom Nil zum Roten Meer. – Geogr. Nachrichten von Dr. G. Schweinfurth in Cairo l: 1-8 .
-(101) 	Carte de l'itinéraire de Linant de Bellefonds. – Bulletin de la Société Khédiviale de Géographie 1.
+(95) 	Au coeur de l'Afrique (ed. ilustree). – Le Tour du Monde, Paris 27: 273-368, 28: 209-288.  
+(96) 	Reise von Dr. Güssfeld und Dr. Schweinfurth durch die Arabische Wüste vom Nil zum Roten Meer. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 22: 261-264.  
+(97) 	Prof. Dr. Aschersons Reise nach der Kleinen Oase. – Mittheilungen aus Justus Perthes' Geographischer Anstalt 22: 264-260.  
+(98) 	Observations sur la carte de ritinéraire de Linant de Bellefonds. – Bulletin de la Société Khédiviale de Géographie 1: 93-97.  
+(99) 	Vorwort. In: Klunzinger, C. B., Bilder aus Ober-Ägypten. – Stuttgart: .  
+(100) 	Reise von Dr. Güssfeldt und Dr. Schweinfurth durch die Arabische Wüste vom Nil zum Roten Meer. – Geogr. Nachrichten von Dr. G. Schweinfurth in Cairo l: 1-8 .  
+(101) 	Carte de l'itinéraire de Linant de Bellefonds. – Bulletin de la Société Khédiviale de Géographie 1.  
  
 #### 1877-1888
-(102) 	Zahlreiche Berichte aus Kairo. – Kölnische Zeitung.
+(102) 	Zahlreiche Berichte aus Kairo. – Kölnische Zeitung.  
  
 1877
-(103) 	Au Coeur de l'Afrique, abrégé par J. Belin de Launay. – Paris: Hachette & Cie., 1 Band
-(104) 	Reise durch die Arabische Wüste von Heluan bis Qeneh (Brief an Dr. P. Güssfeldt). – Mittheilungen aus Justus Perthes' Geographischer Anstalt 23: 387-389.
-(105) 	Über die beiden in Verona lebenden Zwergneger vom Stamme der Akka. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 8: 211-214.
+(103) 	Au Coeur de l'Afrique, abrégé par J. Belin de Launay. – Paris: Hachette & Cie., 1 Band  
+(104) 	Reise durch die Arabische Wüste von Heluan bis Qeneh (Brief an Dr. P. Güssfeldt). – Mittheilungen aus Justus Perthes' Geographischer Anstalt 23: 387-389.  
+(105) 	Über die beiden in Verona lebenden Zwergneger vom Stamme der Akka. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 8: 211-214.  
  
 #### 1878
-(106) 	Im Herzen von Afrika, ed. 2, 1 Band. – Leipzig: F. A. Brockhaus
-(107) 	Landschaftliche und ethnologische Photographien vom oberen Nil. – Zeitschrift für Ethnologie 10: 283.
-(108) 	Preface. Pp. vii-xii in: Klunzinger, C. B.: Upper Egypt. – London: .
-(109) 	Dr. Schweinfurth in the Arabian Desert of Egypt. (Letter to the Editor). – The Athenaeum 2645 (Juli): 19-20.
-(110) 	La terra incognita delr Egitto propriamente detto. – L'Esploratore, Milano 1(4): 97-101, (5): 129-143, (6): 169-179.
-(111) 	Lettera al Direttore del Giornale La Finanza, Cairo. – L'Esploratore, Milano 1(7): 209.
-(112) 	Il Deserto Orientale Egiziano, Schizzo originale. 1: 1500000. – L' Esploratore 1(4): carta 4.
-(113) 	Die ältesten Klöster der Christenheit (St. Antonins und St. Paulus). – In Bodenstedt, Kunst und Leben, Stuttgart, S. 275-316. .
+(106) 	Im Herzen von Afrika, ed. 2, 1 Band. – Leipzig: F. A. Brockhaus  
+(107) 	Landschaftliche und ethnologische Photographien vom oberen Nil. – Zeitschrift für Ethnologie 10: 283.  
+(108) 	Preface. Pp. vii-xii in: Klunzinger, C. B.: Upper Egypt. – London: .  
+(109) 	Dr. Schweinfurth in the Arabian Desert of Egypt. (Letter to the Editor). – The Athenaeum 2645 (Juli): 19-20.  
+(110) 	La terra incognita delr Egitto propriamente detto. – L'Esploratore, Milano 1(4): 97-101, (5): 129-143, (6): 169-179.  
+(111) 	Lettera al Direttore del Giornale La Finanza, Cairo. – L'Esploratore, Milano 1(7): 209.  
+(112) 	Il Deserto Orientale Egiziano, Schizzo originale. 1: 1500000. – L' Esploratore 1(4): carta 4.  
+(113) 	Die ältesten Klöster der Christenheit (St. Antonins und St. Paulus). – In Bodenstedt, Kunst und Leben, Stuttgart, S. 275-316. .  
  
 #### 1879
-(114) 	Viaggio attraverso il deserto arabico da Heluan a Qeneh (übersetzt aus Petermanns Geogr. Mitt. 23, 1877). – L'Esploratore, Milano 1: 222-225.
-(115) 	Esplorazione di Gherardo Rohlfs da Tripoli alr Uadai. – L'Esploratore, Milano 2(1): 24-25.
-(116) 	Lettera al Direttore del Esploratore. – L'Esploratore, Milano 2(6): 186.
-(117) 	Lettera aI Direttore del Esploratore. – L'Esploratore, Milano 2(12): 401-403.
+(114) 	Viaggio attraverso il deserto arabico da Heluan a Qeneh (übersetzt aus Petermanns Geogr. Mitt. 23, 1877). – L'Esploratore, Milano 1: 222-225.  
+(115) 	Esplorazione di Gherardo Rohlfs da Tripoli alr Uadai. – L'Esploratore, Milano 2(1): 24-25.  
+(116) 	Lettera al Direttore del Esploratore. – L'Esploratore, Milano 2(6): 186.  
+(117) 	Lettera aI Direttore del Esploratore. – L'Esploratore, Milano 2(12): 401-403.  
  
 #### 1880
-(118) 	Bemerkungen zu der neuen Karte des Fayum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 15: 152-160.
-(119) 	Die Reise des Herrn Buchta zu den Bari. – Zeitschrift für Ethnologie 12: 28-32.
-(120) 	L'Esplorazione Rohlfs. – L'Esploratore, Milano 4(1): 26-28.
-(121) 	Lettera al Direttore del Esploratore. – L'Esploratore, Milano 4(2): 88-90.
-(122) 	Nuovi viaggi in Africa. – L'Esploratore, Milano 4(5): 185-186.
-(123) 	Gli Europei nel Sudan e la schiavitú. – L'Esploratore, Milano 4(7): 267-268.
-(124) 	Originalkarte des Fayum nach der von Rousseau-Bey 1871 veranst. trigon. Aufnahme, 1: 200000. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 15: t. 1.
-(125) 	Godfried Roth und Romulo Gessi, Wiederaufleben des Sklavenhandels in Ägypten. – Österreichische Monatsschrift für den Orient 6: 98-102.
+(118) 	Bemerkungen zu der neuen Karte des Fayum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 15: 152-160.  
+(119) 	Die Reise des Herrn Buchta zu den Bari. – Zeitschrift für Ethnologie 12: 28-32.  
+(120) 	L'Esplorazione Rohlfs. – L'Esploratore, Milano 4(1): 26-28.  
+(121) 	Lettera al Direttore del Esploratore. – L'Esploratore, Milano 4(2): 88-90.  
+(122) 	Nuovi viaggi in Africa. – L'Esploratore, Milano 4(5): 185-186.  
+(123) 	Gli Europei nel Sudan e la schiavitú. – L'Esploratore, Milano 4(7): 267-268.  
+(124) 	Originalkarte des Fayum nach der von Rousseau-Bey 1871 veranst. trigon. Aufnahme, 1: 200000. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 15: t. 1.  
+(125) 	Godfried Roth und Romulo Gessi, Wiederaufleben des Sklavenhandels in Ägypten. – Österreichische Monatsschrift für den Orient 6: 98-102.  
  
 #### 1881
-(126) 	Questioni africane. – L'Esploratore, Milano 5(2): 67.
-(127) 	Risola di Socotra (übersetzt aus Rigasche Zeitung, Juli 1881). – L'Esploratore, Milano 5(9): 310-312.
-(128) 	Brief an seinen Bruder Alexander über seine Reise nach Socotra. – Rigasche Zeitung.
-(129) 	Karte der Tour des Dr. Riebeck von Kairo zum Wadi Na'uk in der östl. Wüste, Jan.-Febr. 1881, 1 : 800000, Tagebuch einer Reise von Kairo nach den Gebirgen am Roten Meer von Dr. E. Riebeck. – Mitteilungen des Vereins für Erdkunde zu Halle a.d.S.
-(130) 	De la Flore Pharaonique. – Bulletin de l’Institut d’Égyptien 1882(3): 51-76.
+(126) 	Questioni africane. – L'Esploratore, Milano 5(2): 67.  
+(127) 	Risola di Socotra (übersetzt aus Rigasche Zeitung, Juli 1881). – L'Esploratore, Milano 5(9): 310-312.  
+(128) 	Brief an seinen Bruder Alexander über seine Reise nach Socotra. – Rigasche Zeitung.  
+(129) 	Karte der Tour des Dr. Riebeck von Kairo zum Wadi Na'uk in der östl. Wüste, Jan.-Febr. 1881, 1 : 800000, Tagebuch einer Reise von Kairo nach den Gebirgen am Roten Meer von Dr. E. Riebeck. – Mitteilungen des Vereins für Erdkunde zu Halle a.d.S.  
+(130) 	De la Flore Pharaonique. – Bulletin de l’Institut d’Égyptien 1882(3): 51-76.  
  
 #### 1882
-(131) 	Brief an Hofrat G. Rohlfs aus Ober-Aegypten. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 28: 275-276.
-(132) 	Notizie daI Sudan Egiziano. – L'Esploratore, Milano 6(2): 67.
-(133) 	La morte del Piaggia. Discorso tenuto alla Societa Chediviale di Geografia di Cairo. – L'Esploratore, Milano 6(3): 101-105.
-(134) 	La questione idrografica de1r Uelle. – L'Esploratore, Milano 6(11): 404-405.
-(135) 	Vorläufige Kartenskizze der Wüste zwischen Kairo und Sues, 1: 1000000. – Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin 1882.
-(136) 	Zur Beleuchtung der Frage über den Versteinerten Wald bei Cairo. – Zeitschrift der Deutschen Geologischen Gesellschaft, Berlin 1882: 139-145 u. Tafel VI-VII.
-(137) 	Über geognostische Beobachtungen G. Schweinfurths in der Wüste zwischen Cairo und Sues (von G. Beyrich). – Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin 1882.
-(138) 	Über die Beschiessung und die Plünderung (durch das Volk) von Alexandria am 11.-16. Juli 1882. – Kölnische Zeitung.
-(139) 	The Insurrection in the Sudan (letter to the secretary). – The Anti-Slaverv Reporter, London, 11. Nov., S. 265, 266.
-(140) 	Letter from Dr. Schweinfurth on the present state of the Soudan. – Times, 4. Nov.
+(131) 	Brief an Hofrat G. Rohlfs aus Ober-Aegypten. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 28: 275-276.  
+(132) 	Notizie daI Sudan Egiziano. – L'Esploratore, Milano 6(2): 67.  
+(133) 	La morte del Piaggia. Discorso tenuto alla Societa Chediviale di Geografia di Cairo. – L'Esploratore, Milano 6(3): 101-105.  
+(134) 	La questione idrografica de1r Uelle. – L'Esploratore, Milano 6(11): 404-405.  
+(135) 	Vorläufige Kartenskizze der Wüste zwischen Kairo und Sues, 1: 1000000. – Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin 1882.  
+(136) 	Zur Beleuchtung der Frage über den Versteinerten Wald bei Cairo. – Zeitschrift der Deutschen Geologischen Gesellschaft, Berlin 1882: 139-145 u. Tafel VI-VII.  
+(137) 	Über geognostische Beobachtungen G. Schweinfurths in der Wüste zwischen Cairo und Sues (von G. Beyrich). – Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin 1882.  
+(138) 	Über die Beschiessung und die Plünderung (durch das Volk) von Alexandria am 11.-16. Juli 1882. – Kölnische Zeitung.  
+(139) 	The Insurrection in the Sudan (letter to the secretary). – The Anti-Slaverv Reporter, London, 11. Nov., S. 265, 266.  
+(140) 	Letter from Dr. Schweinfurth on the present state of the Soudan. – Times, 4. Nov.  
  
 #### 1883
-(141) 	La cote de la Marmarique. Lettre du Dr. Schweinfurth à Mr. H. Duveyrier. – Comptes rendues, Société de Géographie, Paris 1883: 484.
-(142) 	Una visita al Porto di Tobruc (Cirenaica). – L'Esploratore, Milano 7(6): 207-222.
-(143) 	Ein Besuch in Tobruk an der Küste von Marmarica. – Marine -Verordnungs-Blatt, Berlin 1-16.
-(144) 	Una visita al Porto di Tobruc. (Cirenaica.) – Rivista Maritima, Roma 16: 423-443.
-(145) 	Une visite au Port de Tobrouk (Cyrénaique). – Bulletin de l’Institut d’Égyptien ser. 2, 1-27.
-(146) 	Geologisch-topographische Karte des Westabhanges des Mokattam bei Cairo. – Zeitschrift der Deutschen Geologischen Gesellschaft 1883: t. 20.
-(147) 	Karte der Uadis van Abu-Marua, Om-Sidr, Belih und Ghattar (östl. Wüste von Ägypten. 1: 75000. – In: Dr. Oskar Schneider, Naturwissenschaftliche Beitrage zur Geographie und Kulturgeschichte. Dresden
-(148) 	Mit P. Ascherson. Über Pancratium Sickenbergei. – Gartenzeitung, Berlin, S. 345-348.
-(149) 	Allgemeine Betrachtungen über die Flora von Socotra. – Botanische Jahrbücher 5(1): 40-49.
-(150) 	The Flora of ancient Egypt. – Nature 28(5): 109-114.
-(151) 	Neue Beitrage zur Flora des alten Ägypten. – Berichte der Deutschen Botanischen Gesellschaft 1: 554-546.
-(152) 	Über die geologische Schichtengliederung des Mokattam bei Kairo. – Zeitschrift der Deutschen Geologischen Gesellschaft 1883: 709-734, t. XX-XXI.
-(153) 	Das Volk von Socotra. – Unsere Zeit, Leipzig, 11: 657-669 .
+(141) 	La cote de la Marmarique. Lettre du Dr. Schweinfurth à Mr. H. Duveyrier. – Comptes rendues, Société de Géographie, Paris 1883: 484.  
+(142) 	Una visita al Porto di Tobruc (Cirenaica). – L'Esploratore, Milano 7(6): 207-222.  
+(143) 	Ein Besuch in Tobruk an der Küste von Marmarica. – Marine -Verordnungs-Blatt, Berlin 1-16.  
+(144) 	Una visita al Porto di Tobruc. (Cirenaica.) – Rivista Maritima, Roma 16: 423-443.  
+(145) 	Une visite au Port de Tobrouk (Cyrénaique). – Bulletin de l’Institut d’Égyptien ser. 2, 1-27.  
+(146) 	Geologisch-topographische Karte des Westabhanges des Mokattam bei Cairo. – Zeitschrift der Deutschen Geologischen Gesellschaft 1883: t. 20.  
+(147) 	Karte der Uadis van Abu-Marua, Om-Sidr, Belih und Ghattar (östl. Wüste von Ägypten. 1: 75000. – In: Dr. Oskar Schneider, Naturwissenschaftliche Beitrage zur Geographie und Kulturgeschichte. Dresden  
+(148) 	Mit P. Ascherson. Über Pancratium Sickenbergei. – Gartenzeitung, Berlin, S. 345-348.  
+(149) 	Allgemeine Betrachtungen über die Flora von Socotra. – Botanische Jahrbücher 5(1): 40-49.  
+(150) 	The Flora of ancient Egypt. – Nature 28(5): 109-114.  
+(151) 	Neue Beitrage zur Flora des alten Ägypten. – Berichte der Deutschen Botanischen Gesellschaft 1: 554-546.  
+(152) 	Über die geologische Schichtengliederung des Mokattam bei Kairo. – Zeitschrift der Deutschen Geologischen Gesellschaft 1883: 709-734, t. XX-XXI.  
+(153) 	Das Volk von Socotra. – Unsere Zeit, Leipzig, 11: 657-669 .  
  
 #### 1884
-(154) 	Ein Besuch auf Socotra mit der Riebeckchen Expedition. Vortrag in Freiburg i. B., Sept. 1883. – Amtlicher Bericht über die Versammlung Deutscher Naturforscher und Ärzte 57: .
-(155) 	Neueste Nachrichten von Dr. Wilhelm Junker. – Kölnische Zeit., Nr. 68, 20. März.
-(156) 	Notice sur les restes de végétaux de l'ancienne Egypte.– Bulletin de l’Institut d’Égyptien 1884: 3-11.
-(157) 	Über Pflanzenreste aus altägyptischen Gräbern. – Berichte der Deutschen Botanischen Gesellschaft 2: 351-371.
-(158) 	Neue Funde auf dem Gebiete der Flora des alten Ägypten. – Botanische Jahrbücher 5(2): 189-202.
-(159) 	Further discoveries in the flora of ancient Egypt. – Nature 29: 312-315.
-(160) 	Der Blumenschmuck ägyptischer Mumien. – Gartenlaube 38: 628–630.
-(161) 	Mon excursion à travers l'ile de Sardaigne 1858. (trad. par Mm. L. Barbey). – In: W. Barbey, Florae sardoae compendium, Lausanne, 125-169.
-(162) 	Note sur des objets en minerai de fer, provenant du pays des Monbouttous. – Bulletin de l’Institut d’Égyptien 1883(4): 211.
-(163) 	Prähistorische Eisenerzbeile aus dem Lande der Monbuttu. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1884: 294-295.
-(164) 	Kiesel-Nuclei aus der arabischen Wüste. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1884: 128-131.
-(165) 	Steingeräte von Heluan und aus der arabischen Wüste. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1884: 302-306.
-(166) 	Kieselartefakte ans der arabischen Wüste und von Heluan. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1884: 406-407.
-(167) 	Le lac Moeris. Justification d'Hérodote par les recherches récentes de M. Cope Whitehouse. – Bulletin de la Société Khédiviale de Géographie, Ser. 2, 5: 247-256.
-(168) 	The future of the Soudan. – Pall Mall Gazette, London, 18. April, 2, 16. Mai, und The Egvptian Gazette, Alexandria, 10. Juni.
-(169) 	Neueste Nachrichten von Dr. W. Junker. – Kölnische Zeitung, Nr. 68, 69, 20. März.
-(170) 	Zu Gunsten der Abtretung von Südafrika an Deutschland. – Kölnische Zeitung, Nr. 169, 18.Juni.
-(171) 	Über die Congo-Frage. – Centralblatt für die Interessen der Volkswirtschaft 1(15), 30. Aug., und Norddeutsche Allgemeine Zeitung, Berlin, 4. Sept.
+(154) 	Ein Besuch auf Socotra mit der Riebeckchen Expedition. Vortrag in Freiburg i. B., Sept. 1883. – Amtlicher Bericht über die Versammlung Deutscher Naturforscher und Ärzte 57: .  
+(155) 	Neueste Nachrichten von Dr. Wilhelm Junker. – Kölnische Zeit., Nr. 68, 20. März.  
+(156) 	Notice sur les restes de végétaux de l'ancienne Egypte.– Bulletin de l’Institut d’Égyptien 1884: 3-11.  
+(157) 	Über Pflanzenreste aus altägyptischen Gräbern. – Berichte der Deutschen Botanischen Gesellschaft 2: 351-371.  
+(158) 	Neue Funde auf dem Gebiete der Flora des alten Ägypten. – Botanische Jahrbücher 5(2): 189-202.  
+(159) 	Further discoveries in the flora of ancient Egypt. – Nature 29: 312-315.  
+(160) 	Der Blumenschmuck ägyptischer Mumien. – Gartenlaube 38: 628–630.  
+(161) 	Mon excursion à travers l'ile de Sardaigne 1858. (trad. par Mm. L. Barbey). – In: W. Barbey, Florae sardoae compendium, Lausanne, 125-169.  
+(162) 	Note sur des objets en minerai de fer, provenant du pays des Monbouttous. – Bulletin de l’Institut d’Égyptien 1883(4): 211.  
+(163) 	Prähistorische Eisenerzbeile aus dem Lande der Monbuttu. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1884: 294-295.  
+(164) 	Kiesel-Nuclei aus der arabischen Wüste. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1884: 128-131.  
+(165) 	Steingeräte von Heluan und aus der arabischen Wüste. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1884: 302-306.  
+(166) 	Kieselartefakte ans der arabischen Wüste und von Heluan. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1884: 406-407.  
+(167) 	Le lac Moeris. Justification d'Hérodote par les recherches récentes de M. Cope Whitehouse. – Bulletin de la Société Khédiviale de Géographie, Ser. 2, 5: 247-256.  
+(168) 	The future of the Soudan. – Pall Mall Gazette, London, 18. April, 2, 16. Mai, und The Egvptian Gazette, Alexandria, 10. Juni.  
+(169) 	Neueste Nachrichten von Dr. W. Junker. – Kölnische Zeitung, Nr. 68, 69, 20. März.  
+(170) 	Zu Gunsten der Abtretung von Südafrika an Deutschland. – Kölnische Zeitung, Nr. 169, 18.Juni.  
+(171) 	Über die Congo-Frage. – Centralblatt für die Interessen der Volkswirtschaft 1(15), 30. Aug., und Norddeutsche Allgemeine Zeitung, Berlin, 4. Sept.  
  
 #### 1885
-(172) 	Karte der Küstenstrecke zwischen Uadi Safága und Uadi Sáqi, 1: 200.000. – Abhandlungen der Königlichen Akademie der Wissenschaften in Berlin, Tafel 1.
-(173) 	Esquisse d'une carte provisoire des environs de Helouan-les-Bains, 1: 50000. – Bulletin de l’Institut d’Égyptien 6.
-(174) 	Eine verlassene Wüstenstadt (Mons Claudianus). Mitteilungen über römische Steinbrüche in der ostägyptischen Wüste. – Gartenlaube 40: 650-653.
-(175) 	Alte Baureste und hieroglyphische Inschriften im Uadi Gasus. – Abhandlungen der Königlichen Akademie der Wissenschaften in Berlin 26. Nov. 1885, S. 1-23, t. I-II.
-(176) 	Brief an den Sekretär der British and Foreign Anti-Slavery Society. – Deutsche Kolonialzeitung, 2, Nr. 18, S. 592-595.
+(172) 	Karte der Küstenstrecke zwischen Uadi Safága und Uadi Sáqi, 1: 200.000. – Abhandlungen der Königlichen Akademie der Wissenschaften in Berlin, Tafel 1.  
+(173) 	Esquisse d'une carte provisoire des environs de Helouan-les-Bains, 1: 50000. – Bulletin de l’Institut d’Égyptien 6.  
+(174) 	Eine verlassene Wüstenstadt (Mons Claudianus). Mitteilungen über römische Steinbrüche in der ostägyptischen Wüste. – Gartenlaube 40: 650-653.  
+(175) 	Alte Baureste und hieroglyphische Inschriften im Uadi Gasus. – Abhandlungen der Königlichen Akademie der Wissenschaften in Berlin 26. Nov. 1885, S. 1-23, t. I-II.  
+(176) 	Brief an den Sekretär der British and Foreign Anti-Slavery Society. – Deutsche Kolonialzeitung, 2, Nr. 18, S. 592-595.  
  
 #### 1886
-(177) 	Reise in das Depressionsgebiet im Umkreise des Fajum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 21: 96-149, t. 2.
-(178) 	La vraie rose de Jéricho (Asteriscus pygmaeus). – Bulletin de l’Institut d’Égyptien 6: 92-96.
-(179) 	Die letzten botanischen Entdeckungen in den Gräbern Ägyptens. – Botanische Jahrbücher 8(1): 1-16.
-(180) 	Sur la découverte d'une faune paléozoique dans le grès d'Egypte. – Bulletin de l’Institut d’Égyptien 1885(6): 239-255.
-(181) 	Note sur l'origine du pétrole de Djebel-Zeit. – Bulletin de l’Institut d’Égyptien 14 : 101-103.
-(182) 	Les atéliers des outils en silex dans le désert oriental de l'Egypte. – Bulletin de l’Institut d’Égyptien 1885(6): 229-238 und Egyptian Gazette, Alexandria, 4. Mai.
-(183) 	The petroleum wells of the Red Sea. – Egyptian Gazette, Alexandria, 15. Dez.
-(184) 	Kieselmanufakte vom Isthmus von Sues und von Qasr-es-Ssaga (Moeris-See). – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1886: 646-648.
-(185) 	Sur une ancienne digue en pierre aux environs de Héouan. – Bulletin de l’Institut d’Égyptien 1885(6): 139-145.
-(186) 	Über Beiträge zur Ethnographie und Anthropologie der Somali und Harrari von Dr. Ph. Paulitschke. – Kölnische Zeitung, Nr.287, 16. Okt., 2. Blatt.
-(187) 	Europas Aufgaben und Aussichten im tropischen Afrika. Vortrag geh. in der 59. Versammlung Deutscher Naturforscher und Ärzte zu Berlin. – Kölnische Zeitung, 24. Sept.
-(188) 	Gerhard Rohlfs 1831-1896. – Vossische Zeitung, Berlin, Nr. 275 u. 287, Sonntagsbeilage Nr. 24 u. 25.
+(177) 	Reise in das Depressionsgebiet im Umkreise des Fajum. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 21: 96-149, t. 2.  
+(178) 	La vraie rose de Jéricho (Asteriscus pygmaeus). – Bulletin de l’Institut d’Égyptien 6: 92-96.  
+(179) 	Die letzten botanischen Entdeckungen in den Gräbern Ägyptens. – Botanische Jahrbücher 8(1): 1-16.  
+(180) 	Sur la découverte d'une faune paléozoique dans le grès d'Egypte. – Bulletin de l’Institut d’Égyptien 1885(6): 239-255.  
+(181) 	Note sur l'origine du pétrole de Djebel-Zeit. – Bulletin de l’Institut d’Égyptien 14 : 101-103.  
+(182) 	Les atéliers des outils en silex dans le désert oriental de l'Egypte. – Bulletin de l’Institut d’Égyptien 1885(6): 229-238 und Egyptian Gazette, Alexandria, 4. Mai.  
+(183) 	The petroleum wells of the Red Sea. – Egyptian Gazette, Alexandria, 15. Dez.  
+(184) 	Kieselmanufakte vom Isthmus von Sues und von Qasr-es-Ssaga (Moeris-See). – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1886: 646-648.  
+(185) 	Sur une ancienne digue en pierre aux environs de Héouan. – Bulletin de l’Institut d’Égyptien 1885(6): 139-145.  
+(186) 	Über Beiträge zur Ethnographie und Anthropologie der Somali und Harrari von Dr. Ph. Paulitschke. – Kölnische Zeitung, Nr.287, 16. Okt., 2. Blatt.  
+(187) 	Europas Aufgaben und Aussichten im tropischen Afrika. Vortrag geh. in der 59. Versammlung Deutscher Naturforscher und Ärzte zu Berlin. – Kölnische Zeitung, 24. Sept.  
+(188) 	Gerhard Rohlfs 1831-1896. – Vossische Zeitung, Berlin, Nr. 275 u. 287, Sonntagsbeilage Nr. 24 u. 25.  
  
 #### 1887
-(189) 	Über die Reise des Dr. H. Schinz in Südwest-Afrika. – Kölnische Zeitung.
-(190) 	Forschungen im arabischen Wüstenplateau von Mittelägypten. Brief an G. Rohlfs. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 33: 193-196.
-(191) 	Notiz über Emin Paschas Schriften. – Kölnische Zeitung.
-(192) 	Über den Sues-Kanal. – Kölnische Zeitung.
-(193) 	Über Witterungsverhältnisse in Kairo. – Kölnische Zeitung.
-(194) 	Über Dr. W. Junkers Reise am Uelle. – Mouvement Géographique, Bruxelles 4.
-(195) 	Über die Reise von A. Deflers in Süd-Arabien. – Kölnische Zeitung.
-(196) 	Sur la flore des anciens jardins arabes d'Egypte. – Bulletin de l’Institut d’Égyptien 6: 1-41.
-(197) 	Les dernières découvertes botaniques dans les anciens tombeaux de l'Egypte. – Bulletin de l’Institut d’Égyptien 6: 256-283.
-(198) 	Sur les dernières trouvailles botaniques dans les tombeaux de l'ancienne Egypte. – Bulletin de l’Institut d’Égyptien 1887: 1-15.
-(199) 	Kieselartefakte aus neuen ägyptischen Fundstätten. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1887: 561.
-(200) 	Zur Topographie der Ruinenstätte des alten Schet. (Krokodilopolis-Arsinoe.). – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 22: 1-35, t. II.
-(201) 	Über den italienischen Feldzug in Abessinien. – Kölnische Zeitung.
-(202) 	Über die Baumwollernte in Ägypten. – Kölnische Zeitung.
-(203) 	Über Staatsweisheit und das Rechnungsjahr 1887. – Kölnische Zeitung.
-(204) 	Über den Besuch des Duc de Chartres in Ägypten. – Kölnische Zeitung.
+(189) 	Über die Reise des Dr. H. Schinz in Südwest-Afrika. – Kölnische Zeitung.  
+(190) 	Forschungen im arabischen Wüstenplateau von Mittelägypten. Brief an G. Rohlfs. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 33: 193-196.  
+(191) 	Notiz über Emin Paschas Schriften. – Kölnische Zeitung.  
+(192) 	Über den Sues-Kanal. – Kölnische Zeitung.  
+(193) 	Über Witterungsverhältnisse in Kairo. – Kölnische Zeitung.  
+(194) 	Über Dr. W. Junkers Reise am Uelle. – Mouvement Géographique, Bruxelles 4.  
+(195) 	Über die Reise von A. Deflers in Süd-Arabien. – Kölnische Zeitung.  
+(196) 	Sur la flore des anciens jardins arabes d'Egypte. – Bulletin de l’Institut d’Égyptien 6: 1-41.  
+(197) 	Les dernières découvertes botaniques dans les anciens tombeaux de l'Egypte. – Bulletin de l’Institut d’Égyptien 6: 256-283.  
+(198) 	Sur les dernières trouvailles botaniques dans les tombeaux de l'ancienne Egypte. – Bulletin de l’Institut d’Égyptien 1887: 1-15.  
+(199) 	Kieselartefakte aus neuen ägyptischen Fundstätten. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1887: 561.  
+(200) 	Zur Topographie der Ruinenstätte des alten Schet. (Krokodilopolis-Arsinoe.). – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 22: 1-35, t. II.  
+(201) 	Über den italienischen Feldzug in Abessinien. – Kölnische Zeitung.  
+(202) 	Über die Baumwollernte in Ägypten. – Kölnische Zeitung.  
+(203) 	Über Staatsweisheit und das Rechnungsjahr 1887. – Kölnische Zeitung.  
+(204) 	Über den Besuch des Duc de Chartres in Ägypten. – Kölnische Zeitung.  
  
 #### 1888
-(205) 	Bericht über seine während der letzten 15 Jahre in Ägypten ausgeführten Forschungen. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 15: 388-402.
-(206) 	& F. Ratzel: Emin-Pascha. Eine Sammlung von Reisebriefen und Berichten Dr. Emin-Paschas aus den ehemals ägyptischen Äquatorialprovinzen und deren Grenzländern. – Leipzig: F. A. Brockhaus.
-(207) 	Über Sammeln und Konservieren von Pflanzen höherer Ordnung. – In: Neumayer, Anleitung zur wissenschaftlichen Beobachtungen auf Reisen, 1. Aufl., S. 374-388; 2. Aufl. 1888, Band 2: S. 213-234; 3. Auflage 1906, Band 2: S. 414-437 .
-(208) 	Sur une récente exploration géologique de l'ouadi Arabah. – Bulletin de l’Institut d’Égypte 1888: 1-19.
+(205) 	Bericht über seine während der letzten 15 Jahre in Ägypten ausgeführten Forschungen. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 15: 388-402.  
+(206) 	& F. Ratzel: Emin-Pascha. Eine Sammlung von Reisebriefen und Berichten Dr. Emin-Paschas aus den ehemals ägyptischen Äquatorialprovinzen und deren Grenzländern. – Leipzig: F. A. Brockhaus.  
+(207) 	Über Sammeln und Konservieren von Pflanzen höherer Ordnung. – In: Neumayer, Anleitung zur wissenschaftlichen Beobachtungen auf Reisen, 1. Aufl., S. 374-388; 2. Aufl. 1888, Band 2: S. 213-234; 3. Auflage 1906, Band 2: S. 414-437 .  
+(208) 	Sur une récente exploration géologique de l'ouadi Arabah. – Bulletin de l’Institut d’Égypte 1888: 1-19.  
  
 #### 1889
-(209) 	Brief an Dr. Ed. Glaser, über seine Reise nach Yemen. – Berliner Tageblatt, 1. Mai.
-(210) 	Brief an Prof. Ascherson aus Menacha, 18. Febr., über seine Reise nach Südarabien. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 16: 225–228.
-(211) 	Über seine Reise nach dem glücklichen Arabien. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 16: 299-307
-(212) 	Über Ficus sycomorus der XX. Dynastie. – Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin Okt.1889: 157-159.
-(213) 	Über die Kreideregion bei den Pyramiden von Gizeh . – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 35: 1-2, t. I.
-(214) 	Deutschlands Verpflichtungen gegen Emin Pascha. – Vortrag in der Protestversammlung der Deutschen Kolonialgesellschaft, Abteilung Berlin, am 17. Aug., Kölnische Zeitung, 20. Aug., und als Mssr. gedruckt.
-(215) 	Mit P. Ascherson: Illustration de la Flore d' Egypte. – Mémoires de l’Institut d’Égyptiene 2: 25-260
-(216) 	Mit P. Ascherson: Supplément à l'Illustration de la Flore d'Egypte. – Mémoires de l’Institut d’Égyptiene 2: 745-786.
+(209) 	Brief an Dr. Ed. Glaser, über seine Reise nach Yemen. – Berliner Tageblatt, 1. Mai.  
+(210) 	Brief an Prof. Ascherson aus Menacha, 18. Febr., über seine Reise nach Südarabien. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 16: 225–228.  
+(211) 	Über seine Reise nach dem glücklichen Arabien. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 16: 299-307  
+(212) 	Über Ficus sycomorus der XX. Dynastie. – Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin Okt.1889: 157-159.  
+(213) 	Über die Kreideregion bei den Pyramiden von Gizeh . – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 35: 1-2, t. I.  
+(214) 	Deutschlands Verpflichtungen gegen Emin Pascha. – Vortrag in der Protestversammlung der Deutschen Kolonialgesellschaft, Abteilung Berlin, am 17. Aug., Kölnische Zeitung, 20. Aug., und als Mssr. gedruckt.  
+(215) 	Mit P. Ascherson: Illustration de la Flore d' Egypte. – Mémoires de l’Institut d’Égyptiene 2: 25-260  
+(216) 	Mit P. Ascherson: Supplément à l'Illustration de la Flore d'Egypte. – Mémoires de l’Institut d’Égyptiene 2: 745-786.  
  
 #### 1890
-(217) 	Über Dr. R. Lüdeckes Karte van Afrika in 6 Blättern. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 36: 178-180.
-(218) 	Mit J. Walther: Karte der Carbonregion im Uadi-Arabah, Östl.Wüste Ägyptens l : 50000. – Zeitschrift der Deutschen Geologischen Gesellschaft Tafel 23.
-(219) 	Sur certains rapports entre l'Arabie Heureuse et l'ancienne Egypte résultant de son dernier voyage au Yémen (übersetzt ans Verh. d. Ges. f. Erdk., Berlin, 1889, 16(7): 299-307). – Société de physique et d'histoire naturelle de Genève.
-(220) 	Intorno ad alcune Esplorazioni botanichc nell' Arabia meridionale eseg. dal S. Alb. Deflers. – Cosmos, di Guido Cora, Torino, S.1-8.
-(221) 	Flinders Petries Ausgrabungen im Fajum (Labyrinth). – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 36: 50-54.
-(222) 	Festrede bei dem vom Emin-Pascha-Komitee gegebenen Bankett zu Ehren von Dr. C. Peters, am 25. Aug. 1890. – Berliner Neueste Nachrichten, 26. Aug.
+(217) 	Über Dr. R. Lüdeckes Karte van Afrika in 6 Blättern. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 36: 178-180.  
+(218) 	Mit J. Walther: Karte der Carbonregion im Uadi-Arabah, Östl.Wüste Ägyptens l : 50000. – Zeitschrift der Deutschen Geologischen Gesellschaft Tafel 23.  
+(219) 	Sur certains rapports entre l'Arabie Heureuse et l'ancienne Egypte résultant de son dernier voyage au Yémen (übersetzt ans Verh. d. Ges. f. Erdk., Berlin, 1889, 16(7): 299-307). – Société de physique et d'histoire naturelle de Genève.  
+(220) 	Intorno ad alcune Esplorazioni botanichc nell' Arabia meridionale eseg. dal S. Alb. Deflers. – Cosmos, di Guido Cora, Torino, S.1-8.  
+(221) 	Flinders Petries Ausgrabungen im Fajum (Labyrinth). – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 36: 50-54.  
+(222) 	Festrede bei dem vom Emin-Pascha-Komitee gegebenen Bankett zu Ehren von Dr. C. Peters, am 25. Aug. 1890. – Berliner Neueste Nachrichten, 26. Aug.  
  
 #### 1891
-(223) 	Erinnerungen von einer Fahrt nach Socotra. – Westermanns Illustrierte Deutsche Monatshefte 69: 603-626, 70: 30-53 .
-(224) 	Ein Brief van Prof. G.S. aus der italienischen Kolonie Eritrea. – Kölnische Zeitung, 12. März und in Beilage zur Vossischen Zeitung, Berlin, 12. März.
-(225) 	Il Dr. G. Schweinfurth in Eritrea, Lettere al Cap. M. Camperio. – Geografia per Tutti, Bergamo, 1891(Mai): 17-22.
-(226) 	Il Dr. G. Schweinfurth in Eritrea, Lettere al Cap. M. Camperio. – Bollettino della Società Africana d'Italia, Napoli 10(6): 129-144.
-(227) 	Rede als Vorsitzender des Gesamtkomitees der Petersstiftung. – Bericht des Geschäftsführenden Ausschusses der »Carl Peters Stiftung«, Berlin, 14. Aug. 1891: 7-9. & Verhandlungen der Gesellschaft für Erdkunde zu Berlin 9 und 10.
-(228) 	Über Florengemeinschaft von Südarabien und Nordabessinien. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 1891(9-10): 1-20.
-(229) 	Le piante utili dell'Eritrea. – Bollettino della Società Africana d'Italia, Napoli 10(11-12).
-(230) 	Ägyptens auswärtige Beziehungen hinsichtlich der Kulturgewächse. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1891: 649-669.
+(223) 	Erinnerungen von einer Fahrt nach Socotra. – Westermanns Illustrierte Deutsche Monatshefte 69: 603-626, 70: 30-53 .  
+(224) 	Ein Brief van Prof. G.S. aus der italienischen Kolonie Eritrea. – Kölnische Zeitung, 12. März und in Beilage zur Vossischen Zeitung, Berlin, 12. März.  
+(225) 	Il Dr. G. Schweinfurth in Eritrea, Lettere al Cap. M. Camperio. – Geografia per Tutti, Bergamo, 1891(Mai): 17-22.  
+(226) 	Il Dr. G. Schweinfurth in Eritrea, Lettere al Cap. M. Camperio. – Bollettino della Società Africana d'Italia, Napoli 10(6): 129-144.  
+(227) 	Rede als Vorsitzender des Gesamtkomitees der Petersstiftung. – Bericht des Geschäftsführenden Ausschusses der »Carl Peters Stiftung«, Berlin, 14. Aug. 1891: 7-9. & Verhandlungen der Gesellschaft für Erdkunde zu Berlin 9 und 10.  
+(228) 	Über Florengemeinschaft von Südarabien und Nordabessinien. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 1891(9-10): 1-20.  
+(229) 	Le piante utili dell'Eritrea. – Bollettino della Società Africana d'Italia, Napoli 10(11-12).  
+(230) 	Ägyptens auswärtige Beziehungen hinsichtlich der Kulturgewächse. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1891: 649-669.  
  
 #### 1892
 (231) 	Reise in die Kolonie Eritrea und dort gemachte Sammlungen. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1892: 189-191.
