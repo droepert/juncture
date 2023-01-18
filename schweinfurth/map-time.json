@@ -6,7 +6,49 @@
         "features": [{
             "type": "Feature",
             "properties": {
-            "label": "Ruellia prostrata Pav. ex Nees",
+            "label": "Aristida L., https://dr.jacq.org/DR050523 ",
+            "time": "1864-03-21",
+            "family": "Poaceae",
+            "country": "Egypt"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29,
+                26
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Aristida L., https://dr.jacq.org/DR050524 ",
+            "time": "1864-03-31",
+            "family": "Poaceae",
+            "country": "Egypt"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29,
+                26
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Astragalus vogelii (Webb) Bornm., https://dr.jacq.org/DR057856 ",
+            "time": "1864-03-##",
+            "family": "Fabaceae",
+            "country": "Egypt"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                29,
+                26
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Ruellia prostrata Pav. ex Nees, https://dr.jacq.org/DR066748 ",
             "time": "1865-06-18",
             "family": "Acanthaceae",
             "country": "Sudan"
@@ -16,8 +58,1238 @@
             "coordinates": [
                 36.15,
                 12.96667
-            ],
-            "profile_url": "http://example.com/profile/article"
-            }}
-  ]
-}
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Thelepogon elegans Roth ex Roem. & Schult., https://dr.jacq.org/DR066771 ",
+            "time": "1865-09-11",
+            "family": "Poaceae",
+            "country": "Sudan"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                33.40444,
+                16.72
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Pancratium tenuiflorum (Herb.) Herb. ex Steud., https://dr.jacq.org/DR074037 ",
+            "time": "1864-06-05",
+            "family": "Amaryllidaceae",
+            "country": "Sudan"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.15111,
+                12.96111
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Ruellia prostrata Pav. ex Nees, https://dr.jacq.org/DR040016 ",
+            "time": "1865-06-18",
+            "family": "Acanthaceae",
+            "country": "Sudan"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.15,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Spermacoce chaetocephala DC., https://dr.jacq.org/DR052915 ",
+            "time": "1865-07-17",
+            "family": "Rubiaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                144.8,
+                -5.91667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Spermacoce sphaerostigma (A. Rich.) Vatke, https://dr.jacq.org/DR052916 ",
+            "time": "1865-07",
+            "family": "Rubiaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                144.8,
+                -5.91667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Zaqiqah mucronata (Forssk.) P. M. Peterson & Romasch., https://dr.jacq.org/DR059730 ",
+            "time": "1864-04",
+            "family": "Poaceae",
+            "country": "Egypt"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35.45,
+                23.95
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Taraxacum balticum Dahlst., https://je.jacq.org/JE00029572 ",
+            "time": "1861-05-21",
+            "family": "Asteraceae",
+            "country": "Germany"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12.89278,
+                52.63639
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Caperonia serrata (Turcz.) C. Presl, https://w.jacq.org/W0004232 ",
+            "time": "1895-09-25",
+            "family": "Euphorbiaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Jatropha gallabatensis Schweinf., https://w.jacq.org/W0004257 ",
+            "time": "1865-07-20",
+            "family": "Euphorbiaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Echinops longifolius A. Rich., https://w.jacq.org/W0006754 ",
+            "time": "1865-08-18",
+            "family": "Asteraceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Tricliceras pilosum (Willd.) R. Fern., https://w.jacq.org/W0012504 ",
+            "time": "1865-07-25",
+            "family": "Turneraceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Tricliceras pilosum (Willd.) R. Fern., https://w.jacq.org/W0012505 ",
+            "time": "1865-07-25",
+            "family": "Turneraceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Cytisus ratisbonensis Schaeff., https://gjo.jacq.org/GJO0081945 ",
+            "time": "1860-05-12",
+            "family": "Fabaceae",
+            "country": "Germany"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                11.54167,
+                48.07222
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Neonotonia wightii var. longicauda (Schweinf.) J. A. Lackey, https://w.jacq.org/W0007737 ",
+            "time": "1865-10-03",
+            "family": "Fabaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Entada africana Guill. & Perr., https://w.jacq.org/W0008451 ",
+            "time": "1865-06",
+            "family": "Mimosaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Spermacoce chaetocephala var. chaetocephala DC., https://w.jacq.org/W0008715 ",
+            "time": "1865-09-21",
+            "family": "Rubiaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Ruellia genduana (Schweinf.) C. B. Clarke, https://w.jacq.org/W0016283 ",
+            "time": "1865-06-18",
+            "family": "Acanthaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.01667,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Tylosema fassoglensis (Kotschy ex Schweinf.) Torre & Hillc., https://w.jacq.org/W0030320 ",
+            "time": "1865-06-05",
+            "family": "Caesalpiniaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Sorghum purpureosericeum (Hochst. ex A. Rich.) Schweinf. & Asch., https://w.jacq.org/W0030431 ",
+            "time": "1865-09-24",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Croton socotranus Balf. f., https://w.jacq.org/W18890112698 ",
+            "time": "1881-04-05",
+            "family": "Euphorbiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Croton socotranus Balf. f., https://w.jacq.org/W18890112700 ",
+            "time": "1881-04-10",
+            "family": "Euphorbiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Withania riebeckii Balf. f., https://w.jacq.org/W18890112702 ",
+            "time": "1881-04-14",
+            "family": "Solanaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Ruellia insignis Balf. f., https://w.jacq.org/W18890112708 ",
+            "time": "1881-04-23",
+            "family": "Acanthaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Socotria protopunica (Balf. f.) G. M. Levin, https://w.jacq.org/W18890112725 ",
+            "time": "1881-04-23",
+            "family": "Lythraceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Kalanchoë farinacea Balf. f., https://w.jacq.org/W18890112746 ",
+            "time": "1881-04-26",
+            "family": "Crassulaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Combretum gallabatense Schweinf., https://w.jacq.org/W18890155506 ",
+            "time": "1865-06-01",
+            "family": "Combretaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Echinops longifolius A. Rich., https://w.jacq.org/W18890133360 ",
+            "time": "1865-##-14",
+            "family": "Asteraceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Spermacoce chaetocephala var. chaetocephala DC., https://w.jacq.org/W18890133408 ",
+            "time": "1865-09-21",
+            "family": "Rubiaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Caperonia serrata (Turcz.) C. Presl, https://w.jacq.org/W18890142837 ",
+            "time": "1895-08-12",
+            "family": "Euphorbiaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Caperonia serrata (Turcz.) C. Presl, https://w.jacq.org/W18890142844 ",
+            "time": "1895-09-23",
+            "family": "Euphorbiaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Jatropha gallabatensis Schweinf., https://w.jacq.org/W18890142850 ",
+            "time": "1865-07-20",
+            "family": "Euphorbiaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Alysicarpus rugosus subsp. rugosus (Willd.) DC., https://w.jacq.org/W18890164081 ",
+            "time": "1865-##-07",
+            "family": "Fabaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Glycine Willd., https://w.jacq.org/W18890164085 ",
+            "time": "1865-10-03",
+            "family": "Fabaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Tephrosia nana Kotschy ex Schweinf., https://w.jacq.org/W18890164113 ",
+            "time": "1865-08-29",
+            "family": "Fabaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Tylosema fassoglensis (Kotschy ex Schweinf.) Torre & Hillc., https://w.jacq.org/W18890164124 ",
+            "time": "1865-06-15",
+            "family": "Caesalpiniaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Pennisetum schweinfurthii Pilg., https://w.jacq.org/W18890245022 ",
+            "time": "1865-09-25",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Solanum cerasiferum Dunal, https://w.jacq.org/W18890142894 ",
+            "time": "1865-07-25",
+            "family": "Solanaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Solanum cerasiferum Dunal, https://w.jacq.org/W18890142895 ",
+            "time": "1865-07-25",
+            "family": "Solanaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Ruellia genduana (Schweinf.) C. B. Clarke, https://w.jacq.org/W18890145429 ",
+            "time": "1865-06",
+            "family": "Acanthaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Ruellia genduana (Schweinf.) C. B. Clarke, https://w.jacq.org/W18890145438 ",
+            "time": "1865-06-18",
+            "family": "Acanthaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Brachiaria comata (Hochst. ex A. Rich.) Stapf, https://w.jacq.org/W18890236384 ",
+            "time": "1865-09-11",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Pennisetum schweinfurthii Pilg., https://w.jacq.org/W18890245023 ",
+            "time": "1865-09-25",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Sorghum purpureosericeum (Hochst. ex A. Rich.) Schweinf. & Asch., https://w.jacq.org/W18890257351 ",
+            "time": "1865-09-24",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Sorghum bicolor (L.) Moench, https://w.jacq.org/W18890257353 ",
+            "time": "1865-10",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Sorghum arundinaceum (Desv.) Stapf, https://w.jacq.org/W18890257370 ",
+            "time": "1865-07-29",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Hyparrhenia confinis var. nudiglumis (Hack.) Clayton, https://w.jacq.org/W18890263662 ",
+            "time": "1865-09-23",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Acacia seyal Delile, https://w.jacq.org/W0033072 ",
+            "time": "1865-##-25",
+            "family": "Mimosaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Acacia hockii De Wild., https://w.jacq.org/W0033075 ",
+            "time": "1869-01-24",
+            "family": "Mimosaceae",
+            "country": "Sudan"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31.96889,
+                9.80472
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Acacia seyal Delile, https://w.jacq.org/W18890336125 ",
+            "time": "1865-11-25",
+            "family": "Mimosaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Acacia seyal Delile, https://w.jacq.org/W18890336126 ",
+            "time": "1865-11-25",
+            "family": "Mimosaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Acacia seyal Delile, https://w.jacq.org/W18890336127 ",
+            "time": "1865-11-25",
+            "family": "Mimosaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Hyparrhenia confinis var. pellita (Hack.) Clayton, https://w.jacq.org/W18890263685 ",
+            "time": "1865-09-29",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Euclasta condylotricha (Hochst. ex Steud.) Stapf, https://w.jacq.org/W18890263686 ",
+            "time": "1865-10-03",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Entada africana Guill. & Perr., https://w.jacq.org/W18890342152 ",
+            "time": "1865-06",
+            "family": "Mimosaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Digitaria intecta Stapf, https://w.jacq.org/W18890238347 ",
+            "time": "1865",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Brachiaria jubata (Fig. & De Not.) Stapf, https://w.jacq.org/W18890243276 ",
+            "time": "1865-09-21",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Euclasta condylotricha (Hochst. ex Steud.) Stapf, https://w.jacq.org/W19160028882 ",
+            "time": "1865",
+            "family": "Poaceae",
+            "country": "Ethiopia"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                36.2,
+                12.96667
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Asplenium schweinfurthii Baker, https://wu.jacq.org/WU0032246 ",
+            "time": "1881-05-08",
+            "family": "Aspleniaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Boerhavia simonyi Heimerl & Vierh., https://wu.jacq.org/WU0033294 ",
+            "time": "1881-04-15",
+            "family": "Nyctaginaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Withania riebeckii Balf. f., https://wu.jacq.org/WU0034157 ",
+            "time": "1881",
+            "family": "Solanaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54.01667,
+                12.65
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Vitis paniculata Balf. f., https://wu.jacq.org/WU0035402 ",
+            "time": "1881-04-23",
+            "family": "Vitaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Ruellia carnea Balf. f., https://wu.jacq.org/WU0037638 ",
+            "time": "1881-05-18",
+            "family": "Acanthaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Ruellia insignis Balf. f., https://wu.jacq.org/WU0037643 ",
+            "time": "1881-04-23",
+            "family": "Acanthaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Jatropha spinosa var. genuina Pax, https://wu.jacq.org/WU0038430 ",
+            "time": "1888-11-28",
+            "family": "Euphorbiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                45.00639,
+                12.78944
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Jatropha spinosa var. crenulata Pax, https://wu.jacq.org/WU0038431 ",
+            "time": "1881-04-23",
+            "family": "Euphorbiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                45.00639,
+                12.78944
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Cleome socotrana Balf. f., https://wu.jacq.org/WU0043280 ",
+            "time": "1881-05-08",
+            "family": "Capparaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Micromeria microphylla var. imbricata Balf. f., https://wu.jacq.org/WU0043427 ",
+            "time": "1881-04-30",
+            "family": "Lamiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Micromeria microphylla var. remota Balf. f., https://wu.jacq.org/WU0043428 ",
+            "time": "1881-04-24",
+            "family": "Lamiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Euphorbia kischenensis Vierh., https://wu.jacq.org/WU0062242 ",
+            "time": "1881-05-03",
+            "family": "Euphorbiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Aerva revoluta Balf. f., https://wu.jacq.org/WU0066480 ",
+            "time": "1881-04-26",
+            "family": "Amaranthaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Acacia pennivenia Balf. f., https://wu.jacq.org/WU0068095 ",
+            "time": "1881-04-23",
+            "family": "Mimosaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Acacia campoptila Schweinf., https://wu.jacq.org/WU0068098 ",
+            "time": "1881-03",
+            "family": "Mimosaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                48.19139,
+                13.99694
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Croton socotranus Balf. f., https://wu.jacq.org/WU0069105 ",
+            "time": "1881-04-18",
+            "family": "Euphorbiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Croton socotranus Balf. f., https://wu.jacq.org/WU0069106 ",
+            "time": "1881-04-10",
+            "family": "Euphorbiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Croton sarocarpus Balf. f., https://wu.jacq.org/WU0069107 ",
+            "time": "1881-04-23",
+            "family": "Euphorbiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Boswellia socotrana Balf. f., https://wu.jacq.org/WU0069115 ",
+            "time": "1881-04-24",
+            "family": "Burseraceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Boswellia ameero Balf. f., https://wu.jacq.org/WU0069118 ",
+            "time": "1881-04-24",
+            "family": "Burseraceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Balsamodendrum planifrons Schweinf., https://wu.jacq.org/WU0069120 ",
+            "time": "1881-05-01",
+            "family": "Burseraceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Balsamodendrum socotranum Balf. f., https://wu.jacq.org/WU0069121 ",
+            "time": "1881-04-23",
+            "family": "Burseraceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Heliotropium vierhapperi O. Schwartz, https://wu.jacq.org/WU0069842 ",
+            "time": "1881-03-10",
+            "family": "Boraginaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                45.02889,
+                12.82944
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Heliotropium odorum Balf. f., https://wu.jacq.org/WU0069851 ",
+            "time": "1881-04-20",
+            "family": "Boraginaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Leucas virgata Balf. f., https://wu.jacq.org/WU0070096 ",
+            "time": "1881-04-13",
+            "family": "Lamiaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Pulicaria stephanocarpa Balf. f., https://wu.jacq.org/WU0071633 ",
+            "time": "1881-04-10",
+            "family": "Asteraceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Pulicaria diversifolia Balf. f., https://wu.jacq.org/WU0071643 ",
+            "time": "1881-04-20",
+            "family": "Asteraceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54,
+                12.5
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Cocculus balfourii Schweinf. ex Balf. f., https://wu.jacq.org/WU0074758 ",
+            "time": "1881-04-29",
+            "family": "Menispermaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54.05083,
+                12.57944
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Cocculus balfourii Schweinf. ex Balf. f., https://wu.jacq.org/WU0074759 ",
+            "time": "1881-04-29",
+            "family": "Menispermaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54.05083,
+                12.57944
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Salix acutifolia Willd., https://wu.jacq.org/WU0074815 ",
+            "time": "1861-04-15",
+            "family": "Salicaceae",
+            "country": "Germany"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                13.33828,
+                52.50792
+            ]
+            }},{
+            "type": "Feature",
+            "properties": {
+            "label": "Punica protopunica Balf. f., https://wu.jacq.org/WU0083016 ",
+            "time": "1881-04-23",
+            "family": "Punicaceae",
+            "country": "Yemen"
+            },
+            "geometry": {
+            "type": "Point",
+            "coordinates": [
+                53.86667,
+                12.475
+            ]
+            }}]
+            }
