@@ -430,265 +430,265 @@ Die nachstehende chronologische Liste der Publikationen Georg Schweinfurths basi
 (230) 	Ägyptens auswärtige Beziehungen hinsichtlich der Kulturgewächse. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1891: 649-669.  
  
 #### 1892
-(231) 	Reise in die Kolonie Eritrea und dort gemachte Sammlungen. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1892: 189-191.
-(232) 	Einige Mitteilungen über seinen diesjährigen Besuch in der Colonia Eritrea. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 19: 332-398.
-(233) 	Aus der Kolonie Eritrea. Auszug aus dem Vortrag in Verh. d. Ges. f. Erdk., Berlin 1892, Nr. 6 u. 7. – Kölnische Volkszeitung, Aug. 1892.
-(234) 	Vorläufige Aufzählung der während der Expedition gesammelten Pflanzen höherer Ordnung. – In: von Höhnel, Zum Rudolph-See und Stephanie-See, Wien, S. 852-868.
-(235) 	Über Pflanzensammlungen von Dr. F. Stuhlmann in Ostafrika. – Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin 1892(9): 170-174.
-(236) 	Barbeya Schwf. genus novum Urticacearum. – Malpighia 5(7-9): 332-342, t. XXIV-XXV.
-(237) 	Anthropologische Sammlungen in Abessinien. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 24: 245-246.
-(238) 	Vorbemerkung zu »Emin Paschas letzte Tagebücher, in Briefen an seine Schwester«. – Westermanns Monatshefte, 73, 2.Okt., S.1-2.
+(231) 	Reise in die Kolonie Eritrea und dort gemachte Sammlungen. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1892: 189-191.  
+(232) 	Einige Mitteilungen über seinen diesjährigen Besuch in der Colonia Eritrea. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 19: 332-398.  
+(233) 	Aus der Kolonie Eritrea. Auszug aus dem Vortrag in Verh. d. Ges. f. Erdk., Berlin 1892, Nr. 6 u. 7. – Kölnische Volkszeitung, Aug. 1892.  
+(234) 	Vorläufige Aufzählung der während der Expedition gesammelten Pflanzen höherer Ordnung. – In: von Höhnel, Zum Rudolph-See und Stephanie-See, Wien, S. 852-868.  
+(235) 	Über Pflanzensammlungen von Dr. F. Stuhlmann in Ostafrika. – Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin 1892(9): 170-174.  
+(236) 	Barbeya Schwf. genus novum Urticacearum. – Malpighia 5(7-9): 332-342, t. XXIV-XXV.  
+(237) 	Anthropologische Sammlungen in Abessinien. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 24: 245-246.  
+(238) 	Vorbemerkung zu »Emin Paschas letzte Tagebücher, in Briefen an seine Schwester«. – Westermanns Monatshefte, 73, 2.Okt., S.1-2.  
  
 #### 1893
-(239) 	Über Balsam und Myrrhe. – Berichte der Pharmazeutischen Gesellschaft Berlin, 5. Okt. 1893, S. 1-29.
-(240) 	Mit P. Ascherson und Taubert: Primitiae Florae Marmaricae. – Bulletin de l'Herbier Boissier 1: 433-449, 584-603, 644-682.
-(241) 	Der Moeris-See nach den neuesten Forschungen. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 39: 191-196.
-(242) 	Abyssinische Pflanzennamen. – Anhang der Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin 33: 1-84.
+(239) 	Über Balsam und Myrrhe. – Berichte der Pharmazeutischen Gesellschaft Berlin, 5. Okt. 1893, S. 1-29.  
+(240) 	Mit P. Ascherson und Taubert: Primitiae Florae Marmaricae. – Bulletin de l'Herbier Boissier 1: 433-449, 584-603, 644-682.  
+(241) 	Der Moeris-See nach den neuesten Forschungen. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 39: 191-196.  
+(242) 	Abyssinische Pflanzennamen. – Anhang der Sitzungsberichte der Preussischen Akademie der Wissenschaften zu Berlin 33: 1-84.  
  
 #### 1894
-(243) 	Brief an Dr. G. Rohlfs zur Frage 'Woher kommt das Wasser in den Oasen der Sahara'. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 21: 89–91.
-(244) 	Brief an Dr. G. Rohlfs aus Dembelas. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 21: 220-223.
-(245) 	Lettera al Gen. Baratieri sul Dembelas. – L'Esplorazione Commerciale, Milano 9(6): 186-190.
-(246) 	Vorbemerkung zu Emin Paschas letzten Tagebüchern. – Westermanns Illustrierte Deutsche Monatshefte 73(Oktober): 1-2.
-(247) 	Über seine letzte Reise mit Dr. Max Schoeller in der italienischen Erythraea. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 21: 379–430.
-(248) 	Il mio recente viaggio col Dr. Max Schoeller nelr Eritrea Italiana. – Bollettino della Società d'Esplorazione Commerziale in Africa, Milano 1894: 1-35.
-(249) 	Escursione nel Dembelas. – Bollettino della Società Africana d'Italia, Napoli 13: 54-58.
-(250) 	Nel' Eritrea. – Rivista Geogr. Italiana, Roma 1: 573-577.
-(251) 	Über Haynes, Man-Hunting in the desert. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 40(Literaturbericht, Asien, 643): 163-164.
-(252) 	Sammlung arabisch-äthiopischer Pflanzen, I. – Bulletin de l'Herbier Boissier, Genève, 2(Append. II): 1-113.
-(253) 	Note sur l'origine des plantes cultivees dans l'ancienne Egypte. – Bulletin de la Société Khédiviale de Géographie, ser. 4, 2: 93 -104.
-(254) 	Report on the salt in the Wady Rayanreservoir. Appendix XIII. – In: W. Willcocks, Perennial Irrigation and Flood protection for Egypt, S. 1-9.
-(255) 	Le lac Moeris d'après les dernières recherches. (Übersetzt aus Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 39). – L'Egypte, Revue Bimensuelle, Alexandrie 4/5: 129-136.
-(256) 	Reise in der Kolonie Eritrea und Schädelfunde in Kohaito. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 26: 326-327.
-(257) 	Il presente e l'avvenire della colonia Eritrea. – Milano: P. B. Bellini.
-(258) 	Viaggio dei Dott. G. Schweinfurth e M. Schoeller in Eritrea (übersetzt nach den Vortr. in Verh. d. Ges. f. Erdk., Berlin, 1894, Nr. 6 u. 7.) – Bollettino della Società Africana d'Italia, Napoli13(9/10): 121-168.
+(243) 	Brief an Dr. G. Rohlfs zur Frage 'Woher kommt das Wasser in den Oasen der Sahara'. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 21: 89–91.  
+(244) 	Brief an Dr. G. Rohlfs aus Dembelas. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 21: 220-223.  
+(245) 	Lettera al Gen. Baratieri sul Dembelas. – L'Esplorazione Commerciale, Milano 9(6): 186-190.  
+(246) 	Vorbemerkung zu Emin Paschas letzten Tagebüchern. – Westermanns Illustrierte Deutsche Monatshefte 73(Oktober): 1-2.  
+(247) 	Über seine letzte Reise mit Dr. Max Schoeller in der italienischen Erythraea. – Verhandlungen der Gesellschaft für Erdkunde zu Berlin 21: 379–430.  
+(248) 	Il mio recente viaggio col Dr. Max Schoeller nelr Eritrea Italiana. – Bollettino della Società d'Esplorazione Commerziale in Africa, Milano 1894: 1-35.  
+(249) 	Escursione nel Dembelas. – Bollettino della Società Africana d'Italia, Napoli 13: 54-58.  
+(250) 	Nel' Eritrea. – Rivista Geogr. Italiana, Roma 1: 573-577.  
+(251) 	Über Haynes, Man-Hunting in the desert. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 40(Literaturbericht, Asien, 643): 163-164.  
+(252) 	Sammlung arabisch-äthiopischer Pflanzen, I. – Bulletin de l'Herbier Boissier, Genève, 2(Append. II): 1-113.  
+(253) 	Note sur l'origine des plantes cultivees dans l'ancienne Egypte. – Bulletin de la Société Khédiviale de Géographie, ser. 4, 2: 93 -104.  
+(254) 	Report on the salt in the Wady Rayanreservoir. Appendix XIII. – In: W. Willcocks, Perennial Irrigation and Flood protection for Egypt, S. 1-9.  
+(255) 	Le lac Moeris d'après les dernières recherches. (Übersetzt aus Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 39). – L'Egypte, Revue Bimensuelle, Alexandrie 4/5: 129-136.  
+(256) 	Reise in der Kolonie Eritrea und Schädelfunde in Kohaito. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 26: 326-327.  
+(257) 	Il presente e l'avvenire della colonia Eritrea. – Milano: P. B. Bellini.  
+(258) 	Viaggio dei Dott. G. Schweinfurth e M. Schoeller in Eritrea (übersetzt nach den Vortr. in Verh. d. Ges. f. Erdk., Berlin, 1894, Nr. 6 u. 7.) – Bollettino della Società Africana d'Italia, Napoli13(9/10): 121-168.  
  
 #### 1895
-(259) 	Mon dernier voyage en Erythrée. (Übersetzt nach den Verh. d. Ges. f. Erdk., Berlin 1894(7). – Revue Geographique Internationale, Paris 1895(Febr.-Sept.).
-(260) 	Terrainskizze des südwestlichen Teils des Plateaus von Kohaito. (Colonia Eritrea), 1: 20000. – In: Dr. Max Schoeller, Reise in der Colonia Eritrea, Berlin.
-(261) 	Über Echidnopsis Dammannii Schwf. – Gartenflora 23: 633-637.
-(262) 	Ein altes Stauwerk aus der Pyramidenzeit. – Westermanns Monatshefte 88: 35-44. .
-(263) 	To the Editor of the Times (on vandalism in Egyptian Excavations). – Times, London, 20. Aug. Nr. 34660 und Egyptian Gazette, 3. Sept.
-(264) 	Brief an Prof. Erman über wissenschaftlichen Raubbau in Ägypten. – Zeitschrift für ägyptische Sprache und Altertumskunde 33: 1-5.
-(265) 	Anscheinend unzulässige Methoden der Ausgrabungen in Ägypten. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1895: 363.
-(266) 	Die Wiedergeburt Ägyptens im Lichte eines aufgeklärten Islam. – Berliner Rundschau, Bd. Il, Heft 2-5 und als Sonderabdruck: 10. Juli, S.1-16.
-(267) 	Hommage à la mémoire de S. A .le Khédive Ismail-Pacha. – Bulletin de la Société Khédiviale de Géographie 15. März.
+(259) 	Mon dernier voyage en Erythrée. (Übersetzt nach den Verh. d. Ges. f. Erdk., Berlin 1894(7). – Revue Geographique Internationale, Paris 1895(Febr.-Sept.).  
+(260) 	Terrainskizze des südwestlichen Teils des Plateaus von Kohaito. (Colonia Eritrea), 1: 20000. – In: Dr. Max Schoeller, Reise in der Colonia Eritrea, Berlin.  
+(261) 	Über Echidnopsis Dammannii Schwf. – Gartenflora 23: 633-637.  
+(262) 	Ein altes Stauwerk aus der Pyramidenzeit. – Westermanns Monatshefte 88: 35-44. .  
+(263) 	To the Editor of the Times (on vandalism in Egyptian Excavations). – Times, London, 20. Aug. Nr. 34660 und Egyptian Gazette, 3. Sept.  
+(264) 	Brief an Prof. Erman über wissenschaftlichen Raubbau in Ägypten. – Zeitschrift für ägyptische Sprache und Altertumskunde 33: 1-5.  
+(265) 	Anscheinend unzulässige Methoden der Ausgrabungen in Ägypten. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1895: 363.  
+(266) 	Die Wiedergeburt Ägyptens im Lichte eines aufgeklärten Islam. – Berliner Rundschau, Bd. Il, Heft 2-5 und als Sonderabdruck: 10. Juli, S.1-16.  
+(267) 	Hommage à la mémoire de S. A .le Khédive Ismail-Pacha. – Bulletin de la Société Khédiviale de Géographie 15. März.  
  
 #### 1896
-(268) 	Der ägyptische Sudan. – Vossische Zeitnng, Berlin, Sonntagsbeil., Nr. 43 und 44, 25. Okt. und 2. Nov.
-(269) 	Von der Expedition des Dr. Max Schoeller, aus einem Briefe von A. Kaiser an einen Freund in Cairo. – Vossische Zeitung, Berlin, Beilage, 29. Dez.
-(270) 	Erythraea. – Mitteilungen der Geographischen Gesellschaft in Hamburg 11: 147-149.
-(271) 	Le Soudan Egyptien. – Mouv. Géogr.,Bruxelles 13: 543-545, 556-557.
-(272) 	Sammlung arabisch-äthiopischer Pflanzen, II. – Bulletin de l'Herbier Boissier, Genève, 4(Append. II): 114-266.
-(273) 	La décadence des jardins en Egypte (Lettre au Directeur du journal.). – Egyptian Gazette, Alexandria, 13. Jan.
-(274) 	Ein altes Heiligtum an den Ufern des Moeris. – Westermanns Illustrierte Monatshefte 78: 361-372 .
-(275) 	Felsinschrift der Bantu am Sambese. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1896: 534-535.
+(268) 	Der ägyptische Sudan. – Vossische Zeitnng, Berlin, Sonntagsbeil., Nr. 43 und 44, 25. Okt. und 2. Nov.  
+(269) 	Von der Expedition des Dr. Max Schoeller, aus einem Briefe von A. Kaiser an einen Freund in Cairo. – Vossische Zeitung, Berlin, Beilage, 29. Dez.  
+(270) 	Erythraea. – Mitteilungen der Geographischen Gesellschaft in Hamburg 11: 147-149.  
+(271) 	Le Soudan Egyptien. – Mouv. Géogr.,Bruxelles 13: 543-545, 556-557.  
+(272) 	Sammlung arabisch-äthiopischer Pflanzen, II. – Bulletin de l'Herbier Boissier, Genève, 4(Append. II): 114-266.  
+(273) 	La décadence des jardins en Egypte (Lettre au Directeur du journal.). – Egyptian Gazette, Alexandria, 13. Jan.  
+(274) 	Ein altes Heiligtum an den Ufern des Moeris. – Westermanns Illustrierte Monatshefte 78: 361-372 .  
+(275) 	Felsinschrift der Bantu am Sambese. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1896: 534-535.  
  
 #### 1897
-(276) 	Nachrichten von der Expedition des Dr. Max Schoeller. – Vossische Zeitung, Berlin 11.-13. Juni.
-(277) 	Mit G. Volkens: Liste des plantes récoltées par les Princes Démètre et Nicolas GhikaComanesti dans leur voyage au pays des Somalis. – In: Princes Démètre et Nicolas Ghika-Comanesti .Voyage au pays des Somalis, Bukarest.
-(278) 	Die sicilianische Flora. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 488-489.
-(279) 	De l'origine des Egyptiens et sur quelques-uns de leurs usages remontant à l'age de la pierre. – Bulletin de la Société Khédiviale de Géographie, ser. 4, Nr. 12.
-(280) 	Steingeräte der Ababde. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 95.
-(281) 	Neue Ergebnisse von Ausgrabungen aus Ägyptens Vorzeit, I-II. – Vossische Zeitung, Berlin, Nr. 250, 257, Sonntagsbeilagen 30. Mai u. 5. Juni.
-(282) 	Vormenesische Altertümer in Ägypten. Zwei Briefe an R. Virchow. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 27-31.
-(283) 	Die Steinbrüche am Mons Claudianus in der östlichen Wüste Ägyptens. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 32: 1-22, t. 1-2. .
-(284) 	Neue Forschungen in Ägypten und die Einbalsamierung von Köpfen im Altertume. Brief an R. Virchow. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 131-138.
-(285) 	Über den Ursprung der Ägypter. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 263-286.
-(286) 	Ornamentik der ältesten Kultur-Epoche Ägyptens. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 391-401 und Österr. Monatsschr. f. d. Orient, Wien, Nr, 9, S. 97-116.
-(287) 	Le relèvement de l'Egypte par l'Islam. (Übersetzt nach der Berl. Rundschau, Bd. II, 1895.). – Revue Géographique internationale, Paris, 22e année, S. 181-183, 207-200, 231-233, 255-257.
-(288) 	Notice nécrologique sur le Professeur Sickenberger. – Bulletin de l’Institut d’Égypte 1896(7): 6-16.
-(289) 	Zur Erinnerung an Gerhard Rohlfs. – Westermanns Illustrierte Monatshefte 82: 565-577.
+(276) 	Nachrichten von der Expedition des Dr. Max Schoeller. – Vossische Zeitung, Berlin 11.-13. Juni.  
+(277) 	Mit G. Volkens: Liste des plantes récoltées par les Princes Démètre et Nicolas GhikaComanesti dans leur voyage au pays des Somalis. – In: Princes Démètre et Nicolas Ghika-Comanesti .Voyage au pays des Somalis, Bukarest.  
+(278) 	Die sicilianische Flora. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 488-489.  
+(279) 	De l'origine des Egyptiens et sur quelques-uns de leurs usages remontant à l'age de la pierre. – Bulletin de la Société Khédiviale de Géographie, ser. 4, Nr. 12.  
+(280) 	Steingeräte der Ababde. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 95.  
+(281) 	Neue Ergebnisse von Ausgrabungen aus Ägyptens Vorzeit, I-II. – Vossische Zeitung, Berlin, Nr. 250, 257, Sonntagsbeilagen 30. Mai u. 5. Juni.  
+(282) 	Vormenesische Altertümer in Ägypten. Zwei Briefe an R. Virchow. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 27-31.  
+(283) 	Die Steinbrüche am Mons Claudianus in der östlichen Wüste Ägyptens. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 32: 1-22, t. 1-2. .  
+(284) 	Neue Forschungen in Ägypten und die Einbalsamierung von Köpfen im Altertume. Brief an R. Virchow. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 131-138.  
+(285) 	Über den Ursprung der Ägypter. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 263-286.  
+(286) 	Ornamentik der ältesten Kultur-Epoche Ägyptens. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1897: 391-401 und Österr. Monatsschr. f. d. Orient, Wien, Nr, 9, S. 97-116.  
+(287) 	Le relèvement de l'Egypte par l'Islam. (Übersetzt nach der Berl. Rundschau, Bd. II, 1895.). – Revue Géographique internationale, Paris, 22e année, S. 181-183, 207-200, 231-233, 255-257.  
+(288) 	Notice nécrologique sur le Professeur Sickenberger. – Bulletin de l’Institut d’Égypte 1896(7): 6-16.  
+(289) 	Zur Erinnerung an Gerhard Rohlfs. – Westermanns Illustrierte Monatshefte 82: 565-577.  
  
 #### 1898
-(290) 	Mit L. Lewin: Der Salzfund von Qurna. – Zeitschrift für ägyptische Sprache und Altertumskunde 35.
-(291) 	Mit L. Lewin: Beiträge zur Topographie und Geochemie des ägyptischen Natrontals. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 33: 1-25, t. 1.
-(292) 	Vorschlage zum Schutz der ägyptischen Altertümer (Brief an den Unterstaatssekretär im ägypt. Minist. d. öffentl. Bauten.) – Ägyptischer Kurier, Kairo, Nr. 18, 30. April.
-(293) 	Die neuesten Entdeckungen auf dem Gebiete der ägyptischen Ausgrabungen. 1. Grab des Osiris. 2. Gräber des Tuthmes III. und Amenophis II. 3. el-Kab und Kom-el-Ahmar. – Vossische Zeitung, Berlin, Juni und 11.
-(294) 	Modelle von Steinwaffen in neolithischen Gräbern von Kom-el-Ahmar (Hierakonpolis). – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1898: 260-262.
-(295) 	Die neuesten Gräberfunde in Ober-Ägypten und die Stellung der noch lebenden Wüsten-Stämme zu der altägyptischen Bevölkerung. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1898: 180-186.
-(296) 	Der Besuch des Kronprinzen Friedrich Wilhelm von Preussen in Alexandria, 1869. – Vossische Zeitung, Berlin, Nr. 515, 3. Nov.
+(290) 	Mit L. Lewin: Der Salzfund von Qurna. – Zeitschrift für ägyptische Sprache und Altertumskunde 35.  
+(291) 	Mit L. Lewin: Beiträge zur Topographie und Geochemie des ägyptischen Natrontals. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 33: 1-25, t. 1.  
+(292) 	Vorschlage zum Schutz der ägyptischen Altertümer (Brief an den Unterstaatssekretär im ägypt. Minist. d. öffentl. Bauten.) – Ägyptischer Kurier, Kairo, Nr. 18, 30. April.  
+(293) 	Die neuesten Entdeckungen auf dem Gebiete der ägyptischen Ausgrabungen. 1. Grab des Osiris. 2. Gräber des Tuthmes III. und Amenophis II. 3. el-Kab und Kom-el-Ahmar. – Vossische Zeitung, Berlin, Juni und 11.  
+(294) 	Modelle von Steinwaffen in neolithischen Gräbern von Kom-el-Ahmar (Hierakonpolis). – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1898: 260-262.  
+(295) 	Die neuesten Gräberfunde in Ober-Ägypten und die Stellung der noch lebenden Wüsten-Stämme zu der altägyptischen Bevölkerung. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1898: 180-186.  
+(296) 	Der Besuch des Kronprinzen Friedrich Wilhelm von Preussen in Alexandria, 1869. – Vossische Zeitung, Berlin, Nr. 515, 3. Nov.  
  
 #### 1899
-(297) 	Besprechungen von 8 über Ägypten handelnden Werken. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 1899(Literaturbericht, Afrika, 733-740): 177-180.
-(298) 	Bemerkungen zu des Grafen von Götzen Aufsatz über die neuesten Forschungen im Gebiete der Nilquellen. – Verh. des 7. internationalen geogr. Kongresses 1899 und Umschau, Frankfurt a. M., 3(43): 854-855.
-(299) 	Aufnahmen in der östlichen Wüste von Ägypten, Tafel 1. Die Umgegend von Heluan, als Beispiel der Wüsten-Denudation, 1: 30000. – Berlin: Dietrich Reimer (Ernst Vohsen).
-(300) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel II. Karte der Gegend zwischen Belbes und Sues, 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
-(301) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel III. Die Talsysteme des Uadi-Moathil und des Uadi-Tarfeh, 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
-(302) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel IV. Die südliche Galala mit dem nördlichen Teil des krystallinischen Küstengebirges am Roten Meer. 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
-(303) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel V. Die Krystallinischen Küstengebirge am Roten Meer, zwischen Uadi Qeneh und Ge b el-Set, 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
-(304) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel VI. Die Krystallinischen Küsten- gebirge am Roten Meer zwischen 26°40' und 27°30' n. Br., 1 : 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
-(305) 	Sammlung arabisch-äthiopischer Pflanzen . – Bulletin de l'Herbier Boissier, Geneve 7(Append. II): 267-340.
-(306) 	Ficus (Urostigma) laurifolia Lam. – Hooker, Icones plantarum, ser. 4, 7: 2578.
-(307) 	Ägyptischer Ring aus Kieselmasse. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1899: 496-497. http://www.archive.org/stream/zeitschriftfre31berl#page/496/mode/2up(Link ist extern)
-(308) 	Über Bega-Gräber. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1899: 538-554. .
-(309) 	Madrepore in einem mecklenburgischen Grabe. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1899: 641.
-(310) 	Ägyptische Ausgrabungen der letzten Zeit. – Vossische Zeitung, 18. Januar, Sonntagsbeilage, S. 12-u. 13 und Sphinx, Revue Critique, Upsala, 3: 20-25.
-(311) 	Neue Thebanische Gräberfunde, über das Grab von Mai-hir-pra. – Vossische Zeitung, Berlin, 25. Mai und Sphinx, Upsala 3:103-107.
-(312) 	Ein Bombenattentat aus dem Jahre 1871. (Brief an den Herausgeber.). – Ägyptischer Kurier, 25. Febr.
-(313) 	Afrikanische Eisenbahnprojekte. – Vossische Zeitung, Berlin, 18. Okt., und Umschau Frankfurt a .M., 3, S.892-893.
-(314) 	Georgios Averoff. – Vossische Zeitung, Berlin, 17. Aug., Nr. 375.
+(297) 	Besprechungen von 8 über Ägypten handelnden Werken. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 1899(Literaturbericht, Afrika, 733-740): 177-180.  
+(298) 	Bemerkungen zu des Grafen von Götzen Aufsatz über die neuesten Forschungen im Gebiete der Nilquellen. – Verh. des 7. internationalen geogr. Kongresses 1899 und Umschau, Frankfurt a. M., 3(43): 854-855.  
+(299) 	Aufnahmen in der östlichen Wüste von Ägypten, Tafel 1. Die Umgegend von Heluan, als Beispiel der Wüsten-Denudation, 1: 30000. – Berlin: Dietrich Reimer (Ernst Vohsen).  
+(300) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel II. Karte der Gegend zwischen Belbes und Sues, 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).  
+(301) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel III. Die Talsysteme des Uadi-Moathil und des Uadi-Tarfeh, 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).  
+(302) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel IV. Die südliche Galala mit dem nördlichen Teil des krystallinischen Küstengebirges am Roten Meer. 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).  
+(303) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel V. Die Krystallinischen Küstengebirge am Roten Meer, zwischen Uadi Qeneh und Ge b el-Set, 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).  
+(304) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel VI. Die Krystallinischen Küsten- gebirge am Roten Meer zwischen 26°40' und 27°30' n. Br., 1 : 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).  
+(305) 	Sammlung arabisch-äthiopischer Pflanzen . – Bulletin de l'Herbier Boissier, Geneve 7(Append. II): 267-340.  
+(306) 	Ficus (Urostigma) laurifolia Lam. – Hooker, Icones plantarum, ser. 4, 7: 2578.  
+(307) 	Ägyptischer Ring aus Kieselmasse. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1899: 496-497. http://www.archive.org/stream/zeitschriftfre31berl#page/496/mode/2up(Link ist extern)  
+(308) 	Über Bega-Gräber. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1899: 538-554. .  
+(309) 	Madrepore in einem mecklenburgischen Grabe. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1899: 641.  
+(310) 	Ägyptische Ausgrabungen der letzten Zeit. – Vossische Zeitung, 18. Januar, Sonntagsbeilage, S. 12-u. 13 und Sphinx, Revue Critique, Upsala, 3: 20-25.  
+(311) 	Neue Thebanische Gräberfunde, über das Grab von Mai-hir-pra. – Vossische Zeitung, Berlin, 25. Mai und Sphinx, Upsala 3:103-107.  
+(312) 	Ein Bombenattentat aus dem Jahre 1871. (Brief an den Herausgeber.). – Ägyptischer Kurier, 25. Febr.  
+(313) 	Afrikanische Eisenbahnprojekte. – Vossische Zeitung, Berlin, 18. Okt., und Umschau Frankfurt a .M., 3, S.892-893.  
+(314) 	Georgios Averoff. – Vossische Zeitung, Berlin, 17. Aug., Nr. 375.  
  
 #### 1900
-(315) 	Über 9 Ägypten behandelnde Werke von Joanne, White, Penfield, Miéville, Benoit, Aubin, Erzh. Ludwig Salvator, Boddy, Pecnick. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 46(Literaturbericht Nr. 663-671): 182-183.
-(316) 	Das neue Museum der ägyptischen Altertürner zu Kairo. – Vossische Zeitung, Berlin, Sonntagsbeilage 22. Juli, und Sphinx, Revue Critique, Upsala 4(2): 105-110.
-(317) 	Einige von der freien Natur Südwest-Afrikas dem Naturmenschen dargebotene vegetabilische Nahrungsmittel. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1900: 354-359.
-(318) 	Ägyptische und arabische Untersuchungen. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1900: 94-95.
+(315) 	Über 9 Ägypten behandelnde Werke von Joanne, White, Penfield, Miéville, Benoit, Aubin, Erzh. Ludwig Salvator, Boddy, Pecnick. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 46(Literaturbericht Nr. 663-671): 182-183.  
+(316) 	Das neue Museum der ägyptischen Altertürner zu Kairo. – Vossische Zeitung, Berlin, Sonntagsbeilage 22. Juli, und Sphinx, Revue Critique, Upsala 4(2): 105-110.  
+(317) 	Einige von der freien Natur Südwest-Afrikas dem Naturmenschen dargebotene vegetabilische Nahrungsmittel. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1900: 354-359.  
+(318) 	Ägyptische und arabische Untersuchungen. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1900: 94-95.  
  
 #### 1901
-(319) 	Am westlichen Rande des Niltals zwischen Farschut und Korn-Ombo. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 47: 1-10.
-(320) 	Originalkarte des Niltals von Farschut bis Kom•Ombo, 1: 400000. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 47: Tafel I.
-(321) 	Über die Kultur der Dattelpalmen. Gartenflora 50: 506-522.
-(322) 	Die Dattelpalme und ihre Aussichten in Deutsch-Südwest-Afrika. – Deutsche Kolonialzeitung, Berlin, 18(7): 61-62, (8): 69-70.
-(323) 	Veränderungen des Vegetationscharakters durch den Menschen. – Umschau, Frankfurt a. M. 5(43): 841-843.
-(324) 	The flora of the desert surrounding Heluan. – In: Page-May, Heluan and the Egyptian Desert, London, Sect. III, S. 16-38.
-(325) 	Über Westafrikanische Figuren aus Talkschiefer. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1901: 329-330.
+(319) 	Am westlichen Rande des Niltals zwischen Farschut und Korn-Ombo. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 47: 1-10.  
+(320) 	Originalkarte des Niltals von Farschut bis Kom•Ombo, 1: 400000. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 47: Tafel I.  
+(321) 	Über die Kultur der Dattelpalmen. Gartenflora 50: 506-522.  
+(322) 	Die Dattelpalme und ihre Aussichten in Deutsch-Südwest-Afrika. – Deutsche Kolonialzeitung, Berlin, 18(7): 61-62, (8): 69-70.  
+(323) 	Veränderungen des Vegetationscharakters durch den Menschen. – Umschau, Frankfurt a. M. 5(43): 841-843.  
+(324) 	The flora of the desert surrounding Heluan. – In: Page-May, Heluan and the Egyptian Desert, London, Sect. III, S. 16-38.  
+(325) 	Über Westafrikanische Figuren aus Talkschiefer. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1901: 329-330.  
  
 #### 1902
-(326) 	Über 5 Ägypten behandelnde Werke von Bréhier, Char-Roux, Foustan, Fraas und Willcocks. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 48(Literaturbericht Nr.182-184, 186, 188): 55-58.
-(327) 	Ägyptische Bewässerungspläne. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 48: 187-189.
-(328) 	Zur Kenntnis des ägyptischen Landes und Volkes. – Baedeker, Ägypten, ed. 5, xliii-lxiv.
-(329) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel X,a und X,b (für Nr. IX). Die Wüstenregion zwischen Nil und Rotem Meer nördlich von der Qeneh-Qosser-Strasse in zwei Blättern, 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
-(330) 	Skizze des Gebirges bei Theben, 1: 10000. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1902: t. II.
-(331) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel VII. Die Wüstenregion zwischen Nil und Uadi-Qeneh von der Wasserscheide zwischen Nil und Rotem Meer bis Assiut, östliche Hälfte. 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
-(332) 	Sur la culture du palmier dattier . – Revue des Cultures Coloniales 10: 83-88, 175-178, 244 -247, 299-303.
-(333) 	Mitteilung an Prof. R. Virchow (Ring yon Brocatelle). – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1902: 98-100.
-(334) 	Über palaeolithische Kieselartefakte von Theben mit zweifacher Bearbeitung. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1902: 261-262.
-(335) 	Kieselartefakte in der diluvialen Schotter-Terrasse und auf den Plateau-Höhen von Theben. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1902: 293-308, t. X-XII.
-(336) 	Besprechung von Keane, The Gold of Ophir. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49( Literaturber. Nr. 332): 100-101.
+(326) 	Über 5 Ägypten behandelnde Werke von Bréhier, Char-Roux, Foustan, Fraas und Willcocks. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 48(Literaturbericht Nr.182-184, 186, 188): 55-58.  
+(327) 	Ägyptische Bewässerungspläne. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 48: 187-189.  
+(328) 	Zur Kenntnis des ägyptischen Landes und Volkes. – Baedeker, Ägypten, ed. 5, xliii-lxiv.  
+(329) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel X,a und X,b (für Nr. IX). Die Wüstenregion zwischen Nil und Rotem Meer nördlich von der Qeneh-Qosser-Strasse in zwei Blättern, 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).  
+(330) 	Skizze des Gebirges bei Theben, 1: 10000. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1902: t. II.  
+(331) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel VII. Die Wüstenregion zwischen Nil und Uadi-Qeneh von der Wasserscheide zwischen Nil und Rotem Meer bis Assiut, östliche Hälfte. 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).  
+(332) 	Sur la culture du palmier dattier . – Revue des Cultures Coloniales 10: 83-88, 175-178, 244 -247, 299-303.  
+(333) 	Mitteilung an Prof. R. Virchow (Ring yon Brocatelle). – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1902: 98-100.  
+(334) 	Über palaeolithische Kieselartefakte von Theben mit zweifacher Bearbeitung. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1902: 261-262.  
+(335) 	Kieselartefakte in der diluvialen Schotter-Terrasse und auf den Plateau-Höhen von Theben. – Zeitschrift für Ethnologie: Verhandlungen der Berliner Anthropologischen Gesellschaft 1902: 293-308, t. X-XII.  
+(336) 	Besprechung von Keane, The Gold of Ophir. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49( Literaturber. Nr. 332): 100-101.  
  
 #### 1903
-(337) 	Über Fuller, Egypt and the Hinterland, und 2 Werke von Ball und Beadnell (über die Geologie der Oasen). – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49(Literaturbericht Nr. 416-419): 124-125.
-(338) 	Bemerkung zum Briefe von A. Chevalier aus Französisch-Congo. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1903: 434-438.
-(339) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel VIII. Die Wüstenregion zwischen Nil und Uadi-Qeneh von der Wasserscheide zwischen Nil und Rotem Meer bis Assiut, westliche Hälfte. Tafel VIII. 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
-(340) 	Besprechung von Blanckenhorn, Geologie Ägyptens, und von Werken und Aufsätzen von Blanckenhorn, Barron, Hume, Beadnell, Chantre und Stanley Lane-Poole. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49(Literaturbericht): Nr. 715, 716, 718-722, S. 201-203.
-(341) 	Ägyptische Tierbilder als Kieselartelakte. – Umschau, Frankfurt a.M. 6(41): 804-806.
-(342) 	Figures d'animaux fabriquées en silex provenant d'Egypte. – Revue de l'Ecole d'Anthropologie, Paris 13(11): 395-396.
-(343) 	Brief an Prof. v. Luschan (aus Luksor). – Zeitschrift für Ethnologie 1903(2): 504-507.
-(344) 	Steinzeitliche Forschungen in Ober-Ägypten. – Zeitschrift für Ethnologie 1903(5): 798-822, t. XIII-XIV.
-(345) 	Besprechung von C. Peters, Im Goldlande des Altertums. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49 Literaturber. Nr. 770, S. 214-215.
+(337) 	Über Fuller, Egypt and the Hinterland, und 2 Werke von Ball und Beadnell (über die Geologie der Oasen). – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49(Literaturbericht Nr. 416-419): 124-125.  
+(338) 	Bemerkung zum Briefe von A. Chevalier aus Französisch-Congo. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1903: 434-438.  
+(339) 	Aufnahmen in der östlichen Wüste von Ägypten. Tafel VIII. Die Wüstenregion zwischen Nil und Uadi-Qeneh von der Wasserscheide zwischen Nil und Rotem Meer bis Assiut, westliche Hälfte. Tafel VIII. 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).  
+(340) 	Besprechung von Blanckenhorn, Geologie Ägyptens, und von Werken und Aufsätzen von Blanckenhorn, Barron, Hume, Beadnell, Chantre und Stanley Lane-Poole. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49(Literaturbericht): Nr. 715, 716, 718-722, S. 201-203.  
+(341) 	Ägyptische Tierbilder als Kieselartelakte. – Umschau, Frankfurt a.M. 6(41): 804-806.  
+(342) 	Figures d'animaux fabriquées en silex provenant d'Egypte. – Revue de l'Ecole d'Anthropologie, Paris 13(11): 395-396.  
+(343) 	Brief an Prof. v. Luschan (aus Luksor). – Zeitschrift für Ethnologie 1903(2): 504-507.  
+(344) 	Steinzeitliche Forschungen in Ober-Ägypten. – Zeitschrift für Ethnologie 1903(5): 798-822, t. XIII-XIV.  
+(345) 	Besprechung von C. Peters, Im Goldlande des Altertums. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 49 Literaturber. Nr. 770, S. 214-215.  
  
 #### 1904
-(346) 	Wissenschaftliche Ergebnisse der Expedition von Dr. H. O. Forbes nach Sokotra. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 50: 200-202.
-(347) 	Über 3 Werke von Métin, Reitemeyer und Fenn. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 50(Literaturbericht, Afrika, Nr. 424-426).
-(348) 	Die Umgegend von Schaghab und el-Kab. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1904: 574-593, t. 14.
-(349) 	Nachrichten von der Kongo-Uganda-Grenze. – Vossische Zeitung, Berlin, 3. April, 23. Juni und Nr. 413, 3. Sept.
-(350) 	Das älteste Herbarium der Welt. – Vossische Zeitung, Berlin, 25. Nov.
-(351) 	Kulturversuche in Togo. – Deutsche Kolonial-Zeitung, Berlin, 14. Juli, S. 275-276.
-(352) 	Das Wunderpferd. – Umschau, Frankfurt a. M. 8(35): 681-682.
-(353) 	Steinzeitliche Forschungen in Ober-Ägypten. – Zeitschrift für Ethnologie 1904(6): 766-825, t. VI.
-(354) 	Ein neuentdeckter Tempel in Theben. – Zeitschrift für ägyptische Sprache und Altertumskunde 21: 22-25.
-(355) 	Die Wiederaufnahme des alten Goldminenbetriebes in Ägypten und Nubien. – Vossische Zeitung, Berlin, 22. und 26. Mai, 25. und 26. Nov. 1903 und Annales du Service des Antiquités Egyptiennes, le Caire 1904: 1-31. .
-(356) 	Der grosse Statuenfund von Karnak. – Vossische Zeitung, Berlin, 27. Sept., Nr. 453.
-(357) 	Eine ägyptische Knallpeitsche "Fergille". – Zeitschrift für Ethnologie 36: 517-519.
-(358) 	Kulturversuche in Toga. – Deutsche Kolonialzeitung 21(28): 275-276.
-(359) 	Erinnerungen an Bernhard Fiedler. – Tägliche Rundschau, Berlin, Nr. 186, Unterhaltungsbeilage, S. 748.
+(346) 	Wissenschaftliche Ergebnisse der Expedition von Dr. H. O. Forbes nach Sokotra. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 50: 200-202.  
+(347) 	Über 3 Werke von Métin, Reitemeyer und Fenn. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 50(Literaturbericht, Afrika, Nr. 424-426).  
+(348) 	Die Umgegend von Schaghab und el-Kab. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1904: 574-593, t. 14.  
+(349) 	Nachrichten von der Kongo-Uganda-Grenze. – Vossische Zeitung, Berlin, 3. April, 23. Juni und Nr. 413, 3. Sept.  
+(350) 	Das älteste Herbarium der Welt. – Vossische Zeitung, Berlin, 25. Nov.  
+(351) 	Kulturversuche in Togo. – Deutsche Kolonial-Zeitung, Berlin, 14. Juli, S. 275-276.  
+(352) 	Das Wunderpferd. – Umschau, Frankfurt a. M. 8(35): 681-682.  
+(353) 	Steinzeitliche Forschungen in Ober-Ägypten. – Zeitschrift für Ethnologie 1904(6): 766-825, t. VI.  
+(354) 	Ein neuentdeckter Tempel in Theben. – Zeitschrift für ägyptische Sprache und Altertumskunde 21: 22-25.  
+(355) 	Die Wiederaufnahme des alten Goldminenbetriebes in Ägypten und Nubien. – Vossische Zeitung, Berlin, 22. und 26. Mai, 25. und 26. Nov. 1903 und Annales du Service des Antiquités Egyptiennes, le Caire 1904: 1-31. .  
+(356) 	Der grosse Statuenfund von Karnak. – Vossische Zeitung, Berlin, 27. Sept., Nr. 453.  
+(357) 	Eine ägyptische Knallpeitsche "Fergille". – Zeitschrift für Ethnologie 36: 517-519.  
+(358) 	Kulturversuche in Toga. – Deutsche Kolonialzeitung 21(28): 275-276.  
+(359) 	Erinnerungen an Bernhard Fiedler. – Tägliche Rundschau, Berlin, Nr. 186, Unterhaltungsbeilage, S. 748.  
  
 #### 1905
-(360) 	Esquisse de la partie Sud-ouest de la montagne de Thèbes. 1: 10000. – In: Dr. Lortet et C.Cailllard, la Faune momifiée de l'ancienne Egypte, IIme série , Lyon.
-(361) 	Der Taumellolch in altägyptischen Gräbern. Abdr. nach Voss. Zeit., 21. Juli 1904. – Annales du Service des Antiquités Egyptiennes, le Caire 1905: 1-6.
-(362) 	Mit Ludwig Diels: Vegetationstypen aus der Kolonie Eritrea. – Vegetationsbilder, herausgegeben von Dr. G. Karsten und Dr. H. Schenk, Jena, 2. Reihe, Heft 8 und 4. Reihe, Heft 2.
-(363) 	Das neue Museum der belgischen Wirbeltiere (Salle des vertébrés belges) in Brüssel. – Die Woche, Berlin, 19. Nov.
-(364) 	Recherches sur l'age de la pierre dans la haute Egypte. – Annales du Service des Antiquités Egyptiennes, le Caire 1905: 9-64.
-(365) 	Prähistorische Kjökkenmöddinger auf der Insel Riou bei Marseille. – Vossische Zeitung, Berlin, 415, 5. Sept.
-(366) 	Über unerklärte Kieselmanufakte von Theben. – Zeitschrift für Ethnologie 37: 622-624.
-(367) 	Pseudoeolithe im nordischen Geschiebemergel. – Zeitschrift für Ethnologie 37: 912-915.
-(368) 	Der Besuch der Zwergneger in England. – Vossische Zeitung, Berlin, 8. Juni.
+(360) 	Esquisse de la partie Sud-ouest de la montagne de Thèbes. 1: 10000. – In: Dr. Lortet et C.Cailllard, la Faune momifiée de l'ancienne Egypte, IIme série , Lyon.  
+(361) 	Der Taumellolch in altägyptischen Gräbern. Abdr. nach Voss. Zeit., 21. Juli 1904. – Annales du Service des Antiquités Egyptiennes, le Caire 1905: 1-6.  
+(362) 	Mit Ludwig Diels: Vegetationstypen aus der Kolonie Eritrea. – Vegetationsbilder, herausgegeben von Dr. G. Karsten und Dr. H. Schenk, Jena, 2. Reihe, Heft 8 und 4. Reihe, Heft 2.  
+(363) 	Das neue Museum der belgischen Wirbeltiere (Salle des vertébrés belges) in Brüssel. – Die Woche, Berlin, 19. Nov.  
+(364) 	Recherches sur l'age de la pierre dans la haute Egypte. – Annales du Service des Antiquités Egyptiennes, le Caire 1905: 9-64.  
+(365) 	Prähistorische Kjökkenmöddinger auf der Insel Riou bei Marseille. – Vossische Zeitung, Berlin, 415, 5. Sept.  
+(366) 	Über unerklärte Kieselmanufakte von Theben. – Zeitschrift für Ethnologie 37: 622-624.  
+(367) 	Pseudoeolithe im nordischen Geschiebemergel. – Zeitschrift für Ethnologie 37: 912-915.  
+(368) 	Der Besuch der Zwergneger in England. – Vossische Zeitung, Berlin, 8. Juni.  
  
 #### 1906
-(369) 	Mit A. Aaronsohn: Die Auffindung des wilden Emmers (Triticum dicoccum) in Nord-Palästina. – Altneuland 3(7-8): 216-220.
-(370) 	Die Entdeckung des wilden Urweizens in Palästina. – Vossische Zeitung, Berlin, 21. Sept. und Annales du Service des Antiquités Egyptiennes, le Caire, S. 193-204.
-(371) 	Deutsch-französisches Wörterverzeichnis der die Steinzeit betreffenden Literatur. Lexique français-allemand des termes employés, dans la littérature traitant de l'age de la pierre. – Als Mssr. gedr., W. Pormetter, Berlin, S.1-78.
-(372) 	Lettre à Mr. G. Patiri. – La Difesa, Termini-Imerese, 1. Febr., und Bullettino di paletnologia italiana, ser. 4, 3: 179-180.
-(373) 	Brief aus Tunis über den Knochenfund von Metlaui. – Zeitschrift für Ethnologie 38: 733-736.
-(374) 	Über die Radierungen van Hugo Ulbrich. – Vossische Zeitung, Berlin, 5. Aug. und Schlesische Zeit., Breslau, Nr. 834, 24. Nov.
-(375) 	Ein grosser Silberfund aus der XIX. Dyn. – Vossische Zeitung, Berlin, 23. Dez.
-(376) 	Der Torfmull und seine Bedeutung für den Verkehr mit den Tropen. – Deutsche Kolonialzeitung 23(33): 322-323.
+(369) 	Mit A. Aaronsohn: Die Auffindung des wilden Emmers (Triticum dicoccum) in Nord-Palästina. – Altneuland 3(7-8): 216-220.  
+(370) 	Die Entdeckung des wilden Urweizens in Palästina. – Vossische Zeitung, Berlin, 21. Sept. und Annales du Service des Antiquités Egyptiennes, le Caire, S. 193-204.  
+(371) 	Deutsch-französisches Wörterverzeichnis der die Steinzeit betreffenden Literatur. Lexique français-allemand des termes employés, dans la littérature traitant de l'age de la pierre. – Als Mssr. gedr., W. Pormetter, Berlin, S.1-78.  
+(372) 	Lettre à Mr. G. Patiri. – La Difesa, Termini-Imerese, 1. Febr., und Bullettino di paletnologia italiana, ser. 4, 3: 179-180.  
+(373) 	Brief aus Tunis über den Knochenfund von Metlaui. – Zeitschrift für Ethnologie 38: 733-736.  
+(374) 	Über die Radierungen van Hugo Ulbrich. – Vossische Zeitung, Berlin, 5. Aug. und Schlesische Zeit., Breslau, Nr. 834, 24. Nov.  
+(375) 	Ein grosser Silberfund aus der XIX. Dyn. – Vossische Zeitung, Berlin, 23. Dez.  
+(376) 	Der Torfmull und seine Bedeutung für den Verkehr mit den Tropen. – Deutsche Kolonialzeitung 23(33): 322-323.  
  
 #### 1907
-(377) 	Kartenskizze der Umgegend von Gafsa in Süd-Tunesien. 1: 100000. – Zeitschrift für Ethnologie 39: 147.
-(378) 	Steinzeitliche Forschungen in Süd-Tunesien. – Zeitschrift für Ethnologie 39: 139-181.
-(379) 	Das Höhlenpaläolithikum von Sizilien und Süd-Tunesien. – Zeitschrift für Ethnologie 39: 832-915, t. X-XI.
-(380) 	Eolithe im belgischen Oligocän. – Vossische Zeitung, Berlin 495, 22. Okt.
-(381) 	Von ägyptischen Grabungen, das Grab der Königin Tiji. – Vossische Zeitung, Berlin, 25. März.
-(382) 	Von ägyptischen Grabungen. – Vossische Zeitung, Berlin, 13. Febr., Nr. 73.
-(383) 	Von ägyptischen Grabungen, Luksor, 15. März. – Vossische Zeitung, Berlin, 22. März.
-(384) 	Von ägyptischen Grabungen, Tempel Mentuhotep Ill. – Vossische Zeitung, Berlin, 29. Aug., Nr.149.
-(385) 	Ägyptische Relikten im äthiopischen Süden. – Vossische Zeitung, Berlin, 30. Juni, und Annales du Service des Antiquités Egyptiennes, le Caire S.184-191 .
-(386) 	Zum hundertjährigen Gedenktage des Bombardements von Kopenhagen. Alexandriner Erinnerungen an den 11. Juli 1882. – Rigasche Zeitung, Nr. 197, 25. Aug. ).
+(377) 	Kartenskizze der Umgegend von Gafsa in Süd-Tunesien. 1: 100000. – Zeitschrift für Ethnologie 39: 147.  
+(378) 	Steinzeitliche Forschungen in Süd-Tunesien. – Zeitschrift für Ethnologie 39: 139-181.  
+(379) 	Das Höhlenpaläolithikum von Sizilien und Süd-Tunesien. – Zeitschrift für Ethnologie 39: 832-915, t. X-XI.  
+(380) 	Eolithe im belgischen Oligocän. – Vossische Zeitung, Berlin 495, 22. Okt.  
+(381) 	Von ägyptischen Grabungen, das Grab der Königin Tiji. – Vossische Zeitung, Berlin, 25. März.  
+(382) 	Von ägyptischen Grabungen. – Vossische Zeitung, Berlin, 13. Febr., Nr. 73.  
+(383) 	Von ägyptischen Grabungen, Luksor, 15. März. – Vossische Zeitung, Berlin, 22. März.  
+(384) 	Von ägyptischen Grabungen, Tempel Mentuhotep Ill. – Vossische Zeitung, Berlin, 29. Aug., Nr.149.  
+(385) 	Ägyptische Relikten im äthiopischen Süden. – Vossische Zeitung, Berlin, 30. Juni, und Annales du Service des Antiquités Egyptiennes, le Caire S.184-191 .  
+(386) 	Zum hundertjährigen Gedenktage des Bombardements von Kopenhagen. Alexandriner Erinnerungen an den 11. Juli 1882. – Rigasche Zeitung, Nr. 197, 25. Aug. ).  
  
 #### 1908
-(387) 	Die Kultur des Urweizens von Palästina. – Palästina. Monatsschrift für die wirtschaftliche Erschliessung Palästinas 5: 184-186.
-(388) 	Über die von A. Aaronsohn ausgeführten Nachforschungen nach dem wilden Emmer (Triticum dicoccoides). – Berichte der Deutschen Botanischen Gesellschaft 26a: 310-324.
-(389) 	Über die Pflanzenreste der Gräber des Mittleren Reiches zu Abusir. – In: H. Schäfer, Priestergräber, Leipzig, S. 152-164.
-(390) 	Brief aus Biskra an Geh.-R. Prof. Lissauer, Über das Problem eines libyschen Ammonskults. – Zeitschrift für Ethnologie 1908: 88-95.
-(391) 	Nilstauwerke und durch sie bedrohte Denkmäler. – Vossische Zeitung, Berlin, 28. Juli, und Annales du Service des Antiquités Egyptiennes, le Caire S. 162-171.
+(387) 	Die Kultur des Urweizens von Palästina. – Palästina. Monatsschrift für die wirtschaftliche Erschliessung Palästinas 5: 184-186.  
+(388) 	Über die von A. Aaronsohn ausgeführten Nachforschungen nach dem wilden Emmer (Triticum dicoccoides). – Berichte der Deutschen Botanischen Gesellschaft 26a: 310-324.  
+(389) 	Über die Pflanzenreste der Gräber des Mittleren Reiches zu Abusir. – In: H. Schäfer, Priestergräber, Leipzig, S. 152-164.  
+(390) 	Brief aus Biskra an Geh.-R. Prof. Lissauer, Über das Problem eines libyschen Ammonskults. – Zeitschrift für Ethnologie 1908: 88-95.  
+(391) 	Nilstauwerke und durch sie bedrohte Denkmäler. – Vossische Zeitung, Berlin, 28. Juli, und Annales du Service des Antiquités Egyptiennes, le Caire S. 162-171.  
  
 #### 1909
-(392) 	Karte der westlichen Umgebung von Luksor und Karnak (Theben) in 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).
-(393) 	Was Afrika Amerika zu verdanken hat. – Vossische Zeitung, Berlin, 30. Nov.
-(394) 	Über altpaläolithische Manufakte aus dem Sandsteingebiet von Oberägypten. – Zeitschrift für Ethnologie 1909: 735-744.
+(392) 	Karte der westlichen Umgebung von Luksor und Karnak (Theben) in 1: 200000. – Berlin: Dietrich Reimer (Ernst Vohsen).  
+(393) 	Was Afrika Amerika zu verdanken hat. – Vossische Zeitung, Berlin, 30. Nov.  
+(394) 	Über altpaläolithische Manufakte aus dem Sandsteingebiet von Oberägypten. – Zeitschrift für Ethnologie 1909: 735-744.  
  
 #### 1910
-(395) 	Grosse Erfolge der Baumwollenkultur in Algerien. – Vossische Zeitung, Berlin, Nr. 307, 3. Juli.
-(396) 	Bemerkungen zu Fr. Stuhlmann, »Beitrage zur Kulturgeschichte von Ost-Afrika«. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1910(1-3): l-55.
-(397) 	Über die Bedeutung der »Kulturgeschichte«. – Botanische Jahrbücher 45(2): 28-38.
-(398) 	Le quartier des villas Romaines du vieil Hippone à Bone. – Le Reveil Bonois, 9. Nov.
-(399) 	Aus dem römischen Villenviertel des alten Hippone. – Die Woche, Berlin, Nr. 30, S. 1266-1272 .
+(395) 	Grosse Erfolge der Baumwollenkultur in Algerien. – Vossische Zeitung, Berlin, Nr. 307, 3. Juli.  
+(396) 	Bemerkungen zu Fr. Stuhlmann, »Beitrage zur Kulturgeschichte von Ost-Afrika«. – Zeitschrift der Gesellschaft für Erdkunde zu Berlin 1910(1-3): l-55.  
+(397) 	Über die Bedeutung der »Kulturgeschichte«. – Botanische Jahrbücher 45(2): 28-38.  
+(398) 	Le quartier des villas Romaines du vieil Hippone à Bone. – Le Reveil Bonois, 9. Nov.  
+(399) 	Aus dem römischen Villenviertel des alten Hippone. – Die Woche, Berlin, Nr. 30, S. 1266-1272 .  
  
 #### 1911
-(400) 	Über 3 Werke von H.K.W. Kumm, W. Pietsch und A. Wade. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 57(2): 287 und 288.
-(401) 	Besprechung von A. Engler, Die Pflanzenwelt Afrikas. – Deutsche Kolonialzeitung, Berlin, S. 587-589.
-(402) 	Mit R. Muschler: Convolvulus trabutianus n. sp. – Feddes Repertorium 9: 566.
-(403) 	Mit R. Muschler: Lifago, ein neues Genus der Compositen. – Botanische Jahrbücher 46(4): 428-430.
-(404) 	I1 giardino Coloniale di Palermo e la colonisazzione della Libia, lettera al Prof. Borzi. – Bolletino del Orto Botanico, Palermo 10: 121-126.
+(400) 	Über 3 Werke von H.K.W. Kumm, W. Pietsch und A. Wade. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 57(2): 287 und 288.  
+(401) 	Besprechung von A. Engler, Die Pflanzenwelt Afrikas. – Deutsche Kolonialzeitung, Berlin, S. 587-589.  
+(402) 	Mit R. Muschler: Convolvulus trabutianus n. sp. – Feddes Repertorium 9: 566.  
+(403) 	Mit R. Muschler: Lifago, ein neues Genus der Compositen. – Botanische Jahrbücher 46(4): 428-430.  
+(404) 	I1 giardino Coloniale di Palermo e la colonisazzione della Libia, lettera al Prof. Borzi. – Bolletino del Orto Botanico, Palermo 10: 121-126.  
  
 1912
-(405) 	Über Artin Paseha Jakub, England in the Sudan. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 1912(1): 167
-(406) 	Eine Reise zu den Sellussia. – Ägyptische Nachrichten, Cairo, 26. März, und Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 1912(2): 59-60.
-(407) 	Per il progresso agricolo della Tripolitania (lettera al Prof. Borzi). – Giornale di Sicilia, Palermo, 19.-20. Febr.
-(408) 	Über alte Tierbilder und Felsinschriften bei Assuan. – Zeitschrift für Ethnologie 1912: 627-658.
-(409) 	Besprechung von F. Stuhlmann, "Handwerk und Industrie in Ostafrika". – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 1912(1): 27-28.
-(410) 	Arabische Pflanzennamen aus Ägypten, Algerien und Jemen. – Berlin: Dietr. Reimer (Ernst Vohsen), S. 1-232.
-(411) 	Per il progresso agricolo della Tripolitania, lettera, Cairo, Febr. – Giornale di Sicilia, Palermo, 19. u. 20. Febr.
+(405) 	Über Artin Paseha Jakub, England in the Sudan. – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 1912(1): 167  
+(406) 	Eine Reise zu den Sellussia. – Ägyptische Nachrichten, Cairo, 26. März, und Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 1912(2): 59-60.  
+(407) 	Per il progresso agricolo della Tripolitania (lettera al Prof. Borzi). – Giornale di Sicilia, Palermo, 19.-20. Febr.  
+(408) 	Über alte Tierbilder und Felsinschriften bei Assuan. – Zeitschrift für Ethnologie 1912: 627-658.  
+(409) 	Besprechung von F. Stuhlmann, "Handwerk und Industrie in Ostafrika". – Petermann's Mitteilungen aus Justus Perthes' Geographischer Anstalt 1912(1): 27-28.  
+(410) 	Arabische Pflanzennamen aus Ägypten, Algerien und Jemen. – Berlin: Dietr. Reimer (Ernst Vohsen), S. 1-232.  
+(411) 	Per il progresso agricolo della Tripolitania, lettera, Cairo, Febr. – Giornale di Sicilia, Palermo, 19. u. 20. Febr.  
  
 #### 1913
-(412) 	Verzeichnis der Pflanzen. – In; Dr. E. Harter, Expedition to the Central Western Sahara. aus "Novitates Zoologicae", Tring-Museum 20: 145-163.
-(413) 	Das Problem des dem Gotte Seth geheiligten Tiers. – Berliner Tageblatt, Nr. 415, 17. Aug. und Umschau Frankfurt a. M.
+(412) 	Verzeichnis der Pflanzen. – In; Dr. E. Harter, Expedition to the Central Western Sahara. aus "Novitates Zoologicae", Tring-Museum 20: 145-163.  
+(413) 	Das Problem des dem Gotte Seth geheiligten Tiers. – Berliner Tageblatt, Nr. 415, 17. Aug. und Umschau Frankfurt a. M.  
  
 #### 1914
-(414) 	Von Riga ins Land der Mangbettu. Fragment einer Selbstbiographie. – In: "Berühmte Autoren des Verlages F. A. Brockhaus", Leipzig, S. 76-80.
-(415) 	Dr. Reno Muschlers Fälschungen. – Verhandlungen des Botanischen Vereins der Provinz Brandenburg 56: 170-175.
-(416) 	Mittelalterliche Fayenceöfen bei Kairo. – Vossische Zeitung, Berlin, 3. Juni.
-(417) 	Wie England in den Besitz von Ägypten kam. – Vossische Zeitung, Berlin, Sonntagsbeilage, 4.Okt.
-(418) 	Was wird aus Ägypten? – Berliner Tageblatt, 11. Nov.
+(414) 	Von Riga ins Land der Mangbettu. Fragment einer Selbstbiographie. – In: "Berühmte Autoren des Verlages F. A. Brockhaus", Leipzig, S. 76-80.  
+(415) 	Dr. Reno Muschlers Fälschungen. – Verhandlungen des Botanischen Vereins der Provinz Brandenburg 56: 170-175.  
+(416) 	Mittelalterliche Fayenceöfen bei Kairo. – Vossische Zeitung, Berlin, 3. Juni.  
+(417) 	Wie England in den Besitz von Ägypten kam. – Vossische Zeitung, Berlin, Sonntagsbeilage, 4.Okt.  
+(418) 	Was wird aus Ägypten? – Berliner Tageblatt, 11. Nov.  
  
 #### 1915
-(419) 	Vom beliebten und vom unbeliebten Deutschen. – Süddeutsche Monatshefte, München, Angust, S. 769-786.
+(419) 	Vom beliebten und vom unbeliebten Deutschen. – Süddeutsche Monatshefte, München, Angust, S. 769-786.  
  
 #### 1916
-(420) 	Eduard Hahn, "Von der Hacke zum Pflug". – Deutsche Literaturzeitung 37, Nr. 28.
-(421) 	Spaziergänge im Verlagsbuchhandel. – Börsenblatt für den deutschen Buchhandel, Leipzig, 29. Dez.
-(422) 	Im Herzen von Afrika, ed. 3. – Leipzig: Brockhaus. . – Leipzig: Brockhaus.
-Spätere deutsche Ausgaben : 1984, Stuttgart: Erdmann.
-(429) 	Bemerkungen über die Wasserbauten Aegyptens. – Beiträge zur Naturdenkmalpflege 9(2): 288–294.
-(430) 	Auf unbetretenen Wegen in Aegypten. Aus eigenen verschollenen Ahhandlungen und Aufzeichnungen. – Berlin & Hamburg: Hoffman und Campe.
-(431) 	Was Afrika an Kulturpflanzen Amerika zu verdanken hat und was es ihm gab. – In: Festschrift Eduard Seler zum 70. Geburtstag, S. 503–542.
+(420) 	Eduard Hahn, "Von der Hacke zum Pflug". – Deutsche Literaturzeitung 37, Nr. 28.  
+(421) 	Spaziergänge im Verlagsbuchhandel. – Börsenblatt für den deutschen Buchhandel, Leipzig, 29. Dez.  
+(422) 	Im Herzen von Afrika, ed. 3. – Leipzig: Brockhaus. . – Leipzig: Brockhaus.  
+Spätere deutsche Ausgaben : 1984, Stuttgart: Erdmann.  
+(429) 	Bemerkungen über die Wasserbauten Aegyptens. – Beiträge zur Naturdenkmalpflege 9(2): 288–294.  
+(430) 	Auf unbetretenen Wegen in Aegypten. Aus eigenen verschollenen Ahhandlungen und Aufzeichnungen. – Berlin & Hamburg: Hoffman und Campe.  
+(431) 	Was Afrika an Kulturpflanzen Amerika zu verdanken hat und was es ihm gab. – In: Festschrift Eduard Seler zum 70. Geburtstag, S. 503–542.  
  
 ### 1923
-(432) 	Plantas mexicanas en el herbario más antiguo deI mundo. – In: Der Kolonial-Deutsche, Edición especial para México. Berlin, p. 6–7.
+(432) 	Plantas mexicanas en el herbario más antiguo deI mundo. – In: Der Kolonial-Deutsche, Edición especial para México. Berlin, p. 6–7.  
  
 #### 1924
-(433) 	"Zum Geleit", Vorwort. – In: Keimer, Ludwig, Die Gartenpflanzen im alten Aegypten. Aegyptologisehe Studien, p. Vll-IX.
-(434) 	Prof. Georg Schweinfurth und die aegyptiscbe Frage. Zwei Briefe von Prof. Schweinfurt. – Stimmen des Orients 1924(11/12): 293–297.
+(433) 	"Zum Geleit", Vorwort. – In: Keimer, Ludwig, Die Gartenpflanzen im alten Aegypten. Aegyptologisehe Studien, p. Vll-IX.  
+(434) 	Prof. Georg Schweinfurth und die aegyptiscbe Frage. Zwei Briefe von Prof. Schweinfurt. – Stimmen des Orients 1924(11/12): 293–297.  
  
 #### 1925
-(435) 	Der unglücklichste Tag meines Lebens. – In: Die Welt in Wort und Bild, Ferdinands Hirts Sach-Lesehefte, 2. Erdkunde. Heft 5: Entdecker und Forscher. Breslau: Ferdinand Hirt.
-(436) 	An der Küste des Roten Meeres. – In: Wege zum Wissen. Berlin: Ullstein.
-(437) 	Afrikanisches Skizzenbuch, Verschollene Merkwürdigkeiten. – Berlin: Deutsche Buchgemeinschaft. [Aufsatzsammlung, mit einer Autobiographie S.9–24 und Nachdrucken der 12 früher erschienenen Artikel (82), (113), (12), (223)+(153), (262), (274), (283), (399), (385), (308), (355) in einem Band.
+(435) 	Der unglücklichste Tag meines Lebens. – In: Die Welt in Wort und Bild, Ferdinands Hirts Sach-Lesehefte, 2. Erdkunde. Heft 5: Entdecker und Forscher. Breslau: Ferdinand Hirt.  
+(436) 	An der Küste des Roten Meeres. – In: Wege zum Wissen. Berlin: Ullstein.  
+(437) 	Afrikanisches Skizzenbuch, Verschollene Merkwürdigkeiten. – Berlin: Deutsche Buchgemeinschaft. [Aufsatzsammlung, mit einer Autobiographie S.9–24 und Nachdrucken der 12 früher erschienenen Artikel (82), (113), (12), (223)+(153), (262), (274), (283), (399), (385), (308), (355) in einem Band.  
  
 #### 1926
-(438) 	Discours prononcé au Caire a la séance d'inauguration le 2 Juin 1875. – Bulletin de la Société Royale de Géographie d'Ègypte 14: 113–127.
-(439) 	Über wild gesammelte Arten von Reis in Afrika (Briefe an A. Maurizio aus dem Jahre 1916). – Berichte der Deutschen Botanischen Gesellschaft 44: 165-167.
+(438) 	Discours prononcé au Caire a la séance d'inauguration le 2 Juin 1875. – Bulletin de la Société Royale de Géographie d'Ègypte 14: 113–127.  
+(439) 	Über wild gesammelte Arten von Reis in Afrika (Briefe an A. Maurizio aus dem Jahre 1916). – Berichte der Deutschen Botanischen Gesellschaft 44: 165-167.  
 
 [^1]: [Wikipedia: Georg August Schweinfurth](https://www.wikidata.org/wiki/Q63126)
