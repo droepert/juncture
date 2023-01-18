@@ -114,7 +114,7 @@ Others are selectable using icons displayed in the top right margin of the parag
        time-dimension
        time-interval="-008000/"
        duration="P10000Y"
-       max-zoom="4"
+       max-zoom="5"
        date-format="YYYY-MM-DD"
        auto-play="true"
        auto-fit="false"
@@ -125,7 +125,7 @@ Others are selectable using icons displayed in the top right margin of the parag
        fill="blue" 
        fill-opacity="1">
 <param ve-map-layer geojson
-       title="Worlds most populated cities"
+       title="Schweinfurth"
        url="map-time.json">
 
 
