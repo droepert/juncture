@@ -35,6 +35,7 @@ Von Georg Schweinfuhrt befinden sich auch zahlreiche handgeschriebene Schriftst�
 Schweinfurth vermochte auch als hervorragender Zeichner die Forschungsobjekte seiner ungewöhnlich breiten wissenschaftlichen Betätigung ebenso ansprechend wie instruktiv abzubilden. Schon zu Lebzeiten überließ Schweinfurth dem Botanischen Garten und Botanischen Museum Berlin-Dahlem seine in vier Foliobänden gebundene Sammlung botanischer Zeichnungen. Während des 2. Weltkrieges wurden diese zusammen mit kostbaren alten Abbildungswerken der Bibliothek und besonders wertvollen Teilen des Herbars in Stollen der Kali-Werke Bleicherode-Ost bei Nordhausen ausgelagert und überstanden so die Vernichtung von Herbar und Bibliothek durch Bombentreffer im März 1943. Allerdings erlitt ein Teil der ausgelagerten Bücherkisten, darunter auch die mit Schweinfurths Zeichnungen, im Depot starke Wasserschäden mit anschließendem Pilzbefall [Pilger 1953: 29](https://www.bgbm.org/sites/default/files/documents/3995179.pdf). Zum Trocknen und Reinigen wurden die Zeichnungen aus den Foliobänden gelöst und, soweit nicht komplett zerstört, seither als Einzelblätter aufbewahrt.
 Im Rahmen eines vom „Fördererkreis der naturwissenschaftlichen Museen Berlins e.V.“ finanzierten Projektes wurden die 624 erhaltenen Blätter, viele davon in fragilem Zustand, inventarisiert, digitalisiert, wissenschaftlich bearbeitet und hier zugänglich gemacht.
 <param ve-iframe src="https://iiif.bgbm.org/?manifest=https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/Schweinfurth-all.json">
+
 ### Forschungsreisen
 
 Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, andere in öffentlichen oder privaten Gärten, seltener in Herbarien oder zu Hause entstanden. Das von ihm lang ersehnte Afrika betrat Schweinfurth erstmals im Dezember 1863, kurz vor seinem 27. Geburtstag, im ägyptischen Alexandria. Ein halbes Jahrhundert lang, von 1864 bis 1914, unternahm er von da an zahlreiche Forschungsreisen im Nordosten des Kontinentes, in Ägypten und im Sudan, in Eritrea, dem Südsudan und nordöstlichen Kongo. Weitere Reisen führten ihn nach Algerien und Tunesien, in den Libanon, in den Jemen und auf den Sokotra-Archipel vor der Ostspitze Afrikas. Schweinfurth gründete nie eine eigene Familie und zog, durch ein regelmäßiges Einkommen aus der Familienstiftung in Riga finanziell versorgt, ein Leben als Privatgelehrter einer Universitätskarriere vor. Derart ungebunden konnte er nicht nur von 1873 bis 1888 seinen festen Wohnsitz in Kairo nehmen, sondern auch bis zum Ausbruch des ersten Weltkrieges regelmäßig im Winterhalbjahr von Kairo aus die Region bereisen, „um dann bei zunehmender Wärme allmählich über Kairo, Italien, Frankreich und Belgien nach Norden zu ziehen, wobei er überall seine zahllosen Bekannten und Freunde traf. Nur den Hochsommer brachte er in Berlin zu, von wo aus er seine Heimatstadt Riga besuchte, worauf im Herbst mit den Zugvögeln eine entsprechende Rückreise erfolgte.“ (Stromer 1926).
@@ -104,8 +105,7 @@ Multiple viewers may be defined for a single paragraph of text.  The first viewe
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-knightlab-timeline source="1Lk_5JZWWkWkZPitKTsEk0kDqVri-L3TGY2Yr4-0sobQ">
 
-### References
-
+### Map-Time
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-map 
@@ -113,7 +113,7 @@ Others are selectable using icons displayed in the top right margin of the parag
        time-dimension
        time-interval="-008000/"
        duration="P10000Y"
-       max-zoom="5"
+       max-zoom="1"
        date-format="YYYY-MM-DD"
        auto-play="true"
        auto-fit="false"
@@ -127,5 +127,6 @@ Others are selectable using icons displayed in the top right margin of the parag
        title="Schweinfurth"
        url="map-time.json">
 
+### References
 
 [^1]: [Wikipedia: Georg August Schweinfurth](https://www.wikidata.org/wiki/Q63126)
