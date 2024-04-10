@@ -52,7 +52,7 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 ##### 1
 Ägyptische und sudanesische Küste des Roten Meeres: Kosseir bis Suakin und Küstengebirge, Arabische Wüste: 1864, 1865–1866, 1868, 1876, 1880
 <param ve-map title="Ägypten" center="26.4381, 33.8436" zoom="6">
-<param ve-map geojson active title="Ägypten" url="map1.json">
+<param ve-map geojson active title="Ägypten" url="/geojson/map1.json">
 
 ##### 2
 Nildelta, ägyptische Mittelmeerküste und Cyrenaika: 1864, 1883, 1887, 1890
