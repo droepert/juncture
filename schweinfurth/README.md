@@ -36,11 +36,6 @@ Schweinfurth vermochte auch als hervorragender Zeichner die Forschungsobjekte se
 Im Rahmen eines vom „Fördererkreis der naturwissenschaftlichen Museen Berlins e.V.“ finanzierten Projektes wurden die 624 erhaltenen Blätter, viele davon in fragilem Zustand, inventarisiert, digitalisiert, wissenschaftlich bearbeitet und hier zugänglich gemacht.
 <param ve-iframe id="all drawings" src="https://iiif.bgbm.org/?manifest=https://iiif.bgbm.org/manifests/personen/schweinfurth-collection/v2/Schweinfurth-all.json">
 
-### Sammlung botanischer Zeichnungen (Erste 10)
-
-Hier werden die ersten zehn Zeichnungen von Schweinfurth mit allen dazugehörigen Annotationen vorgestellt.
-<param ve-iframe id="first 10" src="https://iiif.bgbm.org/?manifest=https://dev.gdmrdigital.com/manifests/1245635613/55244760/2ccdd185c20c709b10dc7290363120e7.json">
-
 ### Forschungsreisen
 
 Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, andere in öffentlichen oder privaten Gärten, seltener in Herbarien oder zu Hause entstanden. Das von ihm lang ersehnte Afrika betrat Schweinfurth erstmals im Dezember 1863, kurz vor seinem 27. Geburtstag, im ägyptischen Alexandria. Ein halbes Jahrhundert lang, von 1864 bis 1914, unternahm er von da an zahlreiche Forschungsreisen im Nordosten des Kontinentes, in Ägypten und im Sudan, in Eritrea, dem Südsudan und nordöstlichen Kongo. Weitere Reisen führten ihn nach Algerien und Tunesien, in den Libanon, in den Jemen und auf den Sokotra-Archipel vor der Ostspitze Afrikas. Schweinfurth gründete nie eine eigene Familie und zog, durch ein regelmäßiges Einkommen aus der Familienstiftung in Riga finanziell versorgt, ein Leben als Privatgelehrter einer Universitätskarriere vor. Derart ungebunden konnte er nicht nur von 1873 bis 1888 seinen festen Wohnsitz in Kairo nehmen, sondern auch bis zum Ausbruch des ersten Weltkrieges regelmäßig im Winterhalbjahr von Kairo aus die Region bereisen, „um dann bei zunehmender Wärme allmählich über Kairo, Italien, Frankreich und Belgien nach Norden zu ziehen, wobei er überall seine zahllosen Bekannten und Freunde traf. Nur den Hochsommer brachte er in Berlin zu, von wo aus er seine Heimatstadt Riga besuchte, worauf im Herbst mit den Zugvögeln eine entsprechende Rückreise erfolgte.“ (Stromer 1926).
@@ -57,42 +52,42 @@ Georg Schweinfurths Pflanzenzeichnungen sind meist auf seinen Forschungsreisen, 
 ##### 2
 Nildelta, ägyptische Mittelmeerküste und Cyrenaika: 1864, 1883, 1887, 1890
 <param ve-map title="Ägyptische-Mittelmeerküste" center="30.9419, 29.6403" zoom="6">
-<param ve-map geojson active title="Ägyptische-Mittelmeerküste" url="map2.json">
+<param ve-map geojson active title="Ägyptische-Mittelmeerküste" url="/geojson/map2.geojson">
 
 ##### 3
 Ägypten, Libysche Wüste: Oasen El-Chargeh: 1874; Faiyum: 1879, 1887
 <param ve-map title="Libysche-Wüste"  center="27.7439, 30.7464" zoom="7">
-<param ve-map geojson active title="Libysche-Wüste" url="map3.json">
+<param ve-map geojson active title="Libysche-Wüste" url="/geojson/map3.json">
 
 ##### 4
 Oberägypten: Assiut bis Assuan: 1882, 1893, 1901–1902, 1909
 <param ve-map title="Oberägypten" center="25.9631, 32.4636" zoom="6">
-<param ve-map geojson active title="Oberägypten" url="map4.json">
+<param ve-map geojson active title="Oberägypten" url="/geojson/map4.json">
 
 ##### 5
 Sudan: Gallabat, Gedaref, Khartum: 1865–1866, 1868–1869, 1871
 <param ve-map title="Sudan" center="14.7789, 34.6729" zoom="6">
-<param ve-map geojson active title="Sudan" url="map5.json">
+<param ve-map geojson active title="Sudan" url="/geojson/map5.json">
 
 ##### 6
 Südsudan: Stromgebiet des Bahr-el-Ghasal, Land der Djur, Land der Bongo und Land der Niamniam: 1869, 1870, 1871; Kongo: Munsa: 1870
 <param ve-map title="Südsudan" center="7.4033, 30.4781" zoom="6">
-<param ve-map geojson active title="Südsudan" url="map6.json">
+<param ve-map geojson active title="Südsudan" url="/geojson/map6.json">
 
 ##### 7
 Eritrea: Keren, Ghinda, Gheleb, Saati, Akrur, Saganeiti: 1891, 1892, 1894
 <param ve-map title="Eritrea" center="15.7053, 38.8734" zoom="6">
-<param ve-map geojson active title="Eritrea" url="map7.json">
+<param ve-map geojson active title="Eritrea" url="/geojson/map7.json">
 
 ##### 8
 Jemen: Aden bis El-Hami, Menacha, Walledje, Uossil: 1881, 1888–1889
 <param ve-map title="Jemen" center="13.6484, 45.3295" zoom="6">
-<param ve-map geojson active title="Jemen" url="map8.json">
+<param ve-map geojson active title="Jemen" url="/geojson/map8.json">
 
 ##### 9
 Jemen, Sokotra: 1881
 <param ve-map title="Sokotra" center="12.4903, 53.8141" zoom="7">
-<param ve-map geojson active title="Sokotra" url="map9.json">
+<param ve-map geojson active title="Sokotra" url="/geojson/map9.json">
 
 ##### 10
 Libanon: Libanon-Gebirge und Bekaa-Ebene: 1880
